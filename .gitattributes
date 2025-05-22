@@ -1,5 +1,13 @@
 venv/* linguist-vendored
-*.py linguist-detectable=true
-*.ts linguist-detectable=true
-*.html linguist-detectable=true
-*.css linguist-detectable=true
+instance/* linguist-vendored
+backend/* linguist-vendored
+*.json linguist-vendored
+
+# Priorizar arquivos Angular
+*.ts linguist-detectable=true linguist-language=TypeScript
+*.html linguist-detectable=true linguist-language=HTML
+*.scss linguist-detectable=true linguist-language=SCSS
+*.css linguist-detectable=true linguist-language=CSS
+
+# Reduzir a detecção de Python
+*.py linguist-detectable=false
