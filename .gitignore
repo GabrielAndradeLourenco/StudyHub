@@ -1,0 +1,13 @@
+# Node / Angular
+node_modules/
+dist/
+.angular/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Outros
+.DS_Store
