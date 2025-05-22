@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}StudyHub{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    {% block head_extra %}{% endblock %} {# Para estilos CSS específicos da página, se necessário #}
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><a href="{{ url_for('index') }}" class="header-link">StudyHub - ExamTopics Prep</a></h1>
+            <nav style="text-align: center; margin-bottom: 15px; padding-top:10px;">
+                {% if request.endpoint != 'index' %} {# Não mostra 'Home' na própria home page #}
+                    <a href="{{ url_for('index') }}" class="btn btn-sm btn-outline-secondary">Home</a>
+                {% endif %}
+                
+                <a href="{{ url_for('start_new_study') }}" class="btn btn-sm btn-primary">Novo Estudo</a>
+                
+                <a href="{{ url_for('my_study_sessions') }}" class="btn btn-sm btn-outline-secondary">Meu Histórico</a>
+            </nav>
+        </header>
+        <main>
+            {# Bloco para Flash Messages usando classes CSS #}
+            {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    <div class="flash-messages" style="margin-bottom: 15px;">
+                    {% for category, message in messages %}
+                        {# Define a classe base e a classe específica da categoria #}
+                        {% set flash_category = category if category else 'info' %}
+                        <div class="flash-message-base flash-{{ flash_category }}">
+                            {{ message }}
+                        </div>
+                    {% endfor %}
+                    </div>
+                {% endif %}
+            {% endwith %}
+
+            {% block content %}{% endblock %}
+        </main>
+        <footer>
+            <p>© {{ now.year }} Seu StudyHub Pessoal</p>
+        </footer>
+    </div>
+    {% block scripts_extra %}{% endblock %} {# Para scripts JS específicos da página #}
+</body>
+</html>

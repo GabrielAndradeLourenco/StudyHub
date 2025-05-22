@@ -1,0 +1,307 @@
+{% extends "base.html" %}
+
+{% block title %}Questão {{ question_index + 1 }} - StudyHub{% endblock %}
+
+{% block head_extra %}
+<style>
+    .question-block { margin-bottom: 30px; padding-bottom: 20px; }
+    h2.question-title { color: #2c3e50; border-bottom: 1px solid #ccc; padding-bottom: 5px; margin-top: 10px;}
+    h3.section-title { color: #34495e; margin-top: 20px; }
+    ul.options-list { list-style-type: none; padding-left: 0; }
+    ul.options-list li { 
+        background-color: #f9f9f9; border: 1px solid #eee; 
+        margin-bottom: 8px; padding: 12px 15px; border-radius: 4px; 
+        cursor: pointer; transition: background-color 0.2s ease-in-out;
+    }
+    /* Estilo para quando o mouse passa por cima de uma opção AINDA NÃO processada */
+    ul.options-list li:not(.processed):hover { 
+        background-color: #e9e9e9; 
+    }
+    /* Estilo para opção selecionada pelo usuário ANTES da submissão */
+    ul.options-list li.user-selected:not(.processed) {
+        background-color: #cfe2ff !important; /* Azul claro para seleção pendente */
+        border-color: #b6d4fe !important;
+    }
+    .enunciado-html img { max-width: 100%; height: auto; border: 1px solid #ddd; padding: 4px; border-radius: 4px; margin-top: 10px; margin-bottom:10px; }
+    .enunciado-html pre { background-color: #f0f0f0; padding: 15px; border: 1px solid #ccc; border-radius: 4px; white-space: pre-wrap; word-wrap: break-word; font-family: monospace; }
+    
+    /* Estilos APÓS submissão */
+    ul.options-list li.user-correct { background-color: #d4edda !important; border-color: #c3e6cb !important; color: #155724 !important; font-weight: bold; }
+    ul.options-list li.user-incorrect { background-color: #f8d7da !important; border-color: #f5c6cb !important; color: #721c24 !important; }
+    ul.options-list li.actual-correct { border: 2px solid #28a745 !important; } /* Para a resposta correta real */
+    ul.options-list li.processed { cursor: default; } /* Desabilita cursor de clique */
+    
+    .navigation-links { margin-top: 20px; display: flex; justify-content: space-between; align-items: center; }
+    .feedback-message { font-style: italic; margin-top: 10px; padding: 10px; border-radius: 4px; display: none; } /* Será controlado por JS */
+    .feedback-message.correct { color: #155724; background-color: #d4edda; border: 1px solid #c3e6cb;}
+    .feedback-message.incorrect { color: #721c24; background-color: #f8d7da; border: 1px solid #f5c6cb;}
+    .feedback-message.no-answer { color: #0c5460; background-color: #d1ecf1; border: 1px solid #bee5eb;} /* Usado para avisos também */
+    .feedback-message.already-answered { color: #495057; background-color: #e2e3e5; border: 1px solid #d6d8db;}
+
+    .previously-answered-note {
+        font-size: 0.9em;
+        color: #555;
+        margin-bottom: 15px;
+        padding: 8px;
+        background-color: #f0f0f0;
+        border-left: 3px solid #007bff;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+    <div class="question-block" id="q-block-{{ question_index }}">
+        <h2 class="question-title">Questão {{ question_index + 1 }} de {{ total_questions }}</h2>
+        <p><small>ID Original: {{ question.id_original_json if question.id_original_json is not none else 'N/A' }} | Sessão de Estudo ID: {{ current_test_session_id }} |
+            <a href="{{ question.url_original if question.url_original else '#' }}" target="_blank" rel="noopener noreferrer">Ver no ExamTopics</a></small>
+        </p>
+        
+        <h3 class="section-title">Enunciado:</h3>
+        <div class="enunciado-html">
+            {{ question.enunciado_html | safe if question.enunciado_html else '<p><em>Enunciado não disponível.</em></p>' }}
+        </div>
+
+        {% if question.opcoes %}
+            {# Determina o número de respostas a serem selecionadas para esta questão #}
+            {% set num_to_select_from_question = question.num_answers_to_select if (question.num_answers_to_select is defined and question.num_answers_to_select > 0) else 1 %}
+            <h3 class="section-title">Opções: (Selecione {{ num_to_select_from_question }}):</h3>
+            
+            {# Mostra a resposta anterior, se houver para ESTA SESSÃO #}
+            {% if previous_response %} {# previous_response é o objeto UserResponse da sessão atual #}
+                <div class="previously-answered-note">
+                    Você já respondeu esta questão nesta sessão em {{ previous_response.timestamp.strftime('%d/%m/%Y %H:%M') }}.
+                    Sua(s) resposta(s) foi(ram): <strong>{{ previous_response_letters|join(', ') if previous_response_letters else 'N/A' }}</strong>.
+                    {% if previous_response.is_correct %}
+                        <span style="color: green; font-weight: bold;">(Correto)</span>
+                    {% else %}
+                        <span style="color: red; font-weight: bold;">(Incorreto)</span>
+                        {% if question.resposta_sugerida_letra and question.resposta_sugerida_letra|string|trim != "" %}
+                            A(s) resposta(s) sugerida(s) pela comunidade era(m): {{ question.resposta_sugerida_letra }}.
+                        {% endif %}
+                    {% endif %}
+                </div>
+            {% endif %}
+
+            {% set unique_id_suffix = question.id_original_json if question.id_original_json is not none else question_index %}
+            {# Passa os dados necessários para o JavaScript via atributos data-* #}
+            <ul class="options-list" id="options-list-{{ unique_id_suffix }}" 
+                data-correct-letter-attr="{{ question.resposta_sugerida_letra if (question.resposta_sugerida_letra and question.resposta_sugerida_letra|string|trim != '') else '' }}" 
+                data-question-id-original-attr="{{ question.id_original_json if question.id_original_json is not none else ('idx_' ~ question_index) }}"
+                data-num-select-attr="{{ num_to_select_from_question }}">
+                {% for opt in question.opcoes %}
+                    <li data-option-letter="{{ opt.letra }}" 
+                        {% if previous_response %} {# Se já respondida, aplica classes de resultado do servidor #}
+                            class="processed 
+                            {% if previous_response_letters and opt.letra in previous_response_letters %}
+                                {% if previous_response.is_correct %}user-correct{% else %}user-incorrect{% endif %}
+                            {% endif %}
+                            {% if question.resposta_sugerida_letra and question.resposta_sugerida_letra|string|trim != "" and opt.letra in question.resposta_sugerida_letra %}actual-correct{% endif %}"
+                        {% endif %}
+                        >
+                        <strong>{{ opt.letra_raw }}</strong> {{ opt.texto }}
+                    </li>
+                {% endfor %}
+            </ul>
+            <div id="feedback-msg-options-list-{{ unique_id_suffix }}" class="feedback-message"></div>
+        {% else %}
+            <p><em>Nenhuma opção disponível para esta questão.</em></p>
+        {% endif %}
+    </div>
+
+    <div class="navigation-links">
+        {% if question_index > 0 %}
+            <a href="{{ url_for('show_question', question_idx=question_index-1) }}" class="btn btn-secondary">« Anterior</a>
+        {% else %}
+            <span> </span> {# Placeholder para manter o layout #}
+        {% endif %}
+        
+        <a href="{{ url_for('finish_study') }}" class="btn btn-info">Finalizar Estudo Atual</a>
+
+        {% if question_index < total_questions - 1 %}
+            <a href="{{ url_for('show_question', question_idx=question_index+1) }}" class="btn btn-primary">Próxima »</a>
+        {% else %}
+             <span> </span>
+        {% endif %}
+    </div>
+{% endblock %}
+
+{% block scripts_extra %}
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const questionBlock = document.querySelector('.question-block');
+        if (!questionBlock) {
+            console.error("Bloco da questão não encontrado.");
+            return;
+        }
+
+        const optionsUl = questionBlock.querySelector('.options-list');
+        const feedbackMsgDiv = questionBlock.querySelector('.feedback-message');
+
+        if (!optionsUl) {
+            console.warn("Elemento optionsUl não encontrado.");
+            return;
+        }
+
+        const questionIdOriginal = optionsUl.dataset.questionIdOriginalAttr;
+        const numAnswersToSelect = parseInt(optionsUl.dataset.numSelectAttr, 10) || 1;
+        const correctAnswerSuggestedAttr = optionsUl.dataset.correctLetterAttr || ""; // Gabarito, ex: "AD" ou "A"
+
+        let selectedLettersByUser = [];
+        
+        // Checa se a questão já foi respondida (determinado pelo backend via classe 'processed' no primeiro <li>)
+        const isAlreadyAnswered = optionsUl.querySelector('li.processed') !== null;
+        if (isAlreadyAnswered) {
+            optionsUl.classList.add('js-answered-in-session'); // Marca para JS
+        }
+
+
+        const optionItems = optionsUl.querySelectorAll('li');
+        optionItems.forEach(li => {
+            if (isAlreadyAnswered) { // Se já respondida, não adiciona listeners de clique
+                return;
+            }
+
+            li.addEventListener('click', () => {
+                if (optionsUl.classList.contains('js-answered-in-session')) {
+                    return; // Não permite mudar resposta após submissão
+                }
+
+                const clickedLetter = li.dataset.optionLetter;
+                const isCurrentlySelected = li.classList.contains('user-selected');
+
+                if (isCurrentlySelected) {
+                    li.classList.remove('user-selected');
+                    selectedLettersByUser = selectedLettersByUser.filter(l => l !== clickedLetter);
+                } else {
+                    if (selectedLettersByUser.length < numAnswersToSelect) {
+                        li.classList.add('user-selected');
+                        selectedLettersByUser.push(clickedLetter);
+                    } else {
+                        if (numAnswersToSelect === 1) { // Seleção única: substitui a anterior
+                            optionsUl.querySelectorAll('li.user-selected').forEach(selLi => selLi.classList.remove('user-selected'));
+                            li.classList.add('user-selected');
+                            selectedLettersByUser = [clickedLetter];
+                        } else { // Múltipla seleção, mas limite atingido
+                            showTemporaryFeedback(`Você só pode selecionar ${numAnswersToSelect} opção(ões).`, 'no-answer');
+                            return; // Impede a seleção desta opção
+                        }
+                    }
+                }
+
+                // Submete automaticamente se o número correto de opções for atingido
+                if (selectedLettersByUser.length === numAnswersToSelect) {
+                    submitAndProcessAnswer(selectedLettersByUser);
+                }
+            });
+        });
+
+        function showTemporaryFeedback(message, type = 'no-answer', duration = 3000) {
+            if (feedbackMsgDiv) {
+                feedbackMsgDiv.textContent = message;
+                feedbackMsgDiv.className = `feedback-message ${type}`; // Usar as classes de flash
+                feedbackMsgDiv.style.display = 'block';
+                setTimeout(() => { feedbackMsgDiv.style.display = 'none'; }, duration);
+            }
+        }
+
+        async function submitAndProcessAnswer(chosenAnswersList) {
+            if (optionsUl.classList.contains('js-answered-in-session')) return;
+            optionsUl.classList.add('js-answered-in-session'); // Marca que esta interação está sendo processada
+
+            // Desabilita cliques futuros em todas as opções
+            optionItems.forEach(optLi => {
+                optLi.classList.add('processed');
+                // Remove a classe de seleção temporária visual
+                if (!chosenAnswersList.includes(optLi.dataset.optionLetter)) {
+                    optLi.classList.remove('user-selected');
+                }
+            });
+
+            try {
+                const response = await fetch("{{ url_for('submit_answer') }}", {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        question_id_original: questionIdOriginal,
+                        chosen_letters: chosenAnswersList // Envia a lista de letras
+                    }),
+                });
+
+                const result = await response.json(); // Tenta parsear mesmo em erro para pegar msg
+
+                if (!response.ok) {
+                    let errorMsg = result.message || `Erro do servidor: ${response.status}`;
+                    if (response.status === 409) { // Conflito - já respondida (pouco provável com a flag js-answered)
+                        errorMsg = result.message || "Esta questão já foi respondida nesta sessão.";
+                        feedbackMsgDiv.className = 'feedback-message already-answered';
+                        // Reaplicar estilos com base na resposta do servidor
+                        applyServerFeedbackStyles(result.is_correct, result.correct_answer_was, result.previous_user_answers || chosenAnswersList);
+                    } else {
+                        feedbackMsgDiv.className = 'feedback-message incorrect';
+                    }
+                    feedbackMsgDiv.textContent = errorMsg;
+                    feedbackMsgDiv.style.display = 'block';
+                    return;
+                }
+                
+                // Sucesso na submissão
+                if (result.success) {
+                    applyServerFeedbackStyles(result.is_correct, result.correct_answer_was, chosenAnswersList);
+                    
+                    feedbackMsgDiv.style.display = 'block';
+                    if (!result.correct_answer_was || result.correct_answer_was === "") {
+                        feedbackMsgDiv.textContent = 'Sua resposta foi registrada. (Gabarito da comunidade não fornecido/parseado).';
+                        feedbackMsgDiv.className = 'feedback-message no-answer';
+                    } else if (result.is_correct) {
+                        feedbackMsgDiv.textContent = 'Correto!';
+                        feedbackMsgDiv.className = 'feedback-message correct';
+                    } else {
+                        feedbackMsgDiv.textContent = `Incorreto. Resposta(s) sugerida(s) pela comunidade: ${result.correct_answer_was}.`;
+                        feedbackMsgDiv.className = 'feedback-message incorrect';
+                    }
+                } else { // result.success == false, mas HTTP OK (caso raro)
+                    feedbackMsgDiv.textContent = "Erro ao salvar: " + (result.message || "Falha desconhecida.");
+                    feedbackMsgDiv.className = 'feedback-message incorrect';
+                    feedbackMsgDiv.style.display = 'block';
+                }
+
+            } catch (error) {
+                console.error('Erro na requisição fetch ou processamento:', error);
+                if (feedbackMsgDiv) {
+                    feedbackMsgDiv.textContent = "Erro de comunicação ou processamento.";
+                    feedbackMsgDiv.className = 'feedback-message incorrect';
+                    feedbackMsgDiv.style.display = 'block';
+                }
+            }
+        }
+
+        function applyServerFeedbackStyles(isOverallCorrect, serverCorrectStr, userChosenList) {
+            const serverCorrectLettersSet = new Set((serverCorrectStr || "").split(''));
+
+            optionItems.forEach(optLi => {
+                const optLetter = optLi.dataset.optionLetter;
+                optLi.classList.remove('user-selected'); // Limpa seleção visual temporária
+
+                // Marca as opções corretas do gabarito
+                if (serverCorrectLettersSet.has(optLetter)) {
+                    optLi.classList.add('actual-correct');
+                }
+
+                // Marca as opções escolhidas pelo usuário
+                if (userChosenList.includes(optLetter)) {
+                    if (isOverallCorrect) { // Se o conjunto TODO foi correto
+                        optLi.classList.add('user-correct');
+                    } else {
+                        // Se o conjunto não foi 100% correto, verifica esta opção individualmente
+                        if (serverCorrectLettersSet.has(optLetter)) {
+                            optLi.classList.add('user-correct'); // Usuário acertou esta parte
+                        } else {
+                            optLi.classList.add('user-incorrect'); // Usuário errou esta parte
+                        }
+                    }
+                }
+            });
+        }
+    });
+</script>
+{% endblock %}

@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block title %}Meu Histórico de Estudos - StudyHub{% endblock %}
+
+{% block content %}
+    <h2>Meu Histórico de Estudos</h2>
+
+    {% if sessions %}
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>Data da Sessão</th>
+                    <th>Status</th>
+                    <th>Questões Respondidas</th>
+                    <th>Acertos</th>
+                    <th>Score (%)</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for session_item in sessions %}
+                    <tr>
+                        <td>{{ session_item.timestamp.strftime('%d/%m/%Y %H:%M') }}</td>
+                        <td>
+                            {% if session_item.status == 'completed' %}
+                                <span style="color: green;">Concluída</span>
+                            {% elif session_item.status == 'in_progress' %}
+                                <span style="color: orange;">Em Progresso</span>
+                            {% elif session_item.status == 'abandoned' %}
+                                <span style="color: gray;">Abandonada</span>
+                            {% else %}
+                                {{ session_item.status | capitalize }}
+                            {% endif %}
+                        </td>
+                        <td>{{ session_item.total_questions_in_session if session_item.total_questions_in_session is not none else 'N/A' }}</td>
+                        <td>{{ session_item.correct_answers_in_session if session_item.correct_answers_in_session is not none else 'N/A' }}</td>
+                        <td>
+                            {% if session_item.status == 'completed' and session_item.score_percentage is not none %}
+                                {{ "%.2f"|format(session_item.score_percentage) }}%
+                            {% elif session_item.status == 'in_progress' %}
+                                 - 
+                            {% else %}
+                                Não Aplicável
+                            {% endif %}
+                        </td>
+                        <td>
+                            {% if session_item.status == 'in_progress' and session_item.id == current_in_progress_session_id %}
+                                <a href="{{ url_for('resume_study') }}" class="btn btn-sm btn-warning">Continuar</a>
+                            {% endif %}
+                            {% if session_item.total_questions_in_session is not none and session_item.total_questions_in_session > 0 or session_item.status == 'completed' %}
+                                <a href="{{ url_for('show_session_results', session_id=session_item.id) }}" class="btn btn-sm btn-info">Ver Detalhes</a>
+                            {% endif %}
+                            <form action="{{ url_for('delete_session', session_id=session_item.id) }}" method="POST" style="display: inline;" onsubmit="return confirm('Tem certeza que deseja excluir esta sessão de estudo? Esta ação não pode ser desfeita.');">
+                                <button type="submit" class="btn btn-sm btn-danger">Excluir</button>
+                            </form>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        <p>Você ainda não completou nenhuma sessão de estudo.</p>
+    {% endif %}
+
+    <p style="margin-top: 20px;"><a href="{{ url_for('start_new_study') }}" class="btn btn-primary">Iniciar Novo Estudo</a></p>
+{% endblock %}
+
+{% block head_extra %}
+<style>
+    .results-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    .results-table th, .results-table td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+    .results-table th { background-color: #f2f2f2; }
+    .results-table tbody tr:nth-child(even) { background-color: #f9f9f9; }
+</style>
+{% endblock %}
