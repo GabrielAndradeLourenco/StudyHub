@@ -1,0 +1,55 @@
+<div class="container" *ngIf="question">
+  <div class="question-block">
+    <div class="navigation-info mb-3">
+      <span class="badge bg-secondary">Questão {{ questionIndex + 1 }} de {{ totalQuestions }}</span>
+    </div>
+
+    <h2 class="question-title">{{ question.titulo_original }}</h2>
+    
+    <div class="enunciado-html" [innerHTML]="question.enunciado_html"></div>
+    
+    <h3 class="section-title">Opções:</h3>
+    <div class="options-list">
+      <div *ngFor="let option of question.opcoes" 
+           class="option-item"
+           [class.selected]="isSelected(option.letra)"
+           [class.user-correct]="isAnswered && isCorrect && isSelected(option.letra)"
+           [class.user-incorrect]="isAnswered && !isCorrect && isSelected(option.letra)"
+           [class.actual-correct]="isAnswered && correctAnswer.includes(option.letra)"
+           [class.processed]="isAnswered"
+           (click)="toggleOption(option.letra)">
+        <div class="option-letter">{{ option.letra }}</div>
+        <div class="option-text">{{ option.texto }}</div>
+      </div>
+    </div>
+
+    <div *ngIf="feedbackMessage" class="feedback-message mt-3" 
+         [class.correct]="isCorrect === true"
+         [class.incorrect]="isCorrect === false"
+         [class.already-answered]="isAnswered && !isCorrect">
+      {{ feedbackMessage }}
+    </div>
+
+    <div class="navigation-links mt-4">
+      <button *ngIf="questionIndex > 0" (click)="previousQuestion()" class="btn btn-outline-secondary">
+        &laquo; Anterior
+      </button>
+      
+      <button *ngIf="!isAnswered" (click)="submitAnswer()" class="btn btn-primary">
+        Responder
+      </button>
+      
+      <button *ngIf="isAnswered" (click)="nextQuestion()" class="btn btn-primary">
+        Próxima &raquo;
+      </button>
+      
+      <button (click)="finishStudy()" class="btn btn-warning ms-2">
+        Finalizar Estudo
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="container" *ngIf="!question">
+  <p>Carregando questão...</p>
+</div>

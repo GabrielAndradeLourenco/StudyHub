@@ -1,0 +1,45 @@
+<div class="home-container">
+  <div class="welcome-section">
+    <h2>Bem-vindo ao seu StudyHub!</h2>
+    
+    <div *ngIf="numTotalQuestions > 0" class="study-options">
+      <p class="lead">Prepare-se para os seus exames com nosso banco de <strong>{{ numTotalQuestions }}</strong> questões.</p>
+      <hr>
+      <div class="action-buttons">
+        <button (click)="startNewStudy()" class="btn btn-success btn-lg me-2">
+          <i class="bi bi-play-circle"></i> Iniciar Novo Estudo
+        </button>
+        
+        <button *ngIf="inProgressSession" (click)="resumeStudy()" class="btn btn-warning btn-lg me-2">
+          <i class="bi bi-arrow-clockwise"></i> Continuar Estudo ({{ inProgressSession.timestamp | date:'dd/MM HH:mm' }})
+        </button>
+
+        <button (click)="viewStudySessions()" class="btn btn-info btn-lg">
+          <i class="bi bi-clock-history"></i> Ver Meu Histórico de Estudos
+        </button>
+      </div>
+    </div>
+    
+    <div *ngIf="numTotalQuestions === 0" class="no-questions-alert">
+      <div class="alert alert-warning">
+        <h4 class="alert-heading">Nenhuma questão encontrada!</h4>
+        <p>Não foi possível encontrar questões no arquivo <code>questoes_processadas.json</code>.</p>
+        <hr>
+        <p>Você pode tentar executar o scraper para buscar as questões:</p>
+        <button (click)="runScraper()" class="btn btn-secondary">
+          <i class="bi bi-cloud-download"></i> Executar Scraper Agora
+        </button>
+        <p class="mt-2"><small>(Nota: Isso pode demorar. Certifique-se que o scraper está configurado.)</small></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="stats-section mt-4">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title">Estatísticas Gerais</h4>
+        <p class="card-text"><em>Recurso de estatísticas globais em desenvolvimento.</em></p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,18 @@
+<div class="app-container">
+  <header class="header">
+    <h1><a routerLink="/" class="header-link">StudyHub - ExamTopics Prep</a></h1>
+    <nav class="text-center mb-3 pt-2">
+      <a routerLink="/" class="btn btn-sm btn-outline-secondary me-2">Home</a>
+      <a routerLink="/" (click)="$event.preventDefault(); startNewStudy()" class="btn btn-sm btn-primary me-2">Novo Estudo</a>
+      <a routerLink="/study-sessions" class="btn btn-sm btn-outline-secondary">Meu Histórico</a>
+    </nav>
+  </header>
+
+  <main>
+    <router-outlet></router-outlet>
+  </main>
+
+  <footer class="footer">
+    <p>© {{ currentYear }} Seu StudyHub Pessoal</p>
+  </footer>
+</div>
