@@ -1,6 +1,1 @@
-import { bootstrapApplication } from '@angular/platform-browser';
-import { appConfig } from './app/app.config';
-import { AppComponent } from './app/app.component';
-
-bootstrapApplication(AppComponent, appConfig)
-  .catch((err) => console.error(err));
+import { bootstrapApplication } from '@angular/platform-browser';\nimport { appConfig } from './app/app.config';\nimport { AppComponent } from './app/app.component';\nimport { environment } from './environments/environment';\n\n// Forçar o uso do ambiente de produção quando não estiver em desenvolvimento\nif (environment.production) {\n  console.log('Executando em ambiente de produção');\n  // Garantir que o ambiente de produção seja usado\n}\n\nbootstrapApplication(AppComponent, appConfig)\n  .catch((err) => console.error(err));\n
