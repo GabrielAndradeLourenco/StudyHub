@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://studyhub-backend.onrender.com' // URL do backend no Render
+  apiUrl: 'https://studyhub-backend-vr4x.onrender.com' // URL correta do backend no Render
 };
