@@ -215,6 +215,13 @@ def get_current_session():
 
 @app.route('/api/start-new-study', methods=['POST'])
 def start_new_study():
+    data = request.get_json()
+    start_question_idx = data.get('start_question_idx', 0) if data else 0
+    
+    # Validar o índice da questão
+    if not (0 <= start_question_idx < len(ALL_QUESTIONS_DATA)):
+        return jsonify({"error": "Índice de questão inválido"}), 400
+    
     # Finaliza qualquer sessão em progresso
     existing_session = TestSession.query.filter_by(status='in_progress').first()
     if existing_session:
@@ -224,11 +231,11 @@ def start_new_study():
             existing_session.status = 'abandoned'
             db.session.commit()
     
-    # Cria uma nova sessão
+    # Cria uma nova sessão com o índice de questão especificado
     new_session = TestSession(
         timestamp=datetime.utcnow(), 
         status='in_progress', 
-        last_question_idx_viewed=0
+        last_question_idx_viewed=start_question_idx
     )
     db.session.add(new_session)
     db.session.commit()

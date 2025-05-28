@@ -16,8 +16,8 @@ export class StudySessionService {
     return this.http.get<StudySession | null>(`${this.apiUrl}/current-session`);
   }
 
-  startNewStudy(): Observable<StudySession> {
-    return this.http.post<StudySession>(`${this.apiUrl}/start-new-study`, {});
+  startNewStudy(startQuestionIdx: number = 0): Observable<StudySession> {
+    return this.http.post<StudySession>(`${this.apiUrl}/start-new-study`, { start_question_idx: startQuestionIdx });
   }
 
   resumeStudy(): Observable<StudySession> {

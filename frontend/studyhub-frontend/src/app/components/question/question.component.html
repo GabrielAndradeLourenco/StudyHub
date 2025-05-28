@@ -32,24 +32,27 @@
 
     <div class="navigation-links mt-4">
       <button *ngIf="questionIndex > 0" (click)="previousQuestion()" class="btn btn-outline-secondary">
-        &laquo; Anterior
+        <i class="bi bi-arrow-left"></i> Anterior
       </button>
       
       <button *ngIf="!isAnswered" (click)="submitAnswer()" class="btn btn-primary">
-        Responder
+        <i class="bi bi-check-circle"></i> Responder
       </button>
       
       <button *ngIf="isAnswered" (click)="nextQuestion()" class="btn btn-primary">
-        Próxima &raquo;
+        Próxima <i class="bi bi-arrow-right"></i>
       </button>
       
-      <button (click)="finishStudy()" class="btn btn-warning ms-2">
-        Finalizar Estudo
+      <button (click)="finishStudy()" class="btn btn-warning">
+        <i class="bi bi-flag"></i> Finalizar
       </button>
     </div>
   </div>
 </div>
 
 <div class="container" *ngIf="!question">
-  <p>Carregando questão...</p>
+  <div class="loading-container">
+    <div class="spinner"></div>
+    <p>Carregando questão...</p>
+  </div>
 </div>

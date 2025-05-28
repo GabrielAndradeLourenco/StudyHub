@@ -6,16 +6,21 @@
       <p class="lead">Prepare-se para os seus exames com nosso banco de <strong>{{ numTotalQuestions }}</strong> questões.</p>
       <hr>
       <div class="action-buttons">
-        <button (click)="startNewStudy()" class="btn btn-success btn-lg me-2">
+        <button (click)="startNewStudy()" class="btn btn-success btn-lg">
           <i class="bi bi-play-circle"></i> Iniciar Novo Estudo
         </button>
         
-        <button *ngIf="inProgressSession" (click)="resumeStudy()" class="btn btn-warning btn-lg me-2">
-          <i class="bi bi-arrow-clockwise"></i> Continuar Estudo ({{ inProgressSession.timestamp | date:'dd/MM HH:mm' }})
+        <button (click)="openQuestionSelector()" class="btn btn-primary btn-lg">
+          <i class="bi bi-list-ol"></i> Escolher Questão Inicial
+        </button>
+        
+        <button *ngIf="inProgressSession" (click)="resumeStudy()" class="btn btn-warning btn-lg">
+          <i class="bi bi-arrow-clockwise"></i> Continuar Estudo
+          <small class="session-time">{{ inProgressSession.timestamp | date:'dd/MM HH:mm' }}</small>
         </button>
 
         <button (click)="viewStudySessions()" class="btn btn-info btn-lg">
-          <i class="bi bi-clock-history"></i> Ver Meu Histórico de Estudos
+          <i class="bi bi-clock-history"></i> Ver Histórico
         </button>
       </div>
     </div>
@@ -37,9 +42,34 @@
   <div class="stats-section mt-4">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title">Estatísticas Gerais</h4>
+        <h4 class="card-title"><i class="bi bi-graph-up"></i> Estatísticas Gerais</h4>
         <p class="card-text"><em>Recurso de estatísticas globais em desenvolvimento.</em></p>
       </div>
     </div>
   </div>
+
+<!-- Modal para seleção de questão inicial -->
+<div id="questionSelectorModal" class="modal-overlay">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h4><i class="bi bi-list-ol"></i> Escolher Questão Inicial</h4>
+      <span class="close-button" (click)="closeQuestionSelector()">&times;</span>
+    </div>
+    <div class="modal-body">
+      <p>Selecione o número da questão que deseja iniciar (1 a {{ numTotalQuestions }}):</p>
+      <div class="form-group">
+        <input type="number" class="form-control" [(ngModel)]="selectedQuestionNumber" 
+               min="1" [max]="numTotalQuestions" />
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn btn-secondary" (click)="closeQuestionSelector()">
+        <i class="bi bi-x-circle"></i> Cancelar
+      </button>
+      <button class="btn btn-primary" (click)="startFromSelectedQuestion(selectedQuestionNumber)">
+        <i class="bi bi-check-circle"></i> Iniciar
+      </button>
+    </div>
+  </div>
+</div>
 </div>

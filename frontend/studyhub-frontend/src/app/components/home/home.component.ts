@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { DatePipe } from '@angular/common';
+import { FormsModule } from '@angular/forms';
 import { QuestionService } from '../../services/question.service';
 import { StudySessionService } from '../../services/study-session.service';
 import { StudySession } from '../../models/study-session.model';
@@ -9,13 +10,14 @@ import { StudySession } from '../../models/study-session.model';
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CommonModule, DatePipe],
+  imports: [CommonModule, DatePipe, FormsModule],
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
   numTotalQuestions = 0;
   inProgressSession: StudySession | null = null;
+  selectedQuestionNumber = 1;
 
   constructor(
     private questionService: QuestionService,
@@ -42,11 +44,36 @@ export class HomeComponent implements OnInit {
     });
   }
 
-  startNewStudy(): void {
-    this.studySessionService.startNewStudy().subscribe({
-      next: () => this.router.navigate(['/question', 0]),
+  startNewStudy(startQuestionIdx: number = 0): void {
+    this.studySessionService.startNewStudy(startQuestionIdx).subscribe({
+      next: (session) => this.router.navigate(['/question', session.last_question_idx_viewed]),
       error: err => console.error('Erro ao iniciar novo estudo:', err)
     });
+  }
+  
+  openQuestionSelector(): void {
+    const questionSelector = document.getElementById('questionSelectorModal');
+    if (questionSelector) {
+      (questionSelector as any).style.display = 'block';
+    }
+  }
+  
+  closeQuestionSelector(): void {
+    const questionSelector = document.getElementById('questionSelectorModal');
+    if (questionSelector) {
+      (questionSelector as any).style.display = 'none';
+    }
+  }
+  
+  startFromSelectedQuestion(questionNumber: number): void {
+    // Ajusta para índice baseado em zero
+    const questionIdx = Math.max(0, questionNumber - 1);
+    
+    // Verifica se o índice é válido
+    if (questionIdx >= 0 && questionIdx < this.numTotalQuestions) {
+      this.startNewStudy(questionIdx);
+      this.closeQuestionSelector();
+    }
   }
 
   resumeStudy(): void {
