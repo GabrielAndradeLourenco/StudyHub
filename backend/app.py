@@ -352,6 +352,24 @@ def delete_session(session_id):
     
     return jsonify({"success": True, "message": "Sessão excluída com sucesso"})
 
+@app.route('/')
+def index():
+    return jsonify({
+        "message": "StudyHub API está funcionando!",
+        "endpoints": [
+            "/api/questions/count",
+            "/api/questions/<question_idx>",
+            "/api/current-session",
+            "/api/start-new-study",
+            "/api/resume-study",
+            "/api/finish-study",
+            "/api/study-sessions",
+            "/api/results/session/<session_id>",
+            "/api/session/<session_id>"
+        ]
+    })
+
+
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5002))
     with app.app_context():
