@@ -2,13 +2,12 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Question } from '../models/question.model';
-import { environment } from '../../environments/environment';
 
 @Injectable({
   providedIn: 'root'
 })
 export class QuestionService {
-  private apiUrl = `${environment.apiUrl}/api`;
+  private apiUrl = 'https://studyhub-backend-vr4x.onrender.com/api';
 
   constructor(private http: HttpClient) { }
 
