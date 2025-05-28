@@ -12,7 +12,7 @@ QUESTIONS_JSON_PATH = os.path.join(PROJECT_ROOT, 'questoes_processadas.json')
 
 # Inicialização do Flask
 app = Flask(__name__)
-CORS(app)  # Habilita CORS para todas as rotas
+CORS(app, resources={r"/api/*": {"origins": "*"}})  # Habilita CORS para todas as rotas da API
 
 # Configuração do banco de dados
 instance_path_abs = os.path.join(PROJECT_ROOT, 'instance')

@@ -1,17 +1,4 @@
 services:
-  # Backend service
-  - type: web
-    name: studyhub-backend
-    env: python
-    buildCommand: ./build.sh
-    startCommand: gunicorn backend.app:app
-    envVars:
-      - key: FLASK_ENV
-        value: production
-      - key: PYTHONPATH
-        value: .
-
-  # Frontend service
   - type: web
     name: studyhub-frontend
     env: static
