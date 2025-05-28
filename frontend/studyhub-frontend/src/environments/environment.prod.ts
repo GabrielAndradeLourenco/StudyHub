@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:5002' // Altere para a URL de produção quando necessário
+  apiUrl: 'https://studyhub-backend.onrender.com' // URL do backend no Render
 };

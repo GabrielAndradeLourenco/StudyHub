@@ -4,15 +4,16 @@
 
 ## 🚀 Visão Geral
 
-StudyHub é uma plataforma moderna de estudos que permite aos usuários praticar e aprimorar seus conhecimentos através de questões interativas. Desenvolvida com Angular no frontend e Flask no backend, a aplicação oferece uma experiência de usuário fluida e responsiva para maximizar o aprendizado.
+StudyHub é uma plataforma moderna de estudos que permite aos usuários praticar e aprimorar seus conhecimentos através de questões interativas. Desenvolvida com Angular no frontend e Flask no backend, a aplicação oferece uma experiência de usuário fluida e responsiva para maximizar o aprendizado. Com um design adaptável para dispositivos móveis e desktop, o StudyHub proporciona flexibilidade para estudar em qualquer lugar e a qualquer momento.
 
 ## ✨ Funcionalidades
 
 - **Sessões de Estudo Interativas**: Crie e gerencie sessões de estudo personalizadas
+- **Escolha da Questão Inicial**: Selecione em qual questão deseja começar o simulado
 - **Questões com Múltiplas Escolhas**: Suporte para questões com uma ou múltiplas respostas corretas
 - **Feedback Instantâneo**: Receba feedback imediato sobre suas respostas
 - **Histórico de Desempenho**: Acompanhe seu progresso e revise sessões anteriores
-- **Interface Moderna**: Design intuitivo e responsivo desenvolvido com Angular
+- **Interface Moderna**: Design intuitivo e responsivo para desktop e dispositivos móveis
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -20,11 +21,14 @@ StudyHub é uma plataforma moderna de estudos que permite aos usuários praticar
 - **Angular**: Framework para construção de interfaces modernas e reativas
 - **TypeScript**: Linguagem fortemente tipada para desenvolvimento escalável
 - **SCSS**: Estilização avançada com pré-processador CSS
+- **Bootstrap Icons**: Biblioteca de ícones para melhorar a experiência visual
+- **Design Responsivo**: Interface adaptável para desktop e dispositivos móveis
 
 ### Backend
 - **Flask**: Framework web Python leve e flexível
 - **SQLAlchemy**: ORM para interação com banco de dados
 - **SQLite**: Banco de dados relacional para armazenamento de dados
+- **Gunicorn**: Servidor WSGI HTTP para Python
 
 ## 📋 Estrutura do Projeto
 
@@ -39,6 +43,8 @@ StudyHub_Project/
 │       └── ...          # Arquivos de configuração Angular
 ├── instance/            # Banco de dados SQLite
 ├── questoes_processadas.json  # Dados das questões
+├── build.sh             # Script para build no Render
+├── render.yaml          # Configuração para deploy no Render
 └── run.py               # Script para inicialização do banco de dados
 ```
 
@@ -90,17 +96,51 @@ StudyHub_Project/
    ```
    O aplicativo estará disponível em `http://localhost:4200`
 
+## 🌐 Deploy no Render
+
+O StudyHub está configurado para ser facilmente implantado na plataforma Render.
+
+### Configuração Automática
+1. Faça fork deste repositório para sua conta GitHub
+2. No Render, vá para o Dashboard e clique em "New +"
+3. Selecione "Blueprint" e conecte seu repositório GitHub
+4. O Render detectará automaticamente o arquivo `render.yaml` e configurará os serviços
+
+### Configuração Manual
+1. **Para o Backend**:
+   - Crie um novo "Web Service"
+   - Conecte seu repositório GitHub
+   - Escolha "Python" como ambiente
+   - Defina o comando de build: `./build.sh`
+   - Defina o comando de start: `gunicorn backend.app:app`
+   - Adicione a variável de ambiente: `FLASK_ENV=production`
+
+2. **Para o Frontend**:
+   - Crie um novo "Static Site"
+   - Conecte seu repositório GitHub
+   - Defina o comando de build: `cd frontend/studyhub-frontend && npm install && npm run build`
+   - Defina o diretório de publicação: `frontend/studyhub-frontend/dist/studyhub-frontend`
+   - Adicione a regra de reescrita: `/* /index.html 200`
+
 ## 📱 Capturas de Tela
 
+### Interface Responsiva
+A plataforma foi projetada para funcionar perfeitamente em dispositivos desktop e móveis, com uma interface que se adapta automaticamente ao tamanho da tela.
 
+### Principais Recursos Visuais
+- **Design Moderno**: Interface limpa com paleta de cores harmoniosa
+- **Navegação Intuitiva**: Botões grandes e fáceis de usar em dispositivos móveis
+- **Feedback Visual**: Indicadores claros para respostas corretas e incorretas
+- **Modal de Seleção**: Escolha facilmente em qual questão deseja começar
 
 ## 🔄 Fluxo de Trabalho
 
-1. **Início**: Escolha entre iniciar uma nova sessão ou continuar uma existente
+1. **Início**: Escolha entre iniciar uma nova sessão, selecionar uma questão específica para começar, ou continuar uma sessão existente
 2. **Questões**: Responda às questões selecionando as opções corretas
 3. **Feedback**: Receba feedback imediato sobre suas respostas
-4. **Resultados**: Visualize seu desempenho ao final da sessão
-5. **Histórico**: Acesse sessões anteriores para revisar seu progresso
+4. **Navegação**: Avance para a próxima questão ou retorne às anteriores
+5. **Resultados**: Visualize seu desempenho ao final da sessão
+6. **Histórico**: Acesse sessões anteriores para revisar seu progresso
 
 ## 🤝 Contribuindo
 
