@@ -1,0 +1,1318 @@
+{
+  "exam_name": "AWS Certified Data Analytics - Specialty",
+  "total_questions": 164,
+  "questions": [
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29735-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 72 discussion",
+      "author": "testtaker3434",
+      "replies": "22",
+      "views": "9160",
+      "creation_info": "by testtaker3434 at Aug. 28, 2020, 1:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73892-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 4 discussion",
+      "author": "AWSRanger",
+      "replies": "59",
+      "views": "9104",
+      "creation_info": "by AWSRanger at April 20, 2022, 2:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28696-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 28 discussion",
+      "author": "jersyl",
+      "replies": "32",
+      "views": "9648",
+      "creation_info": "by jersyl at Aug. 16, 2020, 7:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29479-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 41 discussion",
+      "author": "Saaho",
+      "replies": "66",
+      "views": "10885",
+      "creation_info": "by Saaho at Aug. 24, 2020, 7:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74253-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 152 discussion",
+      "author": "CHRIS12722222",
+      "replies": "29",
+      "views": "4789",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 5:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73985-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 24 discussion",
+      "author": "CHRIS12722222",
+      "replies": "65",
+      "views": "6966",
+      "creation_info": "by CHRIS12722222 at April 21, 2022, 8:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29115-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 33 discussion",
+      "author": "ramozo",
+      "replies": "89",
+      "views": "13099",
+      "creation_info": "by ramozo at Aug. 20, 2020, 10:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28708-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 30 discussion",
+      "author": "paul0099",
+      "replies": "43",
+      "views": "9738",
+      "creation_info": "by paul0099 at Aug. 16, 2020, 10:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27803-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 22 discussion",
+      "author": "testtaker3434",
+      "replies": "46",
+      "views": "10328",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 8:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28785-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 21 discussion",
+      "author": "cloud4gr8",
+      "replies": "34",
+      "views": "9974",
+      "creation_info": "by cloud4gr8 at Aug. 17, 2020, 5:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27697-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 12 discussion",
+      "author": "testtaker3434",
+      "replies": "31",
+      "views": "12091",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 1:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/65984-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 115 discussion",
+      "author": "ali98",
+      "replies": "31",
+      "views": "7644",
+      "creation_info": "by ali98 at Nov. 14, 2021, 5:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28542-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 65 discussion",
+      "author": "Priyanka_01",
+      "replies": "57",
+      "views": "9399",
+      "creation_info": "by Priyanka_01 at Aug. 14, 2020, 8:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73890-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 1 discussion",
+      "author": "AWSRanger",
+      "replies": "54",
+      "views": "14969",
+      "creation_info": "by AWSRanger at April 20, 2022, 2:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74271-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 146 discussion",
+      "author": "astalavista1",
+      "replies": "13",
+      "views": "6128",
+      "creation_info": "by astalavista1 at April 23, 2022, 10:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28727-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 15 discussion",
+      "author": "singh100",
+      "replies": "79",
+      "views": "10797",
+      "creation_info": "by singh100 at Aug. 16, 2020, 3:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64703-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 127 discussion",
+      "author": "srinivasa",
+      "replies": "17",
+      "views": "7472",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 4:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51725-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 100 discussion",
+      "author": "VikG12",
+      "replies": "11",
+      "views": "8582",
+      "creation_info": "by VikG12 at May 3, 2021, 7:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28263-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 7 discussion",
+      "author": "abhineet",
+      "replies": "48",
+      "views": "13994",
+      "creation_info": "by abhineet at Aug. 12, 2020, 2:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29824-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 67 discussion",
+      "author": "testtaker3434",
+      "replies": "54",
+      "views": "9085",
+      "creation_info": "by testtaker3434 at Aug. 28, 2020, 12:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64643-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 125 discussion",
+      "author": "srinivasa",
+      "replies": "24",
+      "views": "5504",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 5:11 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74030-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 61 discussion",
+      "author": "astalavista1",
+      "replies": "21",
+      "views": "4732",
+      "creation_info": "by astalavista1 at April 21, 2022, 3:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29734-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 66 discussion",
+      "author": "testtaker3434",
+      "replies": "25",
+      "views": "8767",
+      "creation_info": "by testtaker3434 at Aug. 28, 2020, 1:03 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29252-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 63 discussion",
+      "author": "ramozo",
+      "replies": "77",
+      "views": "8887",
+      "creation_info": "by ramozo at Aug. 22, 2020, 10:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27703-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 45 discussion",
+      "author": "testtaker3434",
+      "replies": "75",
+      "views": "12460",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 2:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28683-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 29 discussion",
+      "author": "Priyanka_01",
+      "replies": "38",
+      "views": "9746",
+      "creation_info": "by Priyanka_01 at Aug. 16, 2020, 1:40 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28685-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 27 discussion",
+      "author": "Priyanka_01",
+      "replies": "32",
+      "views": "12034",
+      "creation_info": "by Priyanka_01 at Aug. 16, 2020, 2:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74075-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 25 discussion",
+      "author": "ay12",
+      "replies": "23",
+      "views": "6405",
+      "creation_info": "by ay12 at April 22, 2022, 4:08 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28715-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 10 discussion",
+      "author": "singh100",
+      "replies": "36",
+      "views": "10614",
+      "creation_info": "by singh100 at Aug. 16, 2020, 1:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74136-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 3 discussion",
+      "author": "rb39",
+      "replies": "37",
+      "views": "10026",
+      "creation_info": "by rb39 at April 22, 2022, 3:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74297-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 151 discussion",
+      "author": "astalavista1",
+      "replies": "35",
+      "views": "5218",
+      "creation_info": "by astalavista1 at April 24, 2022, 10:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/30835-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 36 discussion",
+      "author": "Paitan",
+      "replies": "13",
+      "views": "6305",
+      "creation_info": "by Paitan at Sept. 8, 2020, 4:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29070-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 35 discussion",
+      "author": "carol1522",
+      "replies": "19",
+      "views": "9444",
+      "creation_info": "by carol1522 at Aug. 19, 2020, 8:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27698-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 11 discussion",
+      "author": "testtaker3434",
+      "replies": "41",
+      "views": "12430",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 1:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27699-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 9 discussion",
+      "author": "testtaker3434",
+      "replies": "26",
+      "views": "12371",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 1:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74209-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 138 discussion",
+      "author": "CHRIS12722222",
+      "replies": "10",
+      "views": "5690",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 11:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28811-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 34 discussion",
+      "author": "Priyanka_01",
+      "replies": "24",
+      "views": "8429",
+      "creation_info": "by Priyanka_01 at Aug. 17, 2020, 10:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64636-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 119 discussion",
+      "author": "srinivasa",
+      "replies": "13",
+      "views": "6499",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 4:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51724-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 99 discussion",
+      "author": "VikG12",
+      "replies": "24",
+      "views": "7523",
+      "creation_info": "by VikG12 at May 3, 2021, 7:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/30037-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 77 discussion",
+      "author": "Nicki1013",
+      "replies": "194",
+      "views": "11006",
+      "creation_info": "by Nicki1013 at Aug. 29, 2020, 6:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64707-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 130 discussion",
+      "author": "srinivasa",
+      "replies": "11",
+      "views": "4850",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 4:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29208-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 51 discussion",
+      "author": "ramozo",
+      "replies": "59",
+      "views": "9454",
+      "creation_info": "by ramozo at Aug. 21, 2020, 9:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27705-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 50 discussion",
+      "author": "testtaker3434",
+      "replies": "32",
+      "views": "9412",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 2:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28627-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 49 discussion",
+      "author": "Priyanka_01",
+      "replies": "37",
+      "views": "10692",
+      "creation_info": "by Priyanka_01 at Aug. 15, 2020, 7 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29408-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 32 discussion",
+      "author": "awssp12345",
+      "replies": "15",
+      "views": "9033",
+      "creation_info": "by awssp12345 at Aug. 24, 2020, 4:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29144-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 26 discussion",
+      "author": "Saaho",
+      "replies": "40",
+      "views": "9691",
+      "creation_info": "by Saaho at Aug. 20, 2020, 5:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27804-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 2 discussion",
+      "author": "testtaker3434",
+      "replies": "42",
+      "views": "17242",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 8:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27799-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 5 discussion",
+      "author": "testtaker3434",
+      "replies": "24",
+      "views": "12036",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 8:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74001-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 157 discussion",
+      "author": "rb39",
+      "replies": "16",
+      "views": "5760",
+      "creation_info": "by rb39 at April 21, 2022, noon"
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64640-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 122 discussion",
+      "author": "srinivasa",
+      "replies": "31",
+      "views": "6733",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 4:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51708-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 90 discussion",
+      "author": "VikG12",
+      "replies": "24",
+      "views": "9626",
+      "creation_info": "by VikG12 at May 3, 2021, 6:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74206-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 135 discussion",
+      "author": "CHRIS12722222",
+      "replies": "10",
+      "views": "4708",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 10:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27800-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 19 discussion",
+      "author": "testtaker3434",
+      "replies": "21",
+      "views": "8833",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 8:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28718-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 18 discussion",
+      "author": "zanhsieh",
+      "replies": "68",
+      "views": "11569",
+      "creation_info": "by zanhsieh at Aug. 16, 2020, 2:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51698-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 82 discussion",
+      "author": "VikG12",
+      "replies": "33",
+      "views": "7289",
+      "creation_info": "by VikG12 at May 3, 2021, 5:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27815-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 14 discussion",
+      "author": "Priyanka_01",
+      "replies": "68",
+      "views": "11871",
+      "creation_info": "by Priyanka_01 at Aug. 10, 2020, 12:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74121-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 52 discussion",
+      "author": "rb39",
+      "replies": "12",
+      "views": "4599",
+      "creation_info": "by rb39 at April 22, 2022, 1:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28736-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 42 discussion",
+      "author": "paul0099",
+      "replies": "27",
+      "views": "7969",
+      "creation_info": "by paul0099 at Aug. 16, 2020, 6:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51719-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 98 discussion",
+      "author": "VikG12",
+      "replies": "26",
+      "views": "6780",
+      "creation_info": "by VikG12 at May 3, 2021, 6:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28717-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 13 discussion",
+      "author": "zanhsieh",
+      "replies": "40",
+      "views": "9909",
+      "creation_info": "by zanhsieh at Aug. 16, 2020, 1:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/66044-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 114 discussion",
+      "author": "Kash12345",
+      "replies": "17",
+      "views": "5721",
+      "creation_info": "by Kash12345 at Nov. 14, 2021, 8:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29836-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 74 discussion",
+      "author": "ramozo",
+      "replies": "33",
+      "views": "10802",
+      "creation_info": "by ramozo at Aug. 28, 2020, 1:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29732-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 68 discussion",
+      "author": "testtaker3434",
+      "replies": "31",
+      "views": "7702",
+      "creation_info": "by testtaker3434 at Aug. 28, 2020, 1 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29562-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 58 discussion",
+      "author": "ali_baba_acs",
+      "replies": "21",
+      "views": "8168",
+      "creation_info": "by ali_baba_acs at Aug. 25, 2020, 3:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/65752-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 116 discussion",
+      "author": "Fazil_Cp",
+      "replies": "11",
+      "views": "4746",
+      "creation_info": "by Fazil_Cp at Nov. 10, 2021, 10:31 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27702-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 38 discussion",
+      "author": "testtaker3434",
+      "replies": "29",
+      "views": "9911",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 2:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51709-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 91 discussion",
+      "author": "VikG12",
+      "replies": "24",
+      "views": "6493",
+      "creation_info": "by VikG12 at May 3, 2021, 6:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51714-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 94 discussion",
+      "author": "VikG12",
+      "replies": "12",
+      "views": "5480",
+      "creation_info": "by VikG12 at May 3, 2021, 6:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74081-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 97 discussion",
+      "author": "rb39",
+      "replies": "11",
+      "views": "2411",
+      "creation_info": "by rb39 at April 22, 2022, 5:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64639-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 121 discussion",
+      "author": "srinivasa",
+      "replies": "20",
+      "views": "5936",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 4:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74208-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 137 discussion",
+      "author": "CHRIS12722222",
+      "replies": "20",
+      "views": "4847",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 11:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73997-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 160 discussion",
+      "author": "rb39",
+      "replies": "9",
+      "views": "4556",
+      "creation_info": "by rb39 at April 21, 2022, 11:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64645-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 126 discussion",
+      "author": "srinivasa",
+      "replies": "12",
+      "views": "5239",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 5:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73913-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 23 discussion",
+      "author": "azi_2021",
+      "replies": "12",
+      "views": "4938",
+      "creation_info": "by azi_2021 at April 20, 2022, 4:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51701-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 80 discussion",
+      "author": "VikG12",
+      "replies": "12",
+      "views": "7559",
+      "creation_info": "by VikG12 at May 3, 2021, 5:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28633-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 48 discussion",
+      "author": "Priyanka_01",
+      "replies": "38",
+      "views": "9152",
+      "creation_info": "by Priyanka_01 at Aug. 15, 2020, 9:54 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28066-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 46 discussion",
+      "author": "Priyanka_01",
+      "replies": "29",
+      "views": "10993",
+      "creation_info": "by Priyanka_01 at Aug. 11, 2020, 12:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28772-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 16 discussion",
+      "author": "cloud4gr8",
+      "replies": "29",
+      "views": "11357",
+      "creation_info": "by cloud4gr8 at Aug. 17, 2020, 4:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51409-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 85 discussion",
+      "author": "bermo",
+      "replies": "18",
+      "views": "8564",
+      "creation_info": "by bermo at May 1, 2021, 2:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51702-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 81 discussion",
+      "author": "VikG12",
+      "replies": "40",
+      "views": "6586",
+      "creation_info": "by VikG12 at May 3, 2021, 5:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74013-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 144 discussion",
+      "author": "rb39",
+      "replies": "29",
+      "views": "4886",
+      "creation_info": "by rb39 at April 21, 2022, 1:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27845-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 17 discussion",
+      "author": "Priyanka_01",
+      "replies": "30",
+      "views": "9810",
+      "creation_info": "by Priyanka_01 at Aug. 10, 2020, 6:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74259-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 158 discussion",
+      "author": "CHRIS12722222",
+      "replies": "7",
+      "views": "4844",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 7:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74024-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 133 discussion",
+      "author": "rb39",
+      "replies": "24",
+      "views": "5691",
+      "creation_info": "by rb39 at April 21, 2022, 3:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74200-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 132 discussion",
+      "author": "CHRIS12722222",
+      "replies": "8",
+      "views": "4121",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 8:05 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73987-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 136 discussion",
+      "author": "rb39",
+      "replies": "32",
+      "views": "5875",
+      "creation_info": "by rb39 at April 21, 2022, 9:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74012-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 134 discussion",
+      "author": "naidooo",
+      "replies": "16",
+      "views": "4512",
+      "creation_info": "by naidooo at April 21, 2022, 1:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51727-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 102 discussion",
+      "author": "VikG12",
+      "replies": "27",
+      "views": "6655",
+      "creation_info": "by VikG12 at May 3, 2021, 7:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51728-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 101 discussion",
+      "author": "VikG12",
+      "replies": "31",
+      "views": "7635",
+      "creation_info": "by VikG12 at May 3, 2021, 7:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51711-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 93 discussion",
+      "author": "VikG12",
+      "replies": "32",
+      "views": "7152",
+      "creation_info": "by VikG12 at May 3, 2021, 6:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51710-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 92 discussion",
+      "author": "VikG12",
+      "replies": "51",
+      "views": "9847",
+      "creation_info": "by VikG12 at May 3, 2021, 6:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28554-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 62 discussion",
+      "author": "Priyanka_01",
+      "replies": "27",
+      "views": "8060",
+      "creation_info": "by Priyanka_01 at Aug. 14, 2020, 10:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/60189-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 105 discussion",
+      "author": "Zzang",
+      "replies": "19",
+      "views": "6369",
+      "creation_info": "by Zzang at Aug. 22, 2021, 12:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51715-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 95 discussion",
+      "author": "VikG12",
+      "replies": "34",
+      "views": "8526",
+      "creation_info": "by VikG12 at May 3, 2021, 6:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28720-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 20 discussion",
+      "author": "zanhsieh",
+      "replies": "35",
+      "views": "9789",
+      "creation_info": "by zanhsieh at Aug. 16, 2020, 2:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27696-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 8 discussion",
+      "author": "testtaker3434",
+      "replies": "28",
+      "views": "14056",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 1:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27694-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 6 discussion",
+      "author": "testtaker3434",
+      "replies": "30",
+      "views": "13104",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 1:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73879-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 59 discussion",
+      "author": "G_C_P",
+      "replies": "17",
+      "views": "4246",
+      "creation_info": "by G_C_P at April 20, 2022, 12:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28797-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 31 discussion",
+      "author": "cloud4gr8",
+      "replies": "21",
+      "views": "9511",
+      "creation_info": "by cloud4gr8 at Aug. 17, 2020, 7:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64638-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 118 discussion",
+      "author": "srinivasa",
+      "replies": "15",
+      "views": "5620",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 4:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64706-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 128 discussion",
+      "author": "srinivasa",
+      "replies": "25",
+      "views": "5836",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 4:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/66163-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 112 discussion",
+      "author": "goutes",
+      "replies": "13",
+      "views": "5367",
+      "creation_info": "by goutes at Nov. 16, 2021, 7:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51706-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 88 discussion",
+      "author": "VikG12",
+      "replies": "15",
+      "views": "6368",
+      "creation_info": "by VikG12 at May 3, 2021, 5:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28681-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 39 discussion",
+      "author": "Priyanka_01",
+      "replies": "45",
+      "views": "10118",
+      "creation_info": "by Priyanka_01 at Aug. 16, 2020, 12:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74242-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 143 discussion",
+      "author": "CHRIS12722222",
+      "replies": "11",
+      "views": "4196",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 2:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74215-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 140 discussion",
+      "author": "CHRIS12722222",
+      "replies": "8",
+      "views": "3561",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 12:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73992-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 162 discussion",
+      "author": "rb39",
+      "replies": "7",
+      "views": "4702",
+      "creation_info": "by rb39 at April 21, 2022, 9:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51718-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 96 discussion",
+      "author": "VikG12",
+      "replies": "19",
+      "views": "8139",
+      "creation_info": "by VikG12 at May 3, 2021, 6:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51704-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 84 discussion",
+      "author": "VikG12",
+      "replies": "21",
+      "views": "6432",
+      "creation_info": "by VikG12 at May 3, 2021, 5:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29733-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 69 discussion",
+      "author": "testtaker3434",
+      "replies": "33",
+      "views": "8482",
+      "creation_info": "by testtaker3434 at Aug. 28, 2020, 1:01 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28556-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 64 discussion",
+      "author": "Priyanka_01",
+      "replies": "23",
+      "views": "8927",
+      "creation_info": "by Priyanka_01 at Aug. 14, 2020, 10:19 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/30053-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 71 discussion",
+      "author": "awssp12345",
+      "replies": "36",
+      "views": "9306",
+      "creation_info": "by awssp12345 at Aug. 30, 2020, 1:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74619-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 164 discussion",
+      "author": "AWSRanger",
+      "replies": "10",
+      "views": "4846",
+      "creation_info": "by AWSRanger at April 26, 2022, 7:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73990-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 163 discussion",
+      "author": "rb39",
+      "replies": "7",
+      "views": "3727",
+      "creation_info": "by rb39 at April 21, 2022, 9:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73996-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 161 discussion",
+      "author": "rb39",
+      "replies": "16",
+      "views": "5526",
+      "creation_info": "by rb39 at April 21, 2022, 11:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73999-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 159 discussion",
+      "author": "rb39",
+      "replies": "6",
+      "views": "3882",
+      "creation_info": "by rb39 at April 21, 2022, 11:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74002-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 156 discussion",
+      "author": "rb39",
+      "replies": "5",
+      "views": "4423",
+      "creation_info": "by rb39 at April 21, 2022, 12:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74257-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 155 discussion",
+      "author": "CHRIS12722222",
+      "replies": "14",
+      "views": "5612",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 7:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74004-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 154 discussion",
+      "author": "rb39",
+      "replies": "9",
+      "views": "4916",
+      "creation_info": "by rb39 at April 21, 2022, 12:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74005-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 153 discussion",
+      "author": "rb39",
+      "replies": "5",
+      "views": "4604",
+      "creation_info": "by rb39 at April 21, 2022, 12:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74010-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 150 discussion",
+      "author": "rb39",
+      "replies": "8",
+      "views": "4355",
+      "creation_info": "by rb39 at April 21, 2022, 12:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74396-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 149 discussion",
+      "author": "[Removed]",
+      "replies": "4",
+      "views": "3902",
+      "creation_info": "by [Removed] at April 25, 2022, 1:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74405-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 148 discussion",
+      "author": "[Removed]",
+      "replies": "5",
+      "views": "4328",
+      "creation_info": "by [Removed] at April 25, 2022, 3:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74011-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 147 discussion",
+      "author": "rb39",
+      "replies": "12",
+      "views": "4867",
+      "creation_info": "by rb39 at April 21, 2022, 1:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74270-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 145 discussion",
+      "author": "astalavista1",
+      "replies": "11",
+      "views": "3898",
+      "creation_info": "by astalavista1 at April 23, 2022, 10:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74238-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 142 discussion",
+      "author": "CHRIS12722222",
+      "replies": "11",
+      "views": "6040",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 2:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74484-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 141 discussion",
+      "author": "chp2022",
+      "replies": "14",
+      "views": "5528",
+      "creation_info": "by chp2022 at April 25, 2022, 4:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74213-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 139 discussion",
+      "author": "CHRIS12722222",
+      "replies": "9",
+      "views": "4562",
+      "creation_info": "by CHRIS12722222 at April 23, 2022, 11:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74178-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 131 discussion",
+      "author": "fl0resi3nsis",
+      "replies": "6",
+      "views": "4316",
+      "creation_info": "by fl0resi3nsis at April 23, 2022, 12:11 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64708-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 129 discussion",
+      "author": "srinivasa",
+      "replies": "14",
+      "views": "6570",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 5:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64642-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 124 discussion",
+      "author": "srinivasa",
+      "replies": "10",
+      "views": "4328",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 5:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64641-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 123 discussion",
+      "author": "srinivasa",
+      "replies": "10",
+      "views": "4775",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 5:01 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64635-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 120 discussion",
+      "author": "srinivasa",
+      "replies": "21",
+      "views": "7225",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 4:31 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/64637-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 117 discussion",
+      "author": "srinivasa",
+      "replies": "8",
+      "views": "5179",
+      "creation_info": "by srinivasa at Oct. 25, 2021, 4:38 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/65691-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 113 discussion",
+      "author": "Fazil_Cp",
+      "replies": "29",
+      "views": "6554",
+      "creation_info": "by Fazil_Cp at Nov. 9, 2021, 6:28 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/60224-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 111 discussion",
+      "author": "taizo777",
+      "replies": "23",
+      "views": "6470",
+      "creation_info": "by taizo777 at Aug. 22, 2021, 10:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/60221-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 110 discussion",
+      "author": "taizo777",
+      "replies": "11",
+      "views": "4954",
+      "creation_info": "by taizo777 at Aug. 22, 2021, 10:47 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/60223-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 109 discussion",
+      "author": "taizo777",
+      "replies": "19",
+      "views": "7328",
+      "creation_info": "by taizo777 at Aug. 22, 2021, 10:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/60220-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 108 discussion",
+      "author": "taizo777",
+      "replies": "16",
+      "views": "5740",
+      "creation_info": "by taizo777 at Aug. 22, 2021, 10:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/60222-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 107 discussion",
+      "author": "taizo777",
+      "replies": "19",
+      "views": "7020",
+      "creation_info": "by taizo777 at Aug. 22, 2021, 10:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/60219-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 106 discussion",
+      "author": "taizo777",
+      "replies": "7",
+      "views": "7635",
+      "creation_info": "by taizo777 at Aug. 22, 2021, 10:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/60900-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 104 discussion",
+      "author": "SamChan",
+      "replies": "35",
+      "views": "7240",
+      "creation_info": "by SamChan at Aug. 28, 2021, 9:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74931-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 103 discussion",
+      "author": "wata9821",
+      "replies": "6",
+      "views": "3434",
+      "creation_info": "by wata9821 at April 29, 2022, 11:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73937-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 89 discussion",
+      "author": "G_C_P",
+      "replies": "20",
+      "views": "3359",
+      "creation_info": "by G_C_P at April 20, 2022, 7:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51407-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 87 discussion",
+      "author": "bermo",
+      "replies": "22",
+      "views": "7508",
+      "creation_info": "by bermo at May 1, 2021, 2:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51408-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 86 discussion",
+      "author": "bermo",
+      "replies": "17",
+      "views": "6102",
+      "creation_info": "by bermo at May 1, 2021, 2:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51410-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 83 discussion",
+      "author": "bermo",
+      "replies": "12",
+      "views": "5232",
+      "creation_info": "by bermo at May 1, 2021, 2:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51700-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 79 discussion",
+      "author": "VikG12",
+      "replies": "15",
+      "views": "8401",
+      "creation_info": "by VikG12 at May 3, 2021, 5:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51699-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 78 discussion",
+      "author": "VikG12",
+      "replies": "10",
+      "views": "6465",
+      "creation_info": "by VikG12 at May 3, 2021, 5:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29829-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 76 discussion",
+      "author": "ramozo",
+      "replies": "13",
+      "views": "7056",
+      "creation_info": "by ramozo at Aug. 28, 2020, 12:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/30035-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 75 discussion",
+      "author": "Nicki1013",
+      "replies": "15",
+      "views": "7980",
+      "creation_info": "by Nicki1013 at Aug. 29, 2020, 6:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/30050-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 73 discussion",
+      "author": "awssp12345",
+      "replies": "16",
+      "views": "8712",
+      "creation_info": "by awssp12345 at Aug. 29, 2020, 10:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/30049-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 70 discussion",
+      "author": "awssp12345",
+      "replies": "26",
+      "views": "7928",
+      "creation_info": "by awssp12345 at Aug. 29, 2020, 10:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28622-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 60 discussion",
+      "author": "Priyanka_01",
+      "replies": "9",
+      "views": "7107",
+      "creation_info": "by Priyanka_01 at Aug. 15, 2020, 5:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28897-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 57 discussion",
+      "author": "paul0099",
+      "replies": "25",
+      "views": "8362",
+      "creation_info": "by paul0099 at Aug. 17, 2020, 10:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28830-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 56 discussion",
+      "author": "zanhsieh",
+      "replies": "40",
+      "views": "8733",
+      "creation_info": "by zanhsieh at Aug. 17, 2020, 12:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/27709-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 55 discussion",
+      "author": "testtaker3434",
+      "replies": "20",
+      "views": "7872",
+      "creation_info": "by testtaker3434 at Aug. 9, 2020, 2:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29549-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 54 discussion",
+      "author": "sparkKarthik",
+      "replies": "37",
+      "views": "7788",
+      "creation_info": "by sparkKarthik at Aug. 25, 2020, 12:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28829-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 53 discussion",
+      "author": "zanhsieh",
+      "replies": "19",
+      "views": "10347",
+      "creation_info": "by zanhsieh at Aug. 17, 2020, 12:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74000-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 47 discussion",
+      "author": "CHRIS12722222",
+      "replies": "16",
+      "views": "5063",
+      "creation_info": "by CHRIS12722222 at April 21, 2022, 11:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28680-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 44 discussion",
+      "author": "Priyanka_01",
+      "replies": "27",
+      "views": "8745",
+      "creation_info": "by Priyanka_01 at Aug. 15, 2020, 11:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/29149-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 43 discussion",
+      "author": "Saaho",
+      "replies": "26",
+      "views": "7850",
+      "creation_info": "by Saaho at Aug. 20, 2020, 6:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/28711-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 40 discussion",
+      "author": "paul0099",
+      "replies": "20",
+      "views": "8245",
+      "creation_info": "by paul0099 at Aug. 16, 2020, 12:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74126-exam-aws-certified-data-analytics-specialty-topic-1-question/",
+      "title": "Exam AWS Certified Data Analytics - Specialty topic 1 question 37 discussion",
+      "author": "rb39",
+      "replies": "7",
+      "views": "4123",
+      "creation_info": "by rb39 at April 22, 2022, 2:03 p.m."
+    }
+  ]
+}

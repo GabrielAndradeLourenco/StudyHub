@@ -1,40 +1,18 @@
-<div class="home-container">
+<div class="container">
   <div class="welcome-section">
-    <h2>Bem-vindo ao seu StudyHub!</h2>
+    <h2>Bem-vindo ao StudyHub AWS!</h2>
     
-    <div *ngIf="numTotalQuestions > 0" class="study-options">
-      <p class="lead">Prepare-se para os seus exames com nosso banco de <strong>{{ numTotalQuestions }}</strong> questões.</p>
+    <div class="study-options">
+      <p class="lead">Escolha seu simulado AWS e comece a estudar agora mesmo.</p>
       <hr>
       <div class="action-buttons">
-        <button (click)="startNewStudy()" class="btn btn-success btn-lg">
-          <i class="bi bi-play-circle"></i> Iniciar Novo Estudo
+        <button (click)="selectExam()" class="btn btn-primary btn-lg">
+          <i class="bi bi-play-circle"></i> Escolher Simulado
         </button>
         
-        <button (click)="openQuestionSelector()" class="btn btn-primary btn-lg">
-          <i class="bi bi-list-ol"></i> Escolher Questão Inicial
-        </button>
-        
-        <button *ngIf="inProgressSession" (click)="resumeStudy()" class="btn btn-warning btn-lg">
-          <i class="bi bi-arrow-clockwise"></i> Continuar Estudo
-          <small class="session-time">{{ inProgressSession.timestamp | date:'dd/MM HH:mm' }}</small>
-        </button>
-
         <button (click)="viewStudySessions()" class="btn btn-info btn-lg">
           <i class="bi bi-clock-history"></i> Ver Histórico
         </button>
-      </div>
-    </div>
-    
-    <div *ngIf="numTotalQuestions === 0" class="no-questions-alert">
-      <div class="alert alert-warning">
-        <h4 class="alert-heading">Nenhuma questão encontrada!</h4>
-        <p>Não foi possível encontrar questões no arquivo <code>questoes_processadas.json</code>.</p>
-        <hr>
-        <p>Você pode tentar executar o scraper para buscar as questões:</p>
-        <button (click)="runScraper()" class="btn btn-secondary">
-          <i class="bi bi-cloud-download"></i> Executar Scraper Agora
-        </button>
-        <p class="mt-2"><small>(Nota: Isso pode demorar. Certifique-se que o scraper está configurado.)</small></p>
       </div>
     </div>
   </div>
@@ -42,34 +20,20 @@
   <div class="stats-section mt-4">
     <div class="card">
       <div class="card-body">
-        <h4 class="card-title"><i class="bi bi-graph-up"></i> Estatísticas Gerais</h4>
-        <p class="card-text"><em>Recurso de estatísticas globais em desenvolvimento.</em></p>
+        <h4 class="card-title"><i class="bi bi-award"></i> Simulados Disponíveis</h4>
+        <p class="card-text">
+          Temos simulados para todas as principais certificações AWS:
+        </p>
+        <ul class="list-unstyled">
+          <li><i class="bi bi-check-circle text-success"></i> Machine Learning - Specialty</li>
+          <li><i class="bi bi-check-circle text-success"></i> Machine Learning Engineer - Associate</li>
+          <li><i class="bi bi-check-circle text-success"></i> Solutions Architect - Associate & Professional</li>
+          <li><i class="bi bi-check-circle text-success"></i> Developer - Associate</li>
+          <li><i class="bi bi-check-circle text-success"></i> SysOps Administrator - Associate</li>
+          <li><i class="bi bi-check-circle text-success"></i> Cloud Practitioner</li>
+          <li><i class="bi bi-check-circle text-success"></i> E muito mais!</li>
+        </ul>
       </div>
     </div>
   </div>
-
-<!-- Modal para seleção de questão inicial -->
-<div id="questionSelectorModal" class="modal-overlay">
-  <div class="modal-content">
-    <div class="modal-header">
-      <h4><i class="bi bi-list-ol"></i> Escolher Questão Inicial</h4>
-      <span class="close-button" (click)="closeQuestionSelector()">&times;</span>
-    </div>
-    <div class="modal-body">
-      <p>Selecione o número da questão que deseja iniciar (1 a {{ numTotalQuestions }}):</p>
-      <div class="form-group">
-        <input type="number" class="form-control" [(ngModel)]="selectedQuestionNumber" 
-               min="1" [max]="numTotalQuestions" />
-      </div>
-    </div>
-    <div class="modal-footer">
-      <button class="btn btn-secondary" (click)="closeQuestionSelector()">
-        <i class="bi bi-x-circle"></i> Cancelar
-      </button>
-      <button class="btn btn-primary" (click)="startFromSelectedQuestion(selectedQuestionNumber)">
-        <i class="bi bi-check-circle"></i> Iniciar
-      </button>
-    </div>
-  </div>
-</div>
 </div>

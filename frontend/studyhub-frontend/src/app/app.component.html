@@ -1,22 +1,30 @@
 <div class="app-container">
   <header class="header">
     <div class="container">
-      <a routerLink="/" class="header-link">
-        <div class="logo-container">
-          <i class="bi bi-book"></i>
-          <span>StudyHub</span>
+      <nav class="navbar">
+        <a routerLink="/" class="navbar-brand">
+          <i class="bi bi-mortarboard-fill"></i>
+          <span>StudyHub AWS</span>
+        </a>
+        <div class="nav-links">
+          <a routerLink="/exam-selection" class="nav-link">
+            <i class="bi bi-play-circle"></i> Simulados
+          </a>
+          <a routerLink="/study-sessions" class="nav-link">
+            <i class="bi bi-clock-history"></i> Histórico
+          </a>
         </div>
-      </a>
+      </nav>
     </div>
   </header>
 
-  <main>
+  <main class="main-content">
     <router-outlet></router-outlet>
   </main>
 
   <footer class="footer">
     <div class="container">
-      <p>&copy; {{ currentYear }} StudyHub - Plataforma de Estudos</p>
+      <p>&copy; {{ currentYear }} StudyHub AWS - Simulados para Certificações AWS</p>
     </div>
   </footer>
 </div>

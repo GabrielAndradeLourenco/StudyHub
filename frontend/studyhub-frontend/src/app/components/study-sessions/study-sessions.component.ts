@@ -71,6 +71,20 @@ import { StudySession } from '../../models/study-session.model';
       max-width: 1000px;
     }
     
+    @media (max-width: 768px) {
+      .container {
+        padding: 15px;
+      }
+      
+      .sessions-header {
+        margin-bottom: 20px;
+        
+        h2 {
+          font-size: 1.5rem;
+        }
+      }
+    }
+    
     .sessions-header {
       text-align: center;
       margin-bottom: 30px;
@@ -90,20 +104,52 @@ import { StudySession } from '../../models/study-session.model';
       margin: 20px 0;
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
       border-radius: 8px;
-      overflow: hidden;
+      overflow-x: auto;
       
       table {
         margin-bottom: 0;
+        min-width: 600px;
         
         th {
           background-color: #f8f9fa;
           font-weight: 600;
           color: var(--secondary-color);
+          white-space: nowrap;
         }
         
         td, th {
           padding: 12px 15px;
           vertical-align: middle;
+        }
+        
+        td {
+          white-space: nowrap;
+        }
+      }
+    }
+    
+    @media (max-width: 768px) {
+      .sessions-table-container {
+        margin: 15px -15px;
+        border-radius: 0;
+        
+        table {
+          font-size: 0.85rem;
+          
+          td, th {
+            padding: 8px 10px;
+          }
+        }
+      }
+      
+      .actions-column {
+        .btn {
+          padding: 4px 8px;
+          font-size: 0.75rem;
+          
+          i {
+            font-size: 0.8rem;
+          }
         }
       }
     }

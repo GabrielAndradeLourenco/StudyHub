@@ -1,0 +1,2958 @@
+{
+  "exam_name": "AWS Certified Machine Learning - Specialty",
+  "total_questions": 369,
+  "questions": [
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150539-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 364 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "7",
+      "views": "2080",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8303-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 3 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "99",
+      "views": "20697",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 3:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103036-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 237 discussion",
+      "author": "sevosevo",
+      "replies": "26",
+      "views": "4229",
+      "creation_info": "by sevosevo at March 18, 2023, 2:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150542-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 366 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "8",
+      "views": "2226",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10005-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 12 discussion",
+      "author": "rsimham",
+      "replies": "14",
+      "views": "9864",
+      "creation_info": "by rsimham at Dec. 9, 2019, 2:13 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8304-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 11 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "20",
+      "views": "11684",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 3:13 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/9656-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 9 discussion",
+      "author": "cmm103",
+      "replies": "24",
+      "views": "11592",
+      "creation_info": "by cmm103 at Dec. 3, 2019, 7:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/11560-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 7 discussion",
+      "author": "mlyu",
+      "replies": "18",
+      "views": "10076",
+      "creation_info": "by mlyu at Jan. 7, 2020, 6:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150544-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 367 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "6",
+      "views": "2672",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 11:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/11248-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 2 discussion",
+      "author": "mlyu",
+      "replies": "17",
+      "views": "14234",
+      "creation_info": "by mlyu at Jan. 2, 2020, 9:05 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133268-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 304 discussion",
+      "author": "kyuhuck",
+      "replies": "8",
+      "views": "3448",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 1:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128599-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 274 discussion",
+      "author": "usamazubairi",
+      "replies": "8",
+      "views": "3047",
+      "creation_info": "by usamazubairi at Dec. 14, 2023, 6:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103024-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 229 discussion",
+      "author": "sevosevo",
+      "replies": "19",
+      "views": "3812",
+      "creation_info": "by sevosevo at March 18, 2023, 1:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74974-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 134 discussion",
+      "author": "spaceexplorer",
+      "replies": "33",
+      "views": "6263",
+      "creation_info": "by spaceexplorer at April 30, 2022, 4:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150537-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 362 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "3",
+      "views": "1923",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150534-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 359 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "4",
+      "views": "1870",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133250-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 293 discussion",
+      "author": "kyuhuck",
+      "replies": "9",
+      "views": "3383",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 10:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114475-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 260 discussion",
+      "author": "ADVIT",
+      "replies": "14",
+      "views": "3832",
+      "creation_info": "by ADVIT at July 8, 2023, 5:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74991-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 154 discussion",
+      "author": "NILKK",
+      "replies": "41",
+      "views": "7086",
+      "creation_info": "by NILKK at April 30, 2022, 8:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/76292-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 173 discussion",
+      "author": "exam_prep",
+      "replies": "25",
+      "views": "5721",
+      "creation_info": "by exam_prep at May 25, 2022, 11:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103018-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 227 discussion",
+      "author": "sevosevo",
+      "replies": "21",
+      "views": "4471",
+      "creation_info": "by sevosevo at March 18, 2023, 12:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114480-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 268 discussion",
+      "author": "ADVIT",
+      "replies": "17",
+      "views": "3806",
+      "creation_info": "by ADVIT at July 8, 2023, 6:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128608-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 277 discussion",
+      "author": "Aaabbk",
+      "replies": "9",
+      "views": "3653",
+      "creation_info": "by Aaabbk at Dec. 14, 2023, 10:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133098-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 300 discussion",
+      "author": "delfoxete",
+      "replies": "8",
+      "views": "3548",
+      "creation_info": "by delfoxete at Feb. 6, 2024, 10:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133097-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 299 discussion",
+      "author": "delfoxete",
+      "replies": "7",
+      "views": "3924",
+      "creation_info": "by delfoxete at Feb. 6, 2024, 10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133248-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 295 discussion",
+      "author": "kyuhuck",
+      "replies": "8",
+      "views": "2916",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 10:18 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133088-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 308 discussion",
+      "author": "delfoxete",
+      "replies": "8",
+      "views": "3395",
+      "creation_info": "by delfoxete at Feb. 6, 2024, 7:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/156769-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 368 discussion",
+      "author": "italiancloud2025",
+      "replies": "2",
+      "views": "1419",
+      "creation_info": "by italiancloud2025 at Feb. 18, 2025, 5:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/156768-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 369 discussion",
+      "author": "italiancloud2025",
+      "replies": "3",
+      "views": "1719",
+      "creation_info": "by italiancloud2025 at Feb. 18, 2025, 5:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/17280-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 69 discussion",
+      "author": "ac427",
+      "replies": "11",
+      "views": "8816",
+      "creation_info": "by ac427 at March 22, 2020, 11:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136002-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 328 discussion",
+      "author": "Peter_Hsieh",
+      "replies": "5",
+      "views": "2979",
+      "creation_info": "by Peter_Hsieh at March 14, 2024, 9:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/45385-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 13 discussion",
+      "author": "ashlash",
+      "replies": "14",
+      "views": "8472",
+      "creation_info": "by ashlash at Feb. 22, 2021, 9:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133269-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 305 discussion",
+      "author": "kyuhuck",
+      "replies": "10",
+      "views": "3379",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 1:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128797-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 283 discussion",
+      "author": "aquanaveen",
+      "replies": "11",
+      "views": "2964",
+      "creation_info": "by aquanaveen at Dec. 17, 2023, 12:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128795-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 281 discussion",
+      "author": "aquanaveen",
+      "replies": "11",
+      "views": "3168",
+      "creation_info": "by aquanaveen at Dec. 17, 2023, 12:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114479-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 267 discussion",
+      "author": "ADVIT",
+      "replies": "26",
+      "views": "3318",
+      "creation_info": "by ADVIT at July 8, 2023, 6:08 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74934-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 157 discussion",
+      "author": "ckkobe24",
+      "replies": "29",
+      "views": "7539",
+      "creation_info": "by ckkobe24 at April 30, 2022, 2:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150535-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 360 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "3",
+      "views": "1962",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150532-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 357 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "6",
+      "views": "2389",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74921-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 139 discussion",
+      "author": "spaceexplorer",
+      "replies": "21",
+      "views": "6344",
+      "creation_info": "by spaceexplorer at April 29, 2022, 7:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75431-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 176 discussion",
+      "author": "DJiang",
+      "replies": "35",
+      "views": "6693",
+      "creation_info": "by DJiang at May 10, 2022, 4:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147148-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 334 discussion",
+      "author": "GS_77",
+      "replies": "8",
+      "views": "2509",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 1:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10054-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 34 discussion",
+      "author": "rsimham",
+      "replies": "66",
+      "views": "12544",
+      "creation_info": "by rsimham at Dec. 9, 2019, 8:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43814-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 1 discussion",
+      "author": "[Removed]",
+      "replies": "79",
+      "views": "23366",
+      "creation_info": "by [Removed] at Feb. 2, 2021, 6:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133256-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 307 discussion",
+      "author": "kyuhuck",
+      "replies": "9",
+      "views": "3323",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 11:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/11376-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 10 discussion",
+      "author": "JayK",
+      "replies": "22",
+      "views": "12784",
+      "creation_info": "by JayK at Jan. 4, 2020, 1:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128591-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 276 discussion",
+      "author": "usamazubairi",
+      "replies": "4",
+      "views": "2954",
+      "creation_info": "by usamazubairi at Dec. 14, 2023, 3:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133244-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 288 discussion",
+      "author": "kyuhuck",
+      "replies": "14",
+      "views": "3365",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 9:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89069-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 206 discussion",
+      "author": "VinceCar",
+      "replies": "10",
+      "views": "4408",
+      "creation_info": "by VinceCar at Nov. 28, 2022, 1:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89093-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 191 discussion",
+      "author": "dunhill",
+      "replies": "19",
+      "views": "5446",
+      "creation_info": "by dunhill at Nov. 28, 2022, 4:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99696-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 215 discussion",
+      "author": "drcok87",
+      "replies": "21",
+      "views": "4632",
+      "creation_info": "by drcok87 at Feb. 17, 2023, 7:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103021-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 228 discussion",
+      "author": "sevosevo",
+      "replies": "9",
+      "views": "4051",
+      "creation_info": "by sevosevo at March 18, 2023, 1:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/12382-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 4 discussion",
+      "author": "ozan11",
+      "replies": "26",
+      "views": "12805",
+      "creation_info": "by ozan11 at Jan. 20, 2020, 1:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147149-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 333 discussion",
+      "author": "GS_77",
+      "replies": "8",
+      "views": "2560",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 1:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112719-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 258 discussion",
+      "author": "RRST",
+      "replies": "21",
+      "views": "4116",
+      "creation_info": "by RRST at June 20, 2023, 9:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112462-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 256 discussion",
+      "author": "SandeepGun",
+      "replies": "17",
+      "views": "4778",
+      "creation_info": "by SandeepGun at June 17, 2023, 4:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88837-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 208 discussion",
+      "author": "tsangckl",
+      "replies": "26",
+      "views": "4434",
+      "creation_info": "by tsangckl at Nov. 26, 2022, 10:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74997-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 167 discussion",
+      "author": "spaceexplorer",
+      "replies": "46",
+      "views": "6738",
+      "creation_info": "by spaceexplorer at April 30, 2022, 10:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147150-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 342 discussion",
+      "author": "GS_77",
+      "replies": "9",
+      "views": "2821",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 1:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147037-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 352 discussion",
+      "author": "canace",
+      "replies": "6",
+      "views": "2533",
+      "creation_info": "by canace at Sept. 5, 2024, 8:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147603-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 347 discussion",
+      "author": "CW0106",
+      "replies": "8",
+      "views": "2787",
+      "creation_info": "by CW0106 at Sept. 15, 2024, 2:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111710-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 253 discussion",
+      "author": "Mickey321",
+      "replies": "6",
+      "views": "3299",
+      "creation_info": "by Mickey321 at June 9, 2023, 5:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43728-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 87 discussion",
+      "author": "Joe_Zhang",
+      "replies": "15",
+      "views": "8325",
+      "creation_info": "by Joe_Zhang at Feb. 2, 2021, 12:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135662-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 314 discussion",
+      "author": "F1Fan",
+      "replies": "11",
+      "views": "3411",
+      "creation_info": "by F1Fan at March 10, 2024, 4:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128796-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 282 discussion",
+      "author": "aquanaveen",
+      "replies": "12",
+      "views": "3635",
+      "creation_info": "by aquanaveen at Dec. 17, 2023, 12:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43870-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 93 discussion",
+      "author": "[Removed]",
+      "replies": "29",
+      "views": "8907",
+      "creation_info": "by [Removed] at Feb. 3, 2021, 4:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135610-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 311 discussion",
+      "author": "AIWave",
+      "replies": "15",
+      "views": "3094",
+      "creation_info": "by AIWave at March 9, 2024, 10:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75078-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 161 discussion",
+      "author": "bluer1",
+      "replies": "14",
+      "views": "5959",
+      "creation_info": "by bluer1 at May 2, 2022, 4:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/11384-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 62 discussion",
+      "author": "JayK",
+      "replies": "20",
+      "views": "10255",
+      "creation_info": "by JayK at Jan. 4, 2020, 4:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8392-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 60 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "18",
+      "views": "9053",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 7:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74394-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 145 discussion",
+      "author": "cron0001",
+      "replies": "20",
+      "views": "5879",
+      "creation_info": "by cron0001 at April 25, 2022, 1:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44155-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 131 discussion",
+      "author": "jiadong",
+      "replies": "35",
+      "views": "8239",
+      "creation_info": "by jiadong at Feb. 7, 2021, 6:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44078-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 120 discussion",
+      "author": "[Removed]",
+      "replies": "15",
+      "views": "7196",
+      "creation_info": "by [Removed] at Feb. 5, 2021, 7:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74388-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 142 discussion",
+      "author": "cron0001",
+      "replies": "22",
+      "views": "5810",
+      "creation_info": "by cron0001 at April 25, 2022, 1:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135990-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 319 discussion",
+      "author": "AIWave",
+      "replies": "8",
+      "views": "3381",
+      "creation_info": "by AIWave at March 14, 2024, 5:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147978-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 343 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "6",
+      "views": "2502",
+      "creation_info": "by MultiCloudIronMan at Sept. 22, 2024, 5:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128698-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 286 discussion",
+      "author": "xiaoeason",
+      "replies": "13",
+      "views": "3975",
+      "creation_info": "by xiaoeason at Dec. 16, 2023, 1:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89266-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 205 discussion",
+      "author": "dunhill",
+      "replies": "41",
+      "views": "5392",
+      "creation_info": "by dunhill at Nov. 29, 2022, 5:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74810-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 171 discussion",
+      "author": "bluer1",
+      "replies": "20",
+      "views": "5636",
+      "creation_info": "by bluer1 at April 28, 2022, 10:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150538-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 363 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "3",
+      "views": "2161",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147153-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 354 discussion",
+      "author": "GS_77",
+      "replies": "3",
+      "views": "2352",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 1:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147981-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 346 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "4",
+      "views": "2070",
+      "creation_info": "by MultiCloudIronMan at Sept. 22, 2024, 5:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/146705-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 340 discussion",
+      "author": "georgejinh",
+      "replies": "4",
+      "views": "2366",
+      "creation_info": "by georgejinh at Aug. 31, 2024, 7:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135917-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 329 discussion",
+      "author": "Peter_Hsieh",
+      "replies": "4",
+      "views": "2470",
+      "creation_info": "by Peter_Hsieh at March 13, 2024, 2:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74070-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 136 discussion",
+      "author": "knightknt",
+      "replies": "16",
+      "views": "5774",
+      "creation_info": "by knightknt at April 22, 2022, 1:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/11820-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 27 discussion",
+      "author": "cybe001",
+      "replies": "21",
+      "views": "10306",
+      "creation_info": "by cybe001 at Jan. 12, 2020, 2:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89267-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 207 discussion",
+      "author": "dunhill",
+      "replies": "13",
+      "views": "3591",
+      "creation_info": "by dunhill at Nov. 29, 2022, 5:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89019-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 187 discussion",
+      "author": "ystotest",
+      "replies": "9",
+      "views": "4118",
+      "creation_info": "by ystotest at Nov. 28, 2022, 3:05 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133519-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 292 discussion",
+      "author": "Untamables",
+      "replies": "5",
+      "views": "3545",
+      "creation_info": "by Untamables at Feb. 11, 2024, 12:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74996-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 150 discussion",
+      "author": "spaceexplorer",
+      "replies": "21",
+      "views": "6792",
+      "creation_info": "by spaceexplorer at April 30, 2022, 10:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147689-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 348 discussion",
+      "author": "CW0106",
+      "replies": "7",
+      "views": "2625",
+      "creation_info": "by CW0106 at Sept. 16, 2024, 5:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128589-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 275 discussion",
+      "author": "usamazubairi",
+      "replies": "5",
+      "views": "2988",
+      "creation_info": "by usamazubairi at Dec. 14, 2023, 3:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/9818-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 5 discussion",
+      "author": "vetal",
+      "replies": "23",
+      "views": "11339",
+      "creation_info": "by vetal at Dec. 6, 2019, 10:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112460-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 255 discussion",
+      "author": "SandeepGun",
+      "replies": "12",
+      "views": "3741",
+      "creation_info": "by SandeepGun at June 17, 2023, 4:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147984-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 350 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "2",
+      "views": "2022",
+      "creation_info": "by MultiCloudIronMan at Sept. 22, 2024, 6:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150533-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 358 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "2",
+      "views": "1711",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150540-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 365 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "2",
+      "views": "1793",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98308-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 224 discussion",
+      "author": "Aninina",
+      "replies": "21",
+      "views": "4310",
+      "creation_info": "by Aninina at Feb. 7, 2023, 2:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8379-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 51 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "32",
+      "views": "10324",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 3:06 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8374-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 49 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "47",
+      "views": "11516",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 2:08 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10081-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 48 discussion",
+      "author": "rsimham",
+      "replies": "27",
+      "views": "8931",
+      "creation_info": "by rsimham at Dec. 10, 2019, 2:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8370-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 47 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "40",
+      "views": "10251",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 12:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8351-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 45 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "34",
+      "views": "10101",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 4:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8319-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 40 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "26",
+      "views": "9156",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 10:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10057-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 36 discussion",
+      "author": "rsimham",
+      "replies": "11",
+      "views": "7484",
+      "creation_info": "by rsimham at Dec. 9, 2019, 9:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10056-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 35 discussion",
+      "author": "rsimham",
+      "replies": "14",
+      "views": "9164",
+      "creation_info": "by rsimham at Dec. 9, 2019, 9:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10409-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 33 discussion",
+      "author": "heihei",
+      "replies": "25",
+      "views": "11294",
+      "creation_info": "by heihei at Dec. 16, 2019, 2:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/14807-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 31 discussion",
+      "author": "gaku1016",
+      "replies": "8",
+      "views": "8457",
+      "creation_info": "by gaku1016 at Feb. 24, 2020, 3:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8316-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 30 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "86",
+      "views": "14907",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 7:05 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10037-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 29 discussion",
+      "author": "vetal",
+      "replies": "19",
+      "views": "11768",
+      "creation_info": "by vetal at Dec. 9, 2019, 3:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10014-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 28 discussion",
+      "author": "rsimham",
+      "replies": "52",
+      "views": "12747",
+      "creation_info": "by rsimham at Dec. 9, 2019, 5:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10264-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 26 discussion",
+      "author": "heihei",
+      "replies": "51",
+      "views": "13640",
+      "creation_info": "by heihei at Dec. 13, 2019, 8:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43910-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 25 discussion",
+      "author": "cnethers",
+      "replies": "46",
+      "views": "10777",
+      "creation_info": "by cnethers at Feb. 3, 2021, 12:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8308-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 24 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "26",
+      "views": "12900",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 4:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8307-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 23 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "23",
+      "views": "10757",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 4:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/9826-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 22 discussion",
+      "author": "vetal",
+      "replies": "27",
+      "views": "11988",
+      "creation_info": "by vetal at Dec. 6, 2019, 11:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10012-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 21 discussion",
+      "author": "rsimham",
+      "replies": "15",
+      "views": "8691",
+      "creation_info": "by rsimham at Dec. 9, 2019, 5:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/9825-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 20 discussion",
+      "author": "vetal",
+      "replies": "32",
+      "views": "13565",
+      "creation_info": "by vetal at Dec. 6, 2019, 11:47 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10011-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 19 discussion",
+      "author": "rsimham",
+      "replies": "12",
+      "views": "10019",
+      "creation_info": "by rsimham at Dec. 9, 2019, 5:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/9805-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 18 discussion",
+      "author": "heihei",
+      "replies": "23",
+      "views": "12539",
+      "creation_info": "by heihei at Dec. 6, 2019, 3:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8306-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 17 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "31",
+      "views": "10413",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 3:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/12378-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 16 discussion",
+      "author": "ozan11",
+      "replies": "19",
+      "views": "13171",
+      "creation_info": "by ozan11 at Jan. 20, 2020, 12:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74926-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 137 discussion",
+      "author": "spaceexplorer",
+      "replies": "28",
+      "views": "6522",
+      "creation_info": "by spaceexplorer at April 29, 2022, 9:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/11279-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 15 discussion",
+      "author": "JayK",
+      "replies": "28",
+      "views": "11984",
+      "creation_info": "by JayK at Jan. 2, 2020, 6:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43907-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 14 discussion",
+      "author": "cnethers",
+      "replies": "13",
+      "views": "9679",
+      "creation_info": "by cnethers at Feb. 3, 2021, 11:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/11771-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 8 discussion",
+      "author": "cybe001",
+      "replies": "21",
+      "views": "10180",
+      "creation_info": "by cybe001 at Jan. 11, 2020, 4:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/11559-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 6 discussion",
+      "author": "mlyu",
+      "replies": "35",
+      "views": "14033",
+      "creation_info": "by mlyu at Jan. 7, 2020, 6:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8339-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 42 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "45",
+      "views": "11971",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 3:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75436-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 151 discussion",
+      "author": "ckkobe24",
+      "replies": "25",
+      "views": "7024",
+      "creation_info": "by ckkobe24 at May 10, 2022, 5:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73977-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 98 discussion",
+      "author": "Istdanagan",
+      "replies": "14",
+      "views": "4958",
+      "creation_info": "by Istdanagan at April 21, 2022, 5:09 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74999-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 186 discussion",
+      "author": "spaceexplorer",
+      "replies": "10",
+      "views": "4733",
+      "creation_info": "by spaceexplorer at April 30, 2022, 11:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75200-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 178 discussion",
+      "author": "edvardo",
+      "replies": "9",
+      "views": "5884",
+      "creation_info": "by edvardo at May 5, 2022, 12:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136026-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 330 discussion",
+      "author": "KAST_424",
+      "replies": "10",
+      "views": "3097",
+      "creation_info": "by KAST_424 at March 14, 2024, 7:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111820-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 265 discussion",
+      "author": "kukreti18",
+      "replies": "16",
+      "views": "3922",
+      "creation_info": "by kukreti18 at June 10, 2023, 11:06 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44073-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 117 discussion",
+      "author": "[Removed]",
+      "replies": "24",
+      "views": "7977",
+      "creation_info": "by [Removed] at Feb. 5, 2021, 6:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73881-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 88 discussion",
+      "author": "knightknt",
+      "replies": "18",
+      "views": "5298",
+      "creation_info": "by knightknt at April 20, 2022, 12:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8394-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 61 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "40",
+      "views": "9207",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 7:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75080-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 158 discussion",
+      "author": "bluer1",
+      "replies": "17",
+      "views": "6385",
+      "creation_info": "by bluer1 at May 2, 2022, 4:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133089-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 302 discussion",
+      "author": "delfoxete",
+      "replies": "3",
+      "views": "3358",
+      "creation_info": "by delfoxete at Feb. 6, 2024, 8:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74919-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 162 discussion",
+      "author": "spaceexplorer",
+      "replies": "22",
+      "views": "5645",
+      "creation_info": "by spaceexplorer at April 29, 2022, 7:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74983-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 72 discussion",
+      "author": "bluer1",
+      "replies": "13",
+      "views": "6513",
+      "creation_info": "by bluer1 at April 30, 2022, 7:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75045-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 182 discussion",
+      "author": "ckkobe24",
+      "replies": "11",
+      "views": "5115",
+      "creation_info": "by ckkobe24 at May 2, 2022, 3:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74079-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 149 discussion",
+      "author": "knightknt",
+      "replies": "9",
+      "views": "4683",
+      "creation_info": "by knightknt at April 22, 2022, 5:08 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103027-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 230 discussion",
+      "author": "sevosevo",
+      "replies": "5",
+      "views": "3315",
+      "creation_info": "by sevosevo at March 18, 2023, 1:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114482-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 270 discussion",
+      "author": "ADVIT",
+      "replies": "6",
+      "views": "3341",
+      "creation_info": "by ADVIT at July 8, 2023, 6:21 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114030-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 263 discussion",
+      "author": "worldboss",
+      "replies": "6",
+      "views": "3232",
+      "creation_info": "by worldboss at July 3, 2023, 10:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111704-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 251 discussion",
+      "author": "Mickey321",
+      "replies": "5",
+      "views": "2931",
+      "creation_info": "by Mickey321 at June 9, 2023, 5:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113070-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 249 discussion",
+      "author": "kukreti18",
+      "replies": "6",
+      "views": "3196",
+      "creation_info": "by kukreti18 at June 23, 2023, 12:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114485-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 277 discussion",
+      "author": "ADVIT",
+      "replies": "10",
+      "views": "4680",
+      "creation_info": "by ADVIT at July 8, 2023, 6:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112449-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 238 discussion",
+      "author": "SandeepGun",
+      "replies": "6",
+      "views": "3560",
+      "creation_info": "by SandeepGun at June 17, 2023, 3:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/97866-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 217 discussion",
+      "author": "blt23",
+      "replies": "5",
+      "views": "3756",
+      "creation_info": "by blt23 at Feb. 4, 2023, 12:06 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75399-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 166 discussion",
+      "author": "edvardo",
+      "replies": "8",
+      "views": "5962",
+      "creation_info": "by edvardo at May 10, 2022, 10:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44105-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 102 discussion",
+      "author": "ksrivastavaSumit",
+      "replies": "15",
+      "views": "7232",
+      "creation_info": "by ksrivastavaSumit at Feb. 6, 2021, 7:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43938-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 78 discussion",
+      "author": "Paul_NoName",
+      "replies": "9",
+      "views": "7640",
+      "creation_info": "by Paul_NoName at Feb. 3, 2021, 7:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44093-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 130 discussion",
+      "author": "[Removed]",
+      "replies": "23",
+      "views": "7466",
+      "creation_info": "by [Removed] at Feb. 6, 2021, 1:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/116362-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 274 discussion",
+      "author": "awsarchitect5",
+      "replies": "12",
+      "views": "3860",
+      "creation_info": "by awsarchitect5 at July 25, 2023, 4:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98990-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 216 discussion",
+      "author": "drcok87",
+      "replies": "11",
+      "views": "3912",
+      "creation_info": "by drcok87 at Feb. 12, 2023, 6:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114425-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 273 discussion",
+      "author": "kukreti18",
+      "replies": "14",
+      "views": "3029",
+      "creation_info": "by kukreti18 at July 7, 2023, 12:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43930-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 92 discussion",
+      "author": "ahquiceno",
+      "replies": "28",
+      "views": "8305",
+      "creation_info": "by ahquiceno at Feb. 3, 2021, 4:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75091-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 148 discussion",
+      "author": "bluer1",
+      "replies": "20",
+      "views": "4739",
+      "creation_info": "by bluer1 at May 2, 2022, 8:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/45615-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 129 discussion",
+      "author": "SophieSu",
+      "replies": "20",
+      "views": "7115",
+      "creation_info": "by SophieSu at Feb. 25, 2021, 8:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44080-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 121 discussion",
+      "author": "[Removed]",
+      "replies": "17",
+      "views": "7571",
+      "creation_info": "by [Removed] at Feb. 5, 2021, 7:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8384-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 54 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "24",
+      "views": "8278",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 4:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43948-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 96 discussion",
+      "author": "takahirokoyama",
+      "replies": "19",
+      "views": "6982",
+      "creation_info": "by takahirokoyama at Feb. 3, 2021, 11:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/17281-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 68 discussion",
+      "author": "ac427",
+      "replies": "11",
+      "views": "9682",
+      "creation_info": "by ac427 at March 22, 2020, 11:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43922-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 82 discussion",
+      "author": "ahquiceno",
+      "replies": "28",
+      "views": "7641",
+      "creation_info": "by ahquiceno at Feb. 3, 2021, 2:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114483-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 271 discussion",
+      "author": "ADVIT",
+      "replies": "6",
+      "views": "3088",
+      "creation_info": "by ADVIT at July 8, 2023, 6:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111690-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 250 discussion",
+      "author": "Mickey321",
+      "replies": "8",
+      "views": "3365",
+      "creation_info": "by Mickey321 at June 9, 2023, 3:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112457-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 247 discussion",
+      "author": "SandeepGun",
+      "replies": "8",
+      "views": "3458",
+      "creation_info": "by SandeepGun at June 17, 2023, 4:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44092-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 128 discussion",
+      "author": "[Removed]",
+      "replies": "9",
+      "views": "6097",
+      "creation_info": "by [Removed] at Feb. 6, 2021, 12:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103028-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 231 discussion",
+      "author": "sevosevo",
+      "replies": "13",
+      "views": "3729",
+      "creation_info": "by sevosevo at March 18, 2023, 1:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103014-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 226 discussion",
+      "author": "sevosevo",
+      "replies": "13",
+      "views": "4609",
+      "creation_info": "by sevosevo at March 18, 2023, 11:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128699-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 287 discussion",
+      "author": "xiaoeason",
+      "replies": "8",
+      "views": "3809",
+      "creation_info": "by xiaoeason at Dec. 16, 2023, 1:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147979-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 344 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "3",
+      "views": "2119",
+      "creation_info": "by MultiCloudIronMan at Sept. 22, 2024, 5:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150536-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 361 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "2",
+      "views": "1809",
+      "creation_info": "by MultiCloudIronMan at Oct. 30, 2024, 10:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133096-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 298 discussion",
+      "author": "delfoxete",
+      "replies": "4",
+      "views": "2835",
+      "creation_info": "by delfoxete at Feb. 6, 2024, 9:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8376-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 50 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "41",
+      "views": "11475",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 2:40 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99689-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 214 discussion",
+      "author": "drcok87",
+      "replies": "7",
+      "views": "3957",
+      "creation_info": "by drcok87 at Feb. 17, 2023, 7:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133266-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 301 discussion",
+      "author": "kyuhuck",
+      "replies": "5",
+      "views": "3115",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 1:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/134338-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 303 discussion",
+      "author": "rav009",
+      "replies": "3",
+      "views": "3384",
+      "creation_info": "by rav009 at Feb. 22, 2024, 6:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89148-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 197 discussion",
+      "author": "dunhill",
+      "replies": "31",
+      "views": "4903",
+      "creation_info": "by dunhill at Nov. 28, 2022, 6:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135608-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 310 discussion",
+      "author": "AIWave",
+      "replies": "4",
+      "views": "3265",
+      "creation_info": "by AIWave at March 9, 2024, 9:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135663-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 315 discussion",
+      "author": "F1Fan",
+      "replies": "5",
+      "views": "2703",
+      "creation_info": "by F1Fan at March 10, 2024, 4:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135664-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 316 discussion",
+      "author": "F1Fan",
+      "replies": "3",
+      "views": "2815",
+      "creation_info": "by F1Fan at March 10, 2024, 4:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135665-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 317 discussion",
+      "author": "F1Fan",
+      "replies": "3",
+      "views": "2866",
+      "creation_info": "by F1Fan at March 10, 2024, 4:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135988-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 318 discussion",
+      "author": "AIWave",
+      "replies": "3",
+      "views": "2856",
+      "creation_info": "by AIWave at March 14, 2024, 5:27 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10089-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 63 discussion",
+      "author": "rsimham",
+      "replies": "20",
+      "views": "10632",
+      "creation_info": "by rsimham at Dec. 10, 2019, 5:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10080-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 46 discussion",
+      "author": "rsimham",
+      "replies": "14",
+      "views": "8926",
+      "creation_info": "by rsimham at Dec. 10, 2019, 2:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147146-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 336 discussion",
+      "author": "GS_77",
+      "replies": "5",
+      "views": "2423",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 12:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74397-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 156 discussion",
+      "author": "cron0001",
+      "replies": "16",
+      "views": "6255",
+      "creation_info": "by cron0001 at April 25, 2022, 2:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147154-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 353 discussion",
+      "author": "GS_77",
+      "replies": "3",
+      "views": "2318",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 2 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147980-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 345 discussion",
+      "author": "MultiCloudIronMan",
+      "replies": "2",
+      "views": "1958",
+      "creation_info": "by MultiCloudIronMan at Sept. 22, 2024, 5:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135612-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 313 discussion",
+      "author": "AIWave",
+      "replies": "6",
+      "views": "3616",
+      "creation_info": "by AIWave at March 9, 2024, 10:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/45178-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 100 discussion",
+      "author": "scuzzy2010",
+      "replies": "9",
+      "views": "7250",
+      "creation_info": "by scuzzy2010 at Feb. 19, 2021, 2:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10083-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 55 discussion",
+      "author": "rsimham",
+      "replies": "34",
+      "views": "10884",
+      "creation_info": "by rsimham at Dec. 10, 2019, 3:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74078-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 146 discussion",
+      "author": "knightknt",
+      "replies": "7",
+      "views": "4835",
+      "creation_info": "by knightknt at April 22, 2022, 4:50 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114427-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 264 discussion",
+      "author": "kukreti18",
+      "replies": "5",
+      "views": "3596",
+      "creation_info": "by kukreti18 at July 7, 2023, 1:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/146688-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 339 discussion",
+      "author": "GS_77",
+      "replies": "6",
+      "views": "2292",
+      "creation_info": "by GS_77 at Aug. 30, 2024, 7:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/146687-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 335 discussion",
+      "author": "GS_77",
+      "replies": "4",
+      "views": "2918",
+      "creation_info": "by GS_77 at Aug. 30, 2024, 7:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136027-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 332 discussion",
+      "author": "KAST_424",
+      "replies": "5",
+      "views": "2664",
+      "creation_info": "by KAST_424 at March 14, 2024, 7:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136023-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 323 discussion",
+      "author": "AIWave",
+      "replies": "4",
+      "views": "2593",
+      "creation_info": "by AIWave at March 14, 2024, 6:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75059-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 163 discussion",
+      "author": "bluer1",
+      "replies": "18",
+      "views": "6277",
+      "creation_info": "by bluer1 at May 2, 2022, 1:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75279-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 183 discussion",
+      "author": "cognito_22",
+      "replies": "12",
+      "views": "5039",
+      "creation_info": "by cognito_22 at May 7, 2022, 8:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/77501-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 164 discussion",
+      "author": "Skychaser",
+      "replies": "7",
+      "views": "4960",
+      "creation_info": "by Skychaser at July 13, 2022, 6:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74392-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 144 discussion",
+      "author": "cron0001",
+      "replies": "5",
+      "views": "4918",
+      "creation_info": "by cron0001 at April 25, 2022, 1:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/146689-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 337 discussion",
+      "author": "GS_77",
+      "replies": "4",
+      "views": "2447",
+      "creation_info": "by GS_77 at Aug. 30, 2024, 7:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74280-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 138 discussion",
+      "author": "cron0001",
+      "replies": "8",
+      "views": "5791",
+      "creation_info": "by cron0001 at April 24, 2022, 3:54 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/46347-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 32 discussion",
+      "author": "omar_bahrain",
+      "replies": "13",
+      "views": "6327",
+      "creation_info": "by omar_bahrain at March 11, 2021, 7:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44530-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 108 discussion",
+      "author": "jiadong",
+      "replies": "18",
+      "views": "7672",
+      "creation_info": "by jiadong at Feb. 12, 2021, 11:08 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/73978-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 99 discussion",
+      "author": "Istdanagan",
+      "replies": "12",
+      "views": "4429",
+      "creation_info": "by Istdanagan at April 21, 2022, 5:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8318-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 39 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "43",
+      "views": "10709",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 9:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89151-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 199 discussion",
+      "author": "dunhill",
+      "replies": "11",
+      "views": "4970",
+      "creation_info": "by dunhill at Nov. 28, 2022, 6:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103033-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 235 discussion",
+      "author": "sevosevo",
+      "replies": "16",
+      "views": "4738",
+      "creation_info": "by sevosevo at March 18, 2023, 2:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114477-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 262 discussion",
+      "author": "ADVIT",
+      "replies": "6",
+      "views": "2832",
+      "creation_info": "by ADVIT at July 8, 2023, 5:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75336-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 123 discussion",
+      "author": "LydiaGom",
+      "replies": "14",
+      "views": "4793",
+      "creation_info": "by LydiaGom at May 9, 2022, 11:38 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43864-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 89 discussion",
+      "author": "ac71",
+      "replies": "24",
+      "views": "8704",
+      "creation_info": "by ac71 at Feb. 3, 2021, 3:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/76354-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 133 discussion",
+      "author": "exam_prep",
+      "replies": "9",
+      "views": "4895",
+      "creation_info": "by exam_prep at May 27, 2022, 10:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89150-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 198 discussion",
+      "author": "dunhill",
+      "replies": "16",
+      "views": "4295",
+      "creation_info": "by dunhill at Nov. 28, 2022, 6:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135991-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 320 discussion",
+      "author": "AIWave",
+      "replies": "3",
+      "views": "3332",
+      "creation_info": "by AIWave at March 14, 2024, 5:43 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135994-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 321 discussion",
+      "author": "AIWave",
+      "replies": "3",
+      "views": "2957",
+      "creation_info": "by AIWave at March 14, 2024, 6:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75020-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 153 discussion",
+      "author": "bluer1",
+      "replies": "11",
+      "views": "4658",
+      "creation_info": "by bluer1 at May 1, 2022, 6:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112600-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 248 discussion",
+      "author": "asdfzxc",
+      "replies": "4",
+      "views": "3436",
+      "creation_info": "by asdfzxc at June 19, 2023, 3:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112456-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 246 discussion",
+      "author": "SandeepGun",
+      "replies": "5",
+      "views": "3883",
+      "creation_info": "by SandeepGun at June 17, 2023, 4 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114484-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 275 discussion",
+      "author": "ADVIT",
+      "replies": "8",
+      "views": "3794",
+      "creation_info": "by ADVIT at July 8, 2023, 6:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114297-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 276 discussion",
+      "author": "kukreti18",
+      "replies": "6",
+      "views": "3349",
+      "creation_info": "by kukreti18 at July 6, 2023, 5:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112450-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 239 discussion",
+      "author": "SandeepGun",
+      "replies": "4",
+      "views": "3009",
+      "creation_info": "by SandeepGun at June 17, 2023, 3:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133265-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 297 discussion",
+      "author": "kyuhuck",
+      "replies": "4",
+      "views": "3018",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 1:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136031-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 331 discussion",
+      "author": "AIWave",
+      "replies": "3",
+      "views": "2933",
+      "creation_info": "by AIWave at March 14, 2024, 9:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136010-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 327 discussion",
+      "author": "Peter_Hsieh",
+      "replies": "3",
+      "views": "2462",
+      "creation_info": "by Peter_Hsieh at March 14, 2024, 1:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136011-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 326 discussion",
+      "author": "Peter_Hsieh",
+      "replies": "3",
+      "views": "2798",
+      "creation_info": "by Peter_Hsieh at March 14, 2024, 1:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114426-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 272 discussion",
+      "author": "kukreti18",
+      "replies": "10",
+      "views": "3848",
+      "creation_info": "by kukreti18 at July 7, 2023, 12:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112463-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 259 discussion",
+      "author": "SandeepGun",
+      "replies": "5",
+      "views": "4108",
+      "creation_info": "by SandeepGun at June 17, 2023, 4:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111711-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 254 discussion",
+      "author": "Mickey321",
+      "replies": "14",
+      "views": "4685",
+      "creation_info": "by Mickey321 at June 9, 2023, 5:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74067-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 132 discussion",
+      "author": "knightknt",
+      "replies": "23",
+      "views": "7379",
+      "creation_info": "by knightknt at April 22, 2022, 12:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43919-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 80 discussion",
+      "author": "ahquiceno",
+      "replies": "27",
+      "views": "7221",
+      "creation_info": "by ahquiceno at Feb. 3, 2021, 2:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43940-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 79 discussion",
+      "author": "Paul_NoName",
+      "replies": "18",
+      "views": "8716",
+      "creation_info": "by Paul_NoName at Feb. 3, 2021, 7:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43874-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 76 discussion",
+      "author": "jiadong",
+      "replies": "22",
+      "views": "9466",
+      "creation_info": "by jiadong at Feb. 3, 2021, 4:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43717-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 73 discussion",
+      "author": "Joe_Zhang",
+      "replies": "36",
+      "views": "7208",
+      "creation_info": "by Joe_Zhang at Feb. 1, 2021, 10:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43716-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 71 discussion",
+      "author": "Joe_Zhang",
+      "replies": "20",
+      "views": "7625",
+      "creation_info": "by Joe_Zhang at Feb. 1, 2021, 10:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133253-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 294 discussion",
+      "author": "kyuhuck",
+      "replies": "3",
+      "views": "3117",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 11:13 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88731-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 189 discussion",
+      "author": "GauravLahotiML",
+      "replies": "11",
+      "views": "4171",
+      "creation_info": "by GauravLahotiML at Nov. 25, 2022, 6:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75262-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 168 discussion",
+      "author": "ckkobe24",
+      "replies": "11",
+      "views": "4792",
+      "creation_info": "by ckkobe24 at May 7, 2022, 10:47 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74920-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 160 discussion",
+      "author": "spaceexplorer",
+      "replies": "12",
+      "views": "5858",
+      "creation_info": "by spaceexplorer at April 29, 2022, 7:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44065-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 113 discussion",
+      "author": "[Removed]",
+      "replies": "17",
+      "views": "7519",
+      "creation_info": "by [Removed] at Feb. 5, 2021, 6:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44063-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 111 discussion",
+      "author": "[Removed]",
+      "replies": "13",
+      "views": "7208",
+      "creation_info": "by [Removed] at Feb. 5, 2021, 5:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44886-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 101 discussion",
+      "author": "astonm13",
+      "replies": "35",
+      "views": "8190",
+      "creation_info": "by astonm13 at Feb. 16, 2021, 1:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43916-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 74 discussion",
+      "author": "ahquiceno",
+      "replies": "14",
+      "views": "8265",
+      "creation_info": "by ahquiceno at Feb. 3, 2021, 1:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136025-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 325 discussion",
+      "author": "AIWave",
+      "replies": "9",
+      "views": "3332",
+      "creation_info": "by AIWave at March 14, 2024, 6:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136022-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 322 discussion",
+      "author": "AIWave",
+      "replies": "3",
+      "views": "2828",
+      "creation_info": "by AIWave at March 14, 2024, 6:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135611-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 312 discussion",
+      "author": "AIWave",
+      "replies": "4",
+      "views": "2955",
+      "creation_info": "by AIWave at March 9, 2024, 10:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147156-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 356 discussion",
+      "author": "GS_77",
+      "replies": "2",
+      "views": "2417",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 2:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147152-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 355 discussion",
+      "author": "GS_77",
+      "replies": "2",
+      "views": "2352",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 1:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147155-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 351 discussion",
+      "author": "GS_77",
+      "replies": "2",
+      "views": "2243",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 2 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147151-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 349 discussion",
+      "author": "GS_77",
+      "replies": "2",
+      "views": "2309",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 1:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74972-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 179 discussion",
+      "author": "spaceexplorer",
+      "replies": "8",
+      "views": "5350",
+      "creation_info": "by spaceexplorer at April 30, 2022, 3:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74877-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 172 discussion",
+      "author": "cron0001",
+      "replies": "14",
+      "views": "5146",
+      "creation_info": "by cron0001 at April 29, 2022, 11:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147369-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 341 discussion",
+      "author": "GS_77",
+      "replies": "2",
+      "views": "2185",
+      "creation_info": "by GS_77 at Sept. 12, 2024, 1:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147147-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 338 discussion",
+      "author": "GS_77",
+      "replies": "2",
+      "views": "2407",
+      "creation_info": "by GS_77 at Sept. 7, 2024, 1:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112605-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 257 discussion",
+      "author": "asdfzxc",
+      "replies": "5",
+      "views": "4145",
+      "creation_info": "by asdfzxc at June 19, 2023, 4:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44081-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 125 discussion",
+      "author": "[Removed]",
+      "replies": "23",
+      "views": "7996",
+      "creation_info": "by [Removed] at Feb. 5, 2021, 8:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/45611-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 118 discussion",
+      "author": "SophieSu",
+      "replies": "13",
+      "views": "6733",
+      "creation_info": "by SophieSu at Feb. 25, 2021, 8:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136015-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 324 discussion",
+      "author": "Peter_Hsieh",
+      "replies": "3",
+      "views": "2291",
+      "creation_info": "by Peter_Hsieh at March 14, 2024, 3:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98756-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 212 discussion",
+      "author": "drcok87",
+      "replies": "8",
+      "views": "3319",
+      "creation_info": "by drcok87 at Feb. 10, 2023, 10:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88943-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 196 discussion",
+      "author": "VinceCar",
+      "replies": "19",
+      "views": "5101",
+      "creation_info": "by VinceCar at Nov. 27, 2022, 1:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44301-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 116 discussion",
+      "author": "cnethers",
+      "replies": "12",
+      "views": "6894",
+      "creation_info": "by cnethers at Feb. 8, 2021, 9:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44091-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 127 discussion",
+      "author": "[Removed]",
+      "replies": "10",
+      "views": "6551",
+      "creation_info": "by [Removed] at Feb. 6, 2021, 12:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43867-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 91 discussion",
+      "author": "ac71",
+      "replies": "15",
+      "views": "7768",
+      "creation_info": "by ac71 at Feb. 3, 2021, 4:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89262-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 201 discussion",
+      "author": "dunhill",
+      "replies": "16",
+      "views": "4367",
+      "creation_info": "by dunhill at Nov. 29, 2022, 4:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103029-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 232 discussion",
+      "author": "sevosevo",
+      "replies": "7",
+      "views": "3484",
+      "creation_info": "by sevosevo at March 18, 2023, 2:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8382-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 52 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "21",
+      "views": "8999",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 3:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8343-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 43 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "39",
+      "views": "10097",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 3:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10058-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 37 discussion",
+      "author": "rsimham",
+      "replies": "21",
+      "views": "8481",
+      "creation_info": "by rsimham at Dec. 9, 2019, 9:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111706-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 252 discussion",
+      "author": "Mickey321",
+      "replies": "5",
+      "views": "3175",
+      "creation_info": "by Mickey321 at June 9, 2023, 5:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112452-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 241 discussion",
+      "author": "SandeepGun",
+      "replies": "6",
+      "views": "3030",
+      "creation_info": "by SandeepGun at June 17, 2023, 3:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103032-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 234 discussion",
+      "author": "sevosevo",
+      "replies": "4",
+      "views": "3588",
+      "creation_info": "by sevosevo at March 18, 2023, 2:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103030-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 233 discussion",
+      "author": "sevosevo",
+      "replies": "6",
+      "views": "3244",
+      "creation_info": "by sevosevo at March 18, 2023, 2:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/100146-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 223 discussion",
+      "author": "AjoseO",
+      "replies": "12",
+      "views": "4185",
+      "creation_info": "by AjoseO at Feb. 20, 2023, 11:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98765-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 222 discussion",
+      "author": "drcok87",
+      "replies": "8",
+      "views": "4848",
+      "creation_info": "by drcok87 at Feb. 11, 2023, 1:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98764-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 220 discussion",
+      "author": "drcok87",
+      "replies": "9",
+      "views": "4105",
+      "creation_info": "by drcok87 at Feb. 11, 2023, 12:50 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99814-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 213 discussion",
+      "author": "wolfsong",
+      "replies": "13",
+      "views": "4020",
+      "creation_info": "by wolfsong at Feb. 18, 2023, 3:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99688-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 211 discussion",
+      "author": "drcok87",
+      "replies": "10",
+      "views": "4812",
+      "creation_info": "by drcok87 at Feb. 17, 2023, 7:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98527-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 210 discussion",
+      "author": "damaldon",
+      "replies": "12",
+      "views": "4916",
+      "creation_info": "by damaldon at Feb. 9, 2023, 10:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98541-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 209 discussion",
+      "author": "merki",
+      "replies": "11",
+      "views": "3962",
+      "creation_info": "by merki at Feb. 9, 2023, 12:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88838-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 204 discussion",
+      "author": "tsangckl",
+      "replies": "12",
+      "views": "4095",
+      "creation_info": "by tsangckl at Nov. 26, 2022, 11:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89213-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 203 discussion",
+      "author": "Amit11011996",
+      "replies": "8",
+      "views": "4746",
+      "creation_info": "by Amit11011996 at Nov. 29, 2022, 8:29 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89051-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 202 discussion",
+      "author": "VinceCar",
+      "replies": "8",
+      "views": "3719",
+      "creation_info": "by VinceCar at Nov. 28, 2022, noon"
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88924-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 200 discussion",
+      "author": "tsangckl",
+      "replies": "14",
+      "views": "4246",
+      "creation_info": "by tsangckl at Nov. 27, 2022, 8:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89135-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 194 discussion",
+      "author": "dunhill",
+      "replies": "10",
+      "views": "3124",
+      "creation_info": "by dunhill at Nov. 28, 2022, 4:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88928-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 193 discussion",
+      "author": "VinceCar",
+      "replies": "8",
+      "views": "3083",
+      "creation_info": "by VinceCar at Nov. 27, 2022, 8:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88927-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 192 discussion",
+      "author": "VinceCar",
+      "replies": "12",
+      "views": "3708",
+      "creation_info": "by VinceCar at Nov. 27, 2022, 8:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74925-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 185 discussion",
+      "author": "spaceexplorer",
+      "replies": "9",
+      "views": "5088",
+      "creation_info": "by spaceexplorer at April 29, 2022, 8:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75149-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 184 discussion",
+      "author": "edvardo",
+      "replies": "5",
+      "views": "4509",
+      "creation_info": "by edvardo at May 4, 2022, 2 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74970-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 181 discussion",
+      "author": "spaceexplorer",
+      "replies": "12",
+      "views": "5105",
+      "creation_info": "by spaceexplorer at April 30, 2022, 2:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74871-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 177 discussion",
+      "author": "cron0001",
+      "replies": "12",
+      "views": "5800",
+      "creation_info": "by cron0001 at April 29, 2022, 10:13 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/134301-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 296 discussion",
+      "author": "rav009",
+      "replies": "5",
+      "views": "2247",
+      "creation_info": "by rav009 at Feb. 21, 2024, 8:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/46341-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 126 discussion",
+      "author": "omar_bahrain",
+      "replies": "12",
+      "views": "7166",
+      "creation_info": "by omar_bahrain at March 11, 2021, 4:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43964-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 104 discussion",
+      "author": "[Removed]",
+      "replies": "7",
+      "views": "7353",
+      "creation_info": "by [Removed] at Feb. 4, 2021, 6:47 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43708-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 70 discussion",
+      "author": "ahquiceno",
+      "replies": "24",
+      "views": "7268",
+      "creation_info": "by ahquiceno at Feb. 1, 2021, 7:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133242-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 289 discussion",
+      "author": "kyuhuck",
+      "replies": "6",
+      "views": "3356",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 9:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128943-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 279 discussion",
+      "author": "xiaoeason",
+      "replies": "3",
+      "views": "3107",
+      "creation_info": "by xiaoeason at Dec. 19, 2023, 2:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113104-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 261 discussion",
+      "author": "xinyingw",
+      "replies": "6",
+      "views": "3805",
+      "creation_info": "by xinyingw at June 23, 2023, 4:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133249-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 291 discussion",
+      "author": "kyuhuck",
+      "replies": "4",
+      "views": "2380",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 10:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133245-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 290 discussion",
+      "author": "kyuhuck",
+      "replies": "3",
+      "views": "2846",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 9:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128798-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 284 discussion",
+      "author": "aquanaveen",
+      "replies": "6",
+      "views": "2755",
+      "creation_info": "by aquanaveen at Dec. 17, 2023, 12:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112451-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 240 discussion",
+      "author": "SandeepGun",
+      "replies": "6",
+      "views": "3207",
+      "creation_info": "by SandeepGun at June 17, 2023, 3:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10090-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 65 discussion",
+      "author": "rsimham",
+      "replies": "21",
+      "views": "8396",
+      "creation_info": "by rsimham at Dec. 10, 2019, 5:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/19369-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 66 discussion",
+      "author": "Erso",
+      "replies": "6",
+      "views": "5939",
+      "creation_info": "by Erso at April 30, 2020, 2:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/26038-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 67 discussion",
+      "author": "Achievement",
+      "replies": "9",
+      "views": "7585",
+      "creation_info": "by Achievement at July 18, 2020, 11:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10084-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 56 discussion",
+      "author": "rsimham",
+      "replies": "7",
+      "views": "10034",
+      "creation_info": "by rsimham at Dec. 10, 2019, 3:28 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74998-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 169 discussion",
+      "author": "spaceexplorer",
+      "replies": "16",
+      "views": "6310",
+      "creation_info": "by spaceexplorer at April 30, 2022, 10:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8317-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 38 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "10",
+      "views": "10145",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 8:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43942-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 84 discussion",
+      "author": "Paul_NoName",
+      "replies": "13",
+      "views": "8166",
+      "creation_info": "by Paul_NoName at Feb. 3, 2021, 7:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43923-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 83 discussion",
+      "author": "ahquiceno",
+      "replies": "5",
+      "views": "5353",
+      "creation_info": "by ahquiceno at Feb. 3, 2021, 2:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43921-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 81 discussion",
+      "author": "ahquiceno",
+      "replies": "16",
+      "views": "7421",
+      "creation_info": "by ahquiceno at Feb. 3, 2021, 2:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43915-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 75 discussion",
+      "author": "ahquiceno",
+      "replies": "6",
+      "views": "8302",
+      "creation_info": "by ahquiceno at Feb. 3, 2021, 1:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74993-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 141 discussion",
+      "author": "spaceexplorer",
+      "replies": "8",
+      "views": "5512",
+      "creation_info": "by spaceexplorer at April 30, 2022, 9:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74279-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 135 discussion",
+      "author": "cron0001",
+      "replies": "4",
+      "views": "5334",
+      "creation_info": "by cron0001 at April 24, 2022, 3:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88925-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 188 discussion",
+      "author": "VinceCar",
+      "replies": "5",
+      "views": "3270",
+      "creation_info": "by VinceCar at Nov. 27, 2022, 8:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75321-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 152 discussion",
+      "author": "DJiang",
+      "replies": "9",
+      "views": "5949",
+      "creation_info": "by DJiang at May 9, 2022, 6:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43866-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 90 discussion",
+      "author": "ac71",
+      "replies": "18",
+      "views": "6229",
+      "creation_info": "by ac71 at Feb. 3, 2021, 4:01 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44079-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 122 discussion",
+      "author": "[Removed]",
+      "replies": "5",
+      "views": "6681",
+      "creation_info": "by [Removed] at Feb. 5, 2021, 7:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/45464-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 115 discussion",
+      "author": "SophieSu",
+      "replies": "8",
+      "views": "7553",
+      "creation_info": "by SophieSu at Feb. 23, 2021, 3:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44064-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 112 discussion",
+      "author": "[Removed]",
+      "replies": "8",
+      "views": "5987",
+      "creation_info": "by [Removed] at Feb. 5, 2021, 6:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44290-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 109 discussion",
+      "author": "cnethers",
+      "replies": "15",
+      "views": "7383",
+      "creation_info": "by cnethers at Feb. 8, 2021, 7:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74922-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 174 discussion",
+      "author": "spaceexplorer",
+      "replies": "10",
+      "views": "5718",
+      "creation_info": "by spaceexplorer at April 29, 2022, 8 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44289-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 107 discussion",
+      "author": "cnethers",
+      "replies": "12",
+      "views": "6921",
+      "creation_info": "by cnethers at Feb. 8, 2021, 7:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43965-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 105 discussion",
+      "author": "[Removed]",
+      "replies": "11",
+      "views": "7086",
+      "creation_info": "by [Removed] at Feb. 4, 2021, 6:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89137-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 195 discussion",
+      "author": "dunhill",
+      "replies": "6",
+      "views": "3790",
+      "creation_info": "by dunhill at Nov. 28, 2022, 4:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44056-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 85 discussion",
+      "author": "cnethers",
+      "replies": "9",
+      "views": "7492",
+      "creation_info": "by cnethers at Feb. 5, 2021, 2:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75415-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 155 discussion",
+      "author": "edvardo",
+      "replies": "7",
+      "views": "5584",
+      "creation_info": "by edvardo at May 10, 2022, 1:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98200-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 225 discussion",
+      "author": "Amit11011996",
+      "replies": "5",
+      "views": "3962",
+      "creation_info": "by Amit11011996 at Feb. 6, 2023, 6:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44917-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 110 discussion",
+      "author": "[Removed]",
+      "replies": "9",
+      "views": "6545",
+      "creation_info": "by [Removed] at Feb. 16, 2021, 7:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98201-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 221 discussion",
+      "author": "Amit11011996",
+      "replies": "5",
+      "views": "3894",
+      "creation_info": "by Amit11011996 at Feb. 6, 2023, 6:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43721-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 77 discussion",
+      "author": "Joe_Zhang",
+      "replies": "15",
+      "views": "7528",
+      "creation_info": "by Joe_Zhang at Feb. 1, 2021, 11:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8395-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 64 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "41",
+      "views": "11381",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 8:47 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44186-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 124 discussion",
+      "author": "rajesriv",
+      "replies": "10",
+      "views": "7011",
+      "creation_info": "by rajesriv at Feb. 7, 2021, 4:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98763-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 219 discussion",
+      "author": "drcok87",
+      "replies": "6",
+      "views": "3517",
+      "creation_info": "by drcok87 at Feb. 11, 2023, 12:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44077-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 119 discussion",
+      "author": "[Removed]",
+      "replies": "12",
+      "views": "7441",
+      "creation_info": "by [Removed] at Feb. 5, 2021, 7:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44249-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 106 discussion",
+      "author": "cnethers",
+      "replies": "11",
+      "views": "7100",
+      "creation_info": "by cnethers at Feb. 8, 2021, 6:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74395-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 147 discussion",
+      "author": "cron0001",
+      "replies": "3",
+      "views": "4461",
+      "creation_info": "by cron0001 at April 25, 2022, 1:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114478-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 266 discussion",
+      "author": "ADVIT",
+      "replies": "4",
+      "views": "3316",
+      "creation_info": "by ADVIT at July 8, 2023, 6:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43932-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 95 discussion",
+      "author": "ahquiceno",
+      "replies": "13",
+      "views": "6117",
+      "creation_info": "by ahquiceno at Feb. 3, 2021, 4:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10085-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 58 discussion",
+      "author": "rsimham",
+      "replies": "21",
+      "views": "9157",
+      "creation_info": "by rsimham at Dec. 10, 2019, 3:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74274-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 59 discussion",
+      "author": "cron0001",
+      "replies": "39",
+      "views": "6932",
+      "creation_info": "by cron0001 at April 24, 2022, 1:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74809-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 170 discussion",
+      "author": "bluer1",
+      "replies": "10",
+      "views": "7944",
+      "creation_info": "by bluer1 at April 28, 2022, 10:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133087-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 309 discussion",
+      "author": "delfoxete",
+      "replies": "5",
+      "views": "2727",
+      "creation_info": "by delfoxete at Feb. 6, 2024, 7:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/76486-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 165 discussion",
+      "author": "exam_prep",
+      "replies": "8",
+      "views": "4638",
+      "creation_info": "by exam_prep at June 2, 2022, 12:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89092-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 190 discussion",
+      "author": "dunhill",
+      "replies": "18",
+      "views": "5220",
+      "creation_info": "by dunhill at Nov. 28, 2022, 4:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74994-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 175 discussion",
+      "author": "spaceexplorer",
+      "replies": "12",
+      "views": "5546",
+      "creation_info": "by spaceexplorer at April 30, 2022, 9:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43943-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 86 discussion",
+      "author": "Paul_NoName",
+      "replies": "14",
+      "views": "7377",
+      "creation_info": "by Paul_NoName at Feb. 3, 2021, 7:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74071-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 140 discussion",
+      "author": "knightknt",
+      "replies": "6",
+      "views": "6549",
+      "creation_info": "by knightknt at April 22, 2022, 1:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/11851-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 41 discussion",
+      "author": "cybe001",
+      "replies": "12",
+      "views": "7660",
+      "creation_info": "by cybe001 at Jan. 12, 2020, 10:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/103035-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 236 discussion",
+      "author": "sevosevo",
+      "replies": "7",
+      "views": "3603",
+      "creation_info": "by sevosevo at March 18, 2023, 2:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43931-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 94 discussion",
+      "author": "ahquiceno",
+      "replies": "23",
+      "views": "6955",
+      "creation_info": "by ahquiceno at Feb. 3, 2021, 4:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8348-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 44 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "37",
+      "views": "10139",
+      "creation_info": "by DonaldCMLIN at Nov. 16, 2019, 4:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/8386-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 57 discussion",
+      "author": "DonaldCMLIN",
+      "replies": "45",
+      "views": "9361",
+      "creation_info": "by DonaldCMLIN at Nov. 17, 2019, 4:38 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/76355-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 143 discussion",
+      "author": "exam_prep",
+      "replies": "6",
+      "views": "4400",
+      "creation_info": "by exam_prep at May 28, 2022, 1:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/43962-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 97 discussion",
+      "author": "[Removed]",
+      "replies": "60",
+      "views": "12118",
+      "creation_info": "by [Removed] at Feb. 4, 2021, 6:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128947-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 280 discussion",
+      "author": "xiaoeason",
+      "replies": "5",
+      "views": "2916",
+      "creation_info": "by xiaoeason at Dec. 19, 2023, 2:09 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/44106-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 103 discussion",
+      "author": "ksrivastavaSumit",
+      "replies": "18",
+      "views": "6267",
+      "creation_info": "by ksrivastavaSumit at Feb. 6, 2021, 7:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128799-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 285 discussion",
+      "author": "aquanaveen",
+      "replies": "3",
+      "views": "2749",
+      "creation_info": "by aquanaveen at Dec. 17, 2023, 1:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133255-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 306 discussion",
+      "author": "kyuhuck",
+      "replies": "4",
+      "views": "2948",
+      "creation_info": "by kyuhuck at Feb. 7, 2024, 11:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/45463-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 114 discussion",
+      "author": "SophieSu",
+      "replies": "6",
+      "views": "5263",
+      "creation_info": "by SophieSu at Feb. 23, 2021, 3:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/10082-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 53 discussion",
+      "author": "rsimham",
+      "replies": "33",
+      "views": "10189",
+      "creation_info": "by rsimham at Dec. 10, 2019, 3:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/128794-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 278 discussion",
+      "author": "aquanaveen",
+      "replies": "4",
+      "views": "3548",
+      "creation_info": "by aquanaveen at Dec. 17, 2023, 12:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74806-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 159 discussion",
+      "author": "bluer1",
+      "replies": "11",
+      "views": "5445",
+      "creation_info": "by bluer1 at April 28, 2022, 9:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114481-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 269 discussion",
+      "author": "ADVIT",
+      "replies": "8",
+      "views": "2820",
+      "creation_info": "by ADVIT at July 8, 2023, 6:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98762-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 218 discussion",
+      "author": "drcok87",
+      "replies": "15",
+      "views": "4147",
+      "creation_info": "by drcok87 at Feb. 11, 2023, 12:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/75022-exam-aws-certified-machine-learning-specialty-topic-1/",
+      "title": "Exam AWS Certified Machine Learning - Specialty topic 1 question 180 discussion",
+      "author": "bluer1",
+      "replies": "18",
+      "views": "5959",
+      "creation_info": "by bluer1 at May 1, 2022, 8:08 p.m."
+    }
+  ]
+}

@@ -1,0 +1,2462 @@
+{
+  "exam_name": "AWS Certified Security - Specialty SCS-C02",
+  "total_questions": 307,
+  "questions": [
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150116-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 202 discussion",
+      "author": "Bad_Mat",
+      "replies": "5",
+      "views": "2041",
+      "creation_info": "by Bad_Mat at Oct. 23, 2024, 2:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/303391-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 306 discussion",
+      "author": "mnsait",
+      "replies": "3",
+      "views": "984",
+      "creation_info": "by mnsait at May 7, 2025, 6:09 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302561-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 305 discussion",
+      "author": "phmeeeee",
+      "replies": "5",
+      "views": "1354",
+      "creation_info": "by phmeeeee at April 11, 2025, 4:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/307581-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 304 discussion",
+      "author": "Seidor_Analytics",
+      "replies": "4",
+      "views": "558",
+      "creation_info": "by Seidor_Analytics at July 31, 2025, 4:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/307580-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 302 discussion",
+      "author": "Seidor_Analytics",
+      "replies": "4",
+      "views": "434",
+      "creation_info": "by Seidor_Analytics at July 31, 2025, 4:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302633-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 301 discussion",
+      "author": "beriliu",
+      "replies": "9",
+      "views": "1476",
+      "creation_info": "by beriliu at April 15, 2025, 7:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127052-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 78 discussion",
+      "author": "oioi",
+      "replies": "10",
+      "views": "4633",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127036-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 66 discussion",
+      "author": "marlonchin",
+      "replies": "6",
+      "views": "5194",
+      "creation_info": "by marlonchin at Nov. 23, 2023, 7:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124151-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 55 discussion",
+      "author": "100fold",
+      "replies": "38",
+      "views": "8160",
+      "creation_info": "by 100fold at Oct. 21, 2023, 1:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152024-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 296 discussion",
+      "author": "723993f",
+      "replies": "5",
+      "views": "2629",
+      "creation_info": "by 723993f at Nov. 26, 2024, 4:29 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153952-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 293 discussion",
+      "author": "Pmktechno",
+      "replies": "2",
+      "views": "1470",
+      "creation_info": "by Pmktechno at Jan. 6, 2025, 1:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153951-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 292 discussion",
+      "author": "Pmktechno",
+      "replies": "2",
+      "views": "1794",
+      "creation_info": "by Pmktechno at Jan. 6, 2025, 1:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153950-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 291 discussion",
+      "author": "Pmktechno",
+      "replies": "2",
+      "views": "1862",
+      "creation_info": "by Pmktechno at Jan. 6, 2025, 1:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152158-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 284 discussion",
+      "author": "jdx000",
+      "replies": "15",
+      "views": "2759",
+      "creation_info": "by jdx000 at Nov. 27, 2024, 4:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152023-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 281 discussion",
+      "author": "723993f",
+      "replies": "16",
+      "views": "3135",
+      "creation_info": "by 723993f at Nov. 26, 2024, 3:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/313295-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 276 discussion",
+      "author": "ppardav",
+      "replies": "1",
+      "views": "76",
+      "creation_info": "by ppardav at Oct. 1, 2025, 8:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151960-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 238 discussion",
+      "author": "debarshi",
+      "replies": "9",
+      "views": "2831",
+      "creation_info": "by debarshi at Nov. 25, 2024, 1:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124001-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 54 discussion",
+      "author": "100fold",
+      "replies": "3",
+      "views": "5649",
+      "creation_info": "by 100fold at Oct. 19, 2023, 12:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148616-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 190 discussion",
+      "author": "mikelord",
+      "replies": "11",
+      "views": "2690",
+      "creation_info": "by mikelord at Oct. 3, 2024, 10:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148611-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 182 discussion",
+      "author": "mikelord",
+      "replies": "6",
+      "views": "3122",
+      "creation_info": "by mikelord at Oct. 3, 2024, 6:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141822-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 166 discussion",
+      "author": "aescudero51",
+      "replies": "8",
+      "views": "3838",
+      "creation_info": "by aescudero51 at June 3, 2024, 7:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148580-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 180 discussion",
+      "author": "mikelord",
+      "replies": "9",
+      "views": "2433",
+      "creation_info": "by mikelord at Oct. 3, 2024, 1:47 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/303388-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 299 discussion",
+      "author": "mnsait",
+      "replies": "6",
+      "views": "803",
+      "creation_info": "by mnsait at May 7, 2025, 5:21 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127055-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 81 discussion",
+      "author": "oioi",
+      "replies": "11",
+      "views": "5487",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122211-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 17 discussion",
+      "author": "aragon_saa",
+      "replies": "21",
+      "views": "7870",
+      "creation_info": "by aragon_saa at Oct. 3, 2023, 8:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124547-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 18 discussion",
+      "author": "KR693",
+      "replies": "34",
+      "views": "9507",
+      "creation_info": "by KR693 at Oct. 24, 2023, 7:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124041-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 14 discussion",
+      "author": "100fold",
+      "replies": "24",
+      "views": "8819",
+      "creation_info": "by 100fold at Oct. 19, 2023, 2:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/303390-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 303 discussion",
+      "author": "mnsait",
+      "replies": "9",
+      "views": "1322",
+      "creation_info": "by mnsait at May 7, 2025, 5:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140864-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 137 discussion",
+      "author": "Nash101",
+      "replies": "19",
+      "views": "4035",
+      "creation_info": "by Nash101 at May 19, 2024, 12:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152313-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 253 discussion",
+      "author": "jdx000",
+      "replies": "9",
+      "views": "2517",
+      "creation_info": "by jdx000 at Nov. 28, 2024, 7:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151225-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 237 discussion",
+      "author": "rhsilva",
+      "replies": "7",
+      "views": "2442",
+      "creation_info": "by rhsilva at Nov. 13, 2024, 7:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140568-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 135 discussion",
+      "author": "Zek",
+      "replies": "11",
+      "views": "3243",
+      "creation_info": "by Zek at May 13, 2024, 5:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152984-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 285 discussion",
+      "author": "Ucy",
+      "replies": "10",
+      "views": "2405",
+      "creation_info": "by Ucy at Dec. 14, 2024, 9:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/156854-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 264 discussion",
+      "author": "AWSLoverLoverLoverLoverLover",
+      "replies": "4",
+      "views": "1314",
+      "creation_info": "by AWSLoverLoverLoverLoverLover at Feb. 20, 2025, 1:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150670-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 240 discussion",
+      "author": "koo_kai",
+      "replies": "10",
+      "views": "3056",
+      "creation_info": "by koo_kai at Nov. 3, 2024, 2:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122745-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 3 discussion",
+      "author": "kk2000",
+      "replies": "19",
+      "views": "11107",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 9:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122813-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 57 discussion",
+      "author": "kk2000",
+      "replies": "15",
+      "views": "5419",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 6:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151235-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 210 discussion",
+      "author": "rhsilva",
+      "replies": "2",
+      "views": "2260",
+      "creation_info": "by rhsilva at Nov. 13, 2024, 9:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150736-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 216 discussion",
+      "author": "DSExam",
+      "replies": "6",
+      "views": "2713",
+      "creation_info": "by DSExam at Nov. 4, 2024, 7:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150117-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 204 discussion",
+      "author": "Bad_Mat",
+      "replies": "4",
+      "views": "1929",
+      "creation_info": "by Bad_Mat at Oct. 23, 2024, 2:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149203-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 197 discussion",
+      "author": "mercespsn",
+      "replies": "26",
+      "views": "3280",
+      "creation_info": "by mercespsn at Oct. 13, 2024, 3:01 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127079-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 105 discussion",
+      "author": "oioi",
+      "replies": "10",
+      "views": "4714",
+      "creation_info": "by oioi at Nov. 23, 2023, 10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124456-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 19 discussion",
+      "author": "Sumi81",
+      "replies": "33",
+      "views": "9648",
+      "creation_info": "by Sumi81 at Oct. 23, 2023, 4:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124049-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 28 discussion",
+      "author": "100fold",
+      "replies": "19",
+      "views": "7213",
+      "creation_info": "by 100fold at Oct. 19, 2023, 5:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140263-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 159 discussion",
+      "author": "f3f9bfe",
+      "replies": "10",
+      "views": "3651",
+      "creation_info": "by f3f9bfe at May 10, 2024, 4:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124832-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 46 discussion",
+      "author": "M2ao",
+      "replies": "41",
+      "views": "6926",
+      "creation_info": "by M2ao at Oct. 28, 2023, 3 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122296-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 12 discussion",
+      "author": "aragon_saa",
+      "replies": "14",
+      "views": "7100",
+      "creation_info": "by aragon_saa at Oct. 4, 2023, 1:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123517-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 6 discussion",
+      "author": "PrabhuGr",
+      "replies": "21",
+      "views": "8843",
+      "creation_info": "by PrabhuGr at Oct. 13, 2023, 11:40 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122208-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 5 discussion",
+      "author": "aragon_saa",
+      "replies": "8",
+      "views": "6869",
+      "creation_info": "by aragon_saa at Oct. 3, 2023, 8:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124014-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 4 discussion",
+      "author": "100fold",
+      "replies": "24",
+      "views": "10444",
+      "creation_info": "by 100fold at Oct. 19, 2023, 3:29 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122207-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 2 discussion",
+      "author": "aragon_saa",
+      "replies": "15",
+      "views": "8593",
+      "creation_info": "by aragon_saa at Oct. 3, 2023, 8:13 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122305-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 1 discussion",
+      "author": "RayHK",
+      "replies": "15",
+      "views": "18614",
+      "creation_info": "by RayHK at Oct. 4, 2023, 2:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150735-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 214 discussion",
+      "author": "DSExam",
+      "replies": "9",
+      "views": "2673",
+      "creation_info": "by DSExam at Nov. 4, 2024, 7:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150024-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 193 discussion",
+      "author": "dhewa",
+      "replies": "4",
+      "views": "2290",
+      "creation_info": "by dhewa at Oct. 22, 2024, 1 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124015-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 11 discussion",
+      "author": "100fold",
+      "replies": "20",
+      "views": "7152",
+      "creation_info": "by 100fold at Oct. 19, 2023, 4:06 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140759-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 156 discussion",
+      "author": "mehmetsungur",
+      "replies": "20",
+      "views": "4206",
+      "creation_info": "by mehmetsungur at May 16, 2024, 7:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127051-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 77 discussion",
+      "author": "oioi",
+      "replies": "14",
+      "views": "5062",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123690-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 9 discussion",
+      "author": "AgboolaKun",
+      "replies": "14",
+      "views": "8760",
+      "creation_info": "by AgboolaKun at Oct. 15, 2023, 8:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/303389-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 300 discussion",
+      "author": "mnsait",
+      "replies": "3",
+      "views": "904",
+      "creation_info": "by mnsait at May 7, 2025, 5:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124058-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 36 discussion",
+      "author": "100fold",
+      "replies": "7",
+      "views": "5151",
+      "creation_info": "by 100fold at Oct. 19, 2023, 6:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127066-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 90 discussion",
+      "author": "oioi",
+      "replies": "20",
+      "views": "6234",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140323-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 120 discussion",
+      "author": "danish1234",
+      "replies": "7",
+      "views": "3417",
+      "creation_info": "by danish1234 at May 11, 2024, 10:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/303116-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 307 discussion",
+      "author": "itsjunukim",
+      "replies": "1",
+      "views": "972",
+      "creation_info": "by itsjunukim at April 29, 2025, 1:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302533-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 268 discussion",
+      "author": "phmeeeee",
+      "replies": "2",
+      "views": "897",
+      "creation_info": "by phmeeeee at April 10, 2025, 2:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302556-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 275 discussion",
+      "author": "phmeeeee",
+      "replies": "2",
+      "views": "1109",
+      "creation_info": "by phmeeeee at April 11, 2025, 2:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152314-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 274 discussion",
+      "author": "jdx000",
+      "replies": "8",
+      "views": "2536",
+      "creation_info": "by jdx000 at Nov. 28, 2024, 7:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302560-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 286 discussion",
+      "author": "phmeeeee",
+      "replies": "2",
+      "views": "1165",
+      "creation_info": "by phmeeeee at April 11, 2025, 3:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153789-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 241 discussion",
+      "author": "Bachhu",
+      "replies": "5",
+      "views": "1845",
+      "creation_info": "by Bachhu at Jan. 2, 2025, 2:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153600-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 283 discussion",
+      "author": "Pmktechno",
+      "replies": "3",
+      "views": "1801",
+      "creation_info": "by Pmktechno at Dec. 29, 2024, 11:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150254-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 194 discussion",
+      "author": "gjurro",
+      "replies": "2",
+      "views": "2093",
+      "creation_info": "by gjurro at Oct. 25, 2024, 8:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149963-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 188 discussion",
+      "author": "Bad_Mat",
+      "replies": "4",
+      "views": "1782",
+      "creation_info": "by Bad_Mat at Oct. 21, 2024, 4:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149675-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 187 discussion",
+      "author": "div05jkjl",
+      "replies": "3",
+      "views": "2466",
+      "creation_info": "by div05jkjl at Oct. 17, 2024, 2:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149154-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 186 discussion",
+      "author": "VPNalumni",
+      "replies": "3",
+      "views": "2659",
+      "creation_info": "by VPNalumni at Oct. 12, 2024, 10:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148579-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 179 discussion",
+      "author": "mikelord",
+      "replies": "4",
+      "views": "2427",
+      "creation_info": "by mikelord at Oct. 3, 2024, 1:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148578-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 178 discussion",
+      "author": "mikelord",
+      "replies": "4",
+      "views": "2459",
+      "creation_info": "by mikelord at Oct. 3, 2024, 1:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148577-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 177 discussion",
+      "author": "mikelord",
+      "replies": "4",
+      "views": "2925",
+      "creation_info": "by mikelord at Oct. 3, 2024, 1:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148575-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 175 discussion",
+      "author": "mikelord",
+      "replies": "5",
+      "views": "2689",
+      "creation_info": "by mikelord at Oct. 3, 2024, 1:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140647-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 171 discussion",
+      "author": "Zek",
+      "replies": "3",
+      "views": "3220",
+      "creation_info": "by Zek at May 14, 2024, 4:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124648-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 51 discussion",
+      "author": "ahrentom",
+      "replies": "6",
+      "views": "5430",
+      "creation_info": "by ahrentom at Oct. 26, 2023, 7:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122811-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 50 discussion",
+      "author": "kk2000",
+      "replies": "9",
+      "views": "6570",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 5:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122214-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 25 discussion",
+      "author": "aragon_saa",
+      "replies": "17",
+      "views": "6107",
+      "creation_info": "by aragon_saa at Oct. 3, 2023, 8:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124059-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 37 discussion",
+      "author": "100fold",
+      "replies": "8",
+      "views": "6031",
+      "creation_info": "by 100fold at Oct. 19, 2023, 6:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122814-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 59 discussion",
+      "author": "kk2000",
+      "replies": "20",
+      "views": "6004",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 6:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152126-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 247 discussion",
+      "author": "jdx000",
+      "replies": "6",
+      "views": "2261",
+      "creation_info": "by jdx000 at Nov. 27, 2024, 11:28 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153953-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 294 discussion",
+      "author": "Pmktechno",
+      "replies": "5",
+      "views": "1729",
+      "creation_info": "by Pmktechno at Jan. 6, 2025, 1:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140238-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 125 discussion",
+      "author": "krishnavamshireddy",
+      "replies": "26",
+      "views": "4192",
+      "creation_info": "by krishnavamshireddy at May 9, 2024, 7:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124050-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 29 discussion",
+      "author": "100fold",
+      "replies": "9",
+      "views": "5811",
+      "creation_info": "by 100fold at Oct. 19, 2023, 5:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127041-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 69 discussion",
+      "author": "oioi",
+      "replies": "8",
+      "views": "4630",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124616-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 41 discussion",
+      "author": "ahrentom",
+      "replies": "17",
+      "views": "7864",
+      "creation_info": "by ahrentom at Oct. 25, 2023, 1:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/303115-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 298 discussion",
+      "author": "itsjunukim",
+      "replies": "1",
+      "views": "1172",
+      "creation_info": "by itsjunukim at April 29, 2025, 12:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152020-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 246 discussion",
+      "author": "723993f",
+      "replies": "10",
+      "views": "3013",
+      "creation_info": "by 723993f at Nov. 26, 2024, 1:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149964-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 189 discussion",
+      "author": "Bad_Mat",
+      "replies": "8",
+      "views": "2079",
+      "creation_info": "by Bad_Mat at Oct. 21, 2024, 4:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151073-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 208 discussion",
+      "author": "JCD",
+      "replies": "2",
+      "views": "2258",
+      "creation_info": "by JCD at Nov. 10, 2024, 3:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140559-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 122 discussion",
+      "author": "Zek",
+      "replies": "3",
+      "views": "3178",
+      "creation_info": "by Zek at May 13, 2024, 4:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153601-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 290 discussion",
+      "author": "Pmktechno",
+      "replies": "2",
+      "views": "2104",
+      "creation_info": "by Pmktechno at Dec. 29, 2024, 12:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153949-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 289 discussion",
+      "author": "Pmktechno",
+      "replies": "2",
+      "views": "1698",
+      "creation_info": "by Pmktechno at Jan. 6, 2025, 1:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153948-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 288 discussion",
+      "author": "Pmktechno",
+      "replies": "2",
+      "views": "1486",
+      "creation_info": "by Pmktechno at Jan. 6, 2025, 1:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153947-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 287 discussion",
+      "author": "Pmktechno",
+      "replies": "1",
+      "views": "1670",
+      "creation_info": "by Pmktechno at Jan. 6, 2025, 1:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152157-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 282 discussion",
+      "author": "jdx000",
+      "replies": "3",
+      "views": "2282",
+      "creation_info": "by jdx000 at Nov. 27, 2024, 4:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152150-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 279 discussion",
+      "author": "jdx000",
+      "replies": "2",
+      "views": "2210",
+      "creation_info": "by jdx000 at Nov. 27, 2024, 3:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302558-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 278 discussion",
+      "author": "phmeeeee",
+      "replies": "1",
+      "views": "1227",
+      "creation_info": "by phmeeeee at April 11, 2025, 2:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302557-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 277 discussion",
+      "author": "phmeeeee",
+      "replies": "1",
+      "views": "1225",
+      "creation_info": "by phmeeeee at April 11, 2025, 2:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127087-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 112 discussion",
+      "author": "oioi",
+      "replies": "19",
+      "views": "6892",
+      "creation_info": "by oioi at Nov. 23, 2023, 10:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/156983-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 270 discussion",
+      "author": "layrnyh",
+      "replies": "2",
+      "views": "1740",
+      "creation_info": "by layrnyh at Feb. 22, 2025, 1:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302534-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 269 discussion",
+      "author": "phmeeeee",
+      "replies": "1",
+      "views": "1261",
+      "creation_info": "by phmeeeee at April 10, 2025, 2:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/155537-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 266 discussion",
+      "author": "lobana",
+      "replies": "2",
+      "views": "1741",
+      "creation_info": "by lobana at Jan. 28, 2025, 11:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153957-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 259 discussion",
+      "author": "Bachhu",
+      "replies": "2",
+      "views": "1874",
+      "creation_info": "by Bachhu at Jan. 6, 2025, 2:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152021-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 254 discussion",
+      "author": "723993f",
+      "replies": "5",
+      "views": "1994",
+      "creation_info": "by 723993f at Nov. 26, 2024, 1:40 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153792-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 250 discussion",
+      "author": "Bachhu",
+      "replies": "6",
+      "views": "2358",
+      "creation_info": "by Bachhu at Jan. 2, 2025, 3:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153791-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 249 discussion",
+      "author": "Bachhu",
+      "replies": "2",
+      "views": "1976",
+      "creation_info": "by Bachhu at Jan. 2, 2025, 3:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152573-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 248 discussion",
+      "author": "IPLogic",
+      "replies": "2",
+      "views": "2112",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 9:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302519-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 245 discussion",
+      "author": "phmeeeee",
+      "replies": "1",
+      "views": "1065",
+      "creation_info": "by phmeeeee at April 10, 2025, 1:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302516-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 243 discussion",
+      "author": "phmeeeee",
+      "replies": "1",
+      "views": "1144",
+      "creation_info": "by phmeeeee at April 10, 2025, 1:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141731-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 164 discussion",
+      "author": "aescudero51",
+      "replies": "3",
+      "views": "3499",
+      "creation_info": "by aescudero51 at June 1, 2024, 5:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152564-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 239 discussion",
+      "author": "IPLogic",
+      "replies": "2",
+      "views": "1860",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 5:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153618-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 224 discussion",
+      "author": "Pmktechno",
+      "replies": "5",
+      "views": "2258",
+      "creation_info": "by Pmktechno at Dec. 29, 2024, 6:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153617-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 221 discussion",
+      "author": "Pmktechno",
+      "replies": "2",
+      "views": "1816",
+      "creation_info": "by Pmktechno at Dec. 29, 2024, 6:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152528-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 215 discussion",
+      "author": "IPLogic",
+      "replies": "2",
+      "views": "2103",
+      "creation_info": "by IPLogic at Dec. 4, 2024, 10:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122209-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 8 discussion",
+      "author": "aragon_saa",
+      "replies": "34",
+      "views": "9159",
+      "creation_info": "by aragon_saa at Oct. 3, 2023, 8:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141825-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 172 discussion",
+      "author": "aescudero51",
+      "replies": "3",
+      "views": "2735",
+      "creation_info": "by aescudero51 at June 3, 2024, 8:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141732-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 165 discussion",
+      "author": "aescudero51",
+      "replies": "4",
+      "views": "3727",
+      "creation_info": "by aescudero51 at June 1, 2024, 5:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141730-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 162 discussion",
+      "author": "aescudero51",
+      "replies": "2",
+      "views": "3092",
+      "creation_info": "by aescudero51 at June 1, 2024, 4:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141181-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 158 discussion",
+      "author": "Viseks",
+      "replies": "8",
+      "views": "2807",
+      "creation_info": "by Viseks at May 24, 2024, 8:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140875-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 144 discussion",
+      "author": "Certified101",
+      "replies": "12",
+      "views": "3733",
+      "creation_info": "by Certified101 at May 19, 2024, 8:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140563-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 127 discussion",
+      "author": "Zek",
+      "replies": "5",
+      "views": "3037",
+      "creation_info": "by Zek at May 13, 2024, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140324-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 126 discussion",
+      "author": "danish1234",
+      "replies": "9",
+      "views": "4180",
+      "creation_info": "by danish1234 at May 11, 2024, 10:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140561-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 124 discussion",
+      "author": "Zek",
+      "replies": "4",
+      "views": "3033",
+      "creation_info": "by Zek at May 13, 2024, 4:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127089-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 115 discussion",
+      "author": "oioi",
+      "replies": "11",
+      "views": "5531",
+      "creation_info": "by oioi at Nov. 23, 2023, 10:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127150-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 98 discussion",
+      "author": "[Removed]",
+      "replies": "3",
+      "views": "4883",
+      "creation_info": "by [Removed] at Nov. 25, 2023, 11:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127074-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 97 discussion",
+      "author": "oioi",
+      "replies": "8",
+      "views": "4724",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127073-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 96 discussion",
+      "author": "oioi",
+      "replies": "7",
+      "views": "4836",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127070-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 93 discussion",
+      "author": "oioi",
+      "replies": "7",
+      "views": "5346",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127068-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 91 discussion",
+      "author": "oioi",
+      "replies": "13",
+      "views": "4819",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123981-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 49 discussion",
+      "author": "100fold",
+      "replies": "9",
+      "views": "5999",
+      "creation_info": "by 100fold at Oct. 18, 2023, 6:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127034-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 65 discussion",
+      "author": "marlonchin",
+      "replies": "9",
+      "views": "5385",
+      "creation_info": "by marlonchin at Nov. 23, 2023, 7:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/170509-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 295 discussion",
+      "author": "c6ed25a",
+      "replies": "1",
+      "views": "878",
+      "creation_info": "by c6ed25a at March 31, 2025, 2:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124061-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 40 discussion",
+      "author": "100fold",
+      "replies": "7",
+      "views": "4955",
+      "creation_info": "by 100fold at Oct. 19, 2023, 6:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122784-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 38 discussion",
+      "author": "kk2000",
+      "replies": "14",
+      "views": "5720",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 3:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122780-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 35 discussion",
+      "author": "kk2000",
+      "replies": "9",
+      "views": "6494",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 2:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123996-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 33 discussion",
+      "author": "AgboolaKun",
+      "replies": "10",
+      "views": "4906",
+      "creation_info": "by AgboolaKun at Oct. 18, 2023, 10:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127072-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 95 discussion",
+      "author": "oioi",
+      "replies": "4",
+      "views": "4750",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127071-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 94 discussion",
+      "author": "oioi",
+      "replies": "5",
+      "views": "4451",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127083-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 110 discussion",
+      "author": "oioi",
+      "replies": "24",
+      "views": "6344",
+      "creation_info": "by oioi at Nov. 23, 2023, 10:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152561-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 234 discussion",
+      "author": "IPLogic",
+      "replies": "2",
+      "views": "1895",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 5:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153870-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 232 discussion",
+      "author": "Asma2023",
+      "replies": "2",
+      "views": "2019",
+      "creation_info": "by Asma2023 at Jan. 4, 2025, 8:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151998-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 271 discussion",
+      "author": "k23319",
+      "replies": "7",
+      "views": "2778",
+      "creation_info": "by k23319 at Nov. 25, 2024, 7:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169140-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 255 discussion",
+      "author": "woonsi",
+      "replies": "2",
+      "views": "1120",
+      "creation_info": "by woonsi at March 16, 2025, 3:47 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153603-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 228 discussion",
+      "author": "Pmktechno",
+      "replies": "2",
+      "views": "1732",
+      "creation_info": "by Pmktechno at Dec. 29, 2024, 12:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152113-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 222 discussion",
+      "author": "jdx000",
+      "replies": "7",
+      "views": "2412",
+      "creation_info": "by jdx000 at Nov. 27, 2024, 9:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153616-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 220 discussion",
+      "author": "Pmktechno",
+      "replies": "4",
+      "views": "2383",
+      "creation_info": "by Pmktechno at Dec. 29, 2024, 6:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153615-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 219 discussion",
+      "author": "Pmktechno",
+      "replies": "3",
+      "views": "2147",
+      "creation_info": "by Pmktechno at Dec. 29, 2024, 5:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148620-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 205 discussion",
+      "author": "mikelord",
+      "replies": "9",
+      "views": "2584",
+      "creation_info": "by mikelord at Oct. 4, 2024, 1:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150018-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 201 discussion",
+      "author": "dhewa",
+      "replies": "2",
+      "views": "2172",
+      "creation_info": "by dhewa at Oct. 21, 2024, 11:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148754-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 191 discussion",
+      "author": "maciekmacku",
+      "replies": "5",
+      "views": "2400",
+      "creation_info": "by maciekmacku at Oct. 6, 2024, 4:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152125-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 242 discussion",
+      "author": "jdx000",
+      "replies": "7",
+      "views": "2259",
+      "creation_info": "by jdx000 at Nov. 27, 2024, 11:09 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141570-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 151 discussion",
+      "author": "aescudero51",
+      "replies": "2",
+      "views": "3323",
+      "creation_info": "by aescudero51 at May 29, 2024, 11:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133742-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 117 discussion",
+      "author": "MikeRach",
+      "replies": "5",
+      "views": "4484",
+      "creation_info": "by MikeRach at Feb. 13, 2024, 1:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122751-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 13 discussion",
+      "author": "kk2000",
+      "replies": "15",
+      "views": "7839",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 10:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153956-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 258 discussion",
+      "author": "Bachhu",
+      "replies": "1",
+      "views": "1851",
+      "creation_info": "by Bachhu at Jan. 6, 2025, 2:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127134-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 108 discussion",
+      "author": "AgboolaKun",
+      "replies": "8",
+      "views": "5009",
+      "creation_info": "by AgboolaKun at Nov. 25, 2023, 1:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/154347-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 280 discussion",
+      "author": "youonebe",
+      "replies": "4",
+      "views": "2323",
+      "creation_info": "by youonebe at Jan. 11, 2025, 3:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/156910-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 267 discussion",
+      "author": "kairosfc",
+      "replies": "1",
+      "views": "1542",
+      "creation_info": "by kairosfc at Feb. 21, 2025, 2:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153954-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 297 discussion",
+      "author": "Pmktechno",
+      "replies": "1",
+      "views": "1683",
+      "creation_info": "by Pmktechno at Jan. 6, 2025, 1:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153946-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 263 discussion",
+      "author": "Pmktechno",
+      "replies": "1",
+      "views": "1688",
+      "creation_info": "by Pmktechno at Jan. 6, 2025, 1:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152576-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 251 discussion",
+      "author": "IPLogic",
+      "replies": "2",
+      "views": "1953",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 9:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152563-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 236 discussion",
+      "author": "IPLogic",
+      "replies": "3",
+      "views": "2490",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 5:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152560-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 233 discussion",
+      "author": "IPLogic",
+      "replies": "6",
+      "views": "2307",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 4:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152015-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 231 discussion",
+      "author": "723993f",
+      "replies": "2",
+      "views": "2306",
+      "creation_info": "by 723993f at Nov. 25, 2024, 11:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151556-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 230 discussion",
+      "author": "debarshi",
+      "replies": "2",
+      "views": "2137",
+      "creation_info": "by debarshi at Nov. 18, 2024, 6:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/154265-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 229 discussion",
+      "author": "youonebe",
+      "replies": "1",
+      "views": "1913",
+      "creation_info": "by youonebe at Jan. 10, 2025, 2:18 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149201-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 199 discussion",
+      "author": "mercespsn",
+      "replies": "2",
+      "views": "2510",
+      "creation_info": "by mercespsn at Oct. 13, 2024, 2:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140648-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 173 discussion",
+      "author": "Zek",
+      "replies": "12",
+      "views": "4724",
+      "creation_info": "by Zek at May 14, 2024, 4:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127046-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 73 discussion",
+      "author": "oioi",
+      "replies": "4",
+      "views": "5551",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124012-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 63 discussion",
+      "author": "100fold",
+      "replies": "12",
+      "views": "5755",
+      "creation_info": "by 100fold at Oct. 19, 2023, 2:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150668-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 227 discussion",
+      "author": "koo_kai",
+      "replies": "6",
+      "views": "2290",
+      "creation_info": "by koo_kai at Nov. 3, 2024, 2:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149202-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 198 discussion",
+      "author": "mercespsn",
+      "replies": "3",
+      "views": "2419",
+      "creation_info": "by mercespsn at Oct. 13, 2024, 2:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127039-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 67 discussion",
+      "author": "oioi",
+      "replies": "13",
+      "views": "5011",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151913-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 272 discussion",
+      "author": "DewDrop",
+      "replies": "3",
+      "views": "1937",
+      "creation_info": "by DewDrop at Nov. 24, 2024, 8:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127040-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 68 discussion",
+      "author": "oioi",
+      "replies": "7",
+      "views": "5195",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150025-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 195 discussion",
+      "author": "dhewa",
+      "replies": "2",
+      "views": "2248",
+      "creation_info": "by dhewa at Oct. 22, 2024, 1:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140556-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 119 discussion",
+      "author": "Zek",
+      "replies": "7",
+      "views": "3686",
+      "creation_info": "by Zek at May 13, 2024, 2:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148576-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 176 discussion",
+      "author": "mikelord",
+      "replies": "8",
+      "views": "2699",
+      "creation_info": "by mikelord at Oct. 3, 2024, 1:38 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/154143-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 213 discussion",
+      "author": "youonebe",
+      "replies": "1",
+      "views": "1978",
+      "creation_info": "by youonebe at Jan. 9, 2025, 3:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148648-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 192 discussion",
+      "author": "SkyBlueUS",
+      "replies": "9",
+      "views": "2410",
+      "creation_info": "by SkyBlueUS at Oct. 4, 2024, 5:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140594-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 149 discussion",
+      "author": "Zek",
+      "replies": "9",
+      "views": "3552",
+      "creation_info": "by Zek at May 13, 2024, 10:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127062-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 86 discussion",
+      "author": "oioi",
+      "replies": "23",
+      "views": "5901",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152116-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 225 discussion",
+      "author": "jdx000",
+      "replies": "5",
+      "views": "2304",
+      "creation_info": "by jdx000 at Nov. 27, 2024, 10:03 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152022-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 257 discussion",
+      "author": "723993f",
+      "replies": "4",
+      "views": "2582",
+      "creation_info": "by 723993f at Nov. 26, 2024, 2:19 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152567-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 244 discussion",
+      "author": "IPLogic",
+      "replies": "3",
+      "views": "2226",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 6:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152583-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 260 discussion",
+      "author": "IPLogic",
+      "replies": "2",
+      "views": "2415",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 10:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124881-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 31 discussion",
+      "author": "bannium",
+      "replies": "18",
+      "views": "7834",
+      "creation_info": "by bannium at Oct. 29, 2023, 12:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150247-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 183 discussion",
+      "author": "Bad_Mat",
+      "replies": "5",
+      "views": "3184",
+      "creation_info": "by Bad_Mat at Oct. 25, 2024, 4:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149141-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 181 discussion",
+      "author": "VPNalumni",
+      "replies": "5",
+      "views": "2409",
+      "creation_info": "by VPNalumni at Oct. 12, 2024, 9:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148574-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 174 discussion",
+      "author": "mikelord",
+      "replies": "2",
+      "views": "2973",
+      "creation_info": "by mikelord at Oct. 3, 2024, 1:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141723-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 160 discussion",
+      "author": "aescudero51",
+      "replies": "8",
+      "views": "4623",
+      "creation_info": "by aescudero51 at June 1, 2024, 2:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140570-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 136 discussion",
+      "author": "Zek",
+      "replies": "5",
+      "views": "3079",
+      "creation_info": "by Zek at May 13, 2024, 5:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150729-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 203 discussion",
+      "author": "DSExam",
+      "replies": "2",
+      "views": "2343",
+      "creation_info": "by DSExam at Nov. 4, 2024, 6:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152106-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 218 discussion",
+      "author": "jdx000",
+      "replies": "4",
+      "views": "2221",
+      "creation_info": "by jdx000 at Nov. 27, 2024, 8:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153602-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 226 discussion",
+      "author": "Pmktechno",
+      "replies": "1",
+      "views": "1726",
+      "creation_info": "by Pmktechno at Dec. 29, 2024, 12:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153598-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 265 discussion",
+      "author": "Pmktechno",
+      "replies": "1",
+      "views": "1747",
+      "creation_info": "by Pmktechno at Dec. 29, 2024, 10:27 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141571-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 152 discussion",
+      "author": "aescudero51",
+      "replies": "2",
+      "views": "2239",
+      "creation_info": "by aescudero51 at May 29, 2024, 11:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140646-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 170 discussion",
+      "author": "Zek",
+      "replies": "7",
+      "views": "4066",
+      "creation_info": "by Zek at May 14, 2024, 4:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123957-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 45 discussion",
+      "author": "100fold",
+      "replies": "22",
+      "views": "6423",
+      "creation_info": "by 100fold at Oct. 18, 2023, 2:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127061-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 85 discussion",
+      "author": "oioi",
+      "replies": "9",
+      "views": "4674",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122779-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 34 discussion",
+      "author": "kk2000",
+      "replies": "8",
+      "views": "5739",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 2:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140566-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 131 discussion",
+      "author": "Zek",
+      "replies": "4",
+      "views": "3935",
+      "creation_info": "by Zek at May 13, 2024, 5:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152146-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 273 discussion",
+      "author": "jdx000",
+      "replies": "4",
+      "views": "2230",
+      "creation_info": "by jdx000 at Nov. 27, 2024, 3:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152585-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 262 discussion",
+      "author": "IPLogic",
+      "replies": "1",
+      "views": "2075",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152584-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 261 discussion",
+      "author": "IPLogic",
+      "replies": "1",
+      "views": "2343",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 10:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152582-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 256 discussion",
+      "author": "IPLogic",
+      "replies": "2",
+      "views": "2005",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 10:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152578-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 252 discussion",
+      "author": "IPLogic",
+      "replies": "1",
+      "views": "2140",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 9:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152562-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 235 discussion",
+      "author": "IPLogic",
+      "replies": "2",
+      "views": "2101",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 5:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152550-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 223 discussion",
+      "author": "IPLogic",
+      "replies": "2",
+      "views": "1959",
+      "creation_info": "by IPLogic at Dec. 5, 2024, 2:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152529-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 217 discussion",
+      "author": "IPLogic",
+      "replies": "1",
+      "views": "2193",
+      "creation_info": "by IPLogic at Dec. 4, 2024, 11:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151236-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 211 discussion",
+      "author": "rhsilva",
+      "replies": "2",
+      "views": "2020",
+      "creation_info": "by rhsilva at Nov. 13, 2024, 9:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152526-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 209 discussion",
+      "author": "IPLogic",
+      "replies": "1",
+      "views": "2220",
+      "creation_info": "by IPLogic at Dec. 4, 2024, 10:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150633-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 207 discussion",
+      "author": "asdf1234567",
+      "replies": "8",
+      "views": "2723",
+      "creation_info": "by asdf1234567 at Nov. 1, 2024, 8:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140866-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 145 discussion",
+      "author": "Nash101",
+      "replies": "7",
+      "views": "3624",
+      "creation_info": "by Nash101 at May 19, 2024, 12:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150017-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 200 discussion",
+      "author": "dhewa",
+      "replies": "2",
+      "views": "2499",
+      "creation_info": "by dhewa at Oct. 21, 2024, 11:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148613-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 185 discussion",
+      "author": "mikelord",
+      "replies": "2",
+      "views": "2216",
+      "creation_info": "by mikelord at Oct. 3, 2024, 7 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140964-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 169 discussion",
+      "author": "5409b91",
+      "replies": "7",
+      "views": "3791",
+      "creation_info": "by 5409b91 at May 21, 2024, 3:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127043-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 71 discussion",
+      "author": "oioi",
+      "replies": "11",
+      "views": "4753",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124011-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 62 discussion",
+      "author": "100fold",
+      "replies": "11",
+      "views": "6365",
+      "creation_info": "by 100fold at Oct. 19, 2023, 2:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123982-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 52 discussion",
+      "author": "100fold",
+      "replies": "23",
+      "views": "6956",
+      "creation_info": "by 100fold at Oct. 18, 2023, 7:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123028-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 32 discussion",
+      "author": "angelsrp",
+      "replies": "11",
+      "views": "7514",
+      "creation_info": "by angelsrp at Oct. 9, 2023, 9:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140878-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 150 discussion",
+      "author": "Certified101",
+      "replies": "7",
+      "views": "2452",
+      "creation_info": "by Certified101 at May 19, 2024, 9:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127065-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 89 discussion",
+      "author": "oioi",
+      "replies": "9",
+      "views": "4650",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127059-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 84 discussion",
+      "author": "oioi",
+      "replies": "12",
+      "views": "5422",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/148612-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 184 discussion",
+      "author": "mikelord",
+      "replies": "4",
+      "views": "2607",
+      "creation_info": "by mikelord at Oct. 3, 2024, 6:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151637-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 196 discussion",
+      "author": "Pmktechno",
+      "replies": "2",
+      "views": "2370",
+      "creation_info": "by Pmktechno at Nov. 19, 2024, 2:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151238-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 212 discussion",
+      "author": "rhsilva",
+      "replies": "3",
+      "views": "1938",
+      "creation_info": "by rhsilva at Nov. 13, 2024, 9:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140557-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 121 discussion",
+      "author": "Zek",
+      "replies": "2",
+      "views": "3141",
+      "creation_info": "by Zek at May 13, 2024, 3:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127082-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 109 discussion",
+      "author": "oioi",
+      "replies": "11",
+      "views": "5116",
+      "creation_info": "by oioi at Nov. 23, 2023, 10:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127152-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 104 discussion",
+      "author": "[Removed]",
+      "replies": "7",
+      "views": "5169",
+      "creation_info": "by [Removed] at Nov. 25, 2023, 11:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140877-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 148 discussion",
+      "author": "Certified101",
+      "replies": "1",
+      "views": "3026",
+      "creation_info": "by Certified101 at May 19, 2024, 8:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140591-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 146 discussion",
+      "author": "Zek",
+      "replies": "2",
+      "views": "2801",
+      "creation_info": "by Zek at May 13, 2024, 9:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127154-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 114 discussion",
+      "author": "[Removed]",
+      "replies": "8",
+      "views": "5536",
+      "creation_info": "by [Removed] at Nov. 25, 2023, 12:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124009-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 60 discussion",
+      "author": "100fold",
+      "replies": "4",
+      "views": "5988",
+      "creation_info": "by 100fold at Oct. 19, 2023, 2:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123955-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 44 discussion",
+      "author": "100fold",
+      "replies": "7",
+      "views": "5418",
+      "creation_info": "by 100fold at Oct. 18, 2023, 2:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124457-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 20 discussion",
+      "author": "Sumi81",
+      "replies": "17",
+      "views": "8544",
+      "creation_info": "by Sumi81 at Oct. 23, 2023, 4:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122299-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 22 discussion",
+      "author": "aragon_saa",
+      "replies": "5",
+      "views": "4959",
+      "creation_info": "by aragon_saa at Oct. 4, 2023, 1:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140621-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 155 discussion",
+      "author": "Zek",
+      "replies": "5",
+      "views": "3117",
+      "creation_info": "by Zek at May 14, 2024, 1:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140589-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 143 discussion",
+      "author": "Zek",
+      "replies": "4",
+      "views": "3104",
+      "creation_info": "by Zek at May 13, 2024, 9:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140588-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 141 discussion",
+      "author": "Zek",
+      "replies": "3",
+      "views": "3111",
+      "creation_info": "by Zek at May 13, 2024, 9:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127049-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 76 discussion",
+      "author": "oioi",
+      "replies": "4",
+      "views": "4337",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150599-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 206 discussion",
+      "author": "ArunRav",
+      "replies": "1",
+      "views": "2161",
+      "creation_info": "by ArunRav at Nov. 1, 2024, 5:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122297-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 15 discussion",
+      "author": "aragon_saa",
+      "replies": "18",
+      "views": "6408",
+      "creation_info": "by aragon_saa at Oct. 4, 2023, 1:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133924-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 118 discussion",
+      "author": "jabilrn",
+      "replies": "10",
+      "views": "4491",
+      "creation_info": "by jabilrn at Feb. 15, 2024, 3:54 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133740-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 116 discussion",
+      "author": "MikeRach",
+      "replies": "6",
+      "views": "5724",
+      "creation_info": "by MikeRach at Feb. 13, 2024, 1:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127057-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 83 discussion",
+      "author": "oioi",
+      "replies": "13",
+      "views": "5170",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122812-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 56 discussion",
+      "author": "kk2000",
+      "replies": "9",
+      "views": "6415",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 6:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127084-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 111 discussion",
+      "author": "oioi",
+      "replies": "4",
+      "views": "5307",
+      "creation_info": "by oioi at Nov. 23, 2023, 10:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127047-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 74 discussion",
+      "author": "oioi",
+      "replies": "12",
+      "views": "5307",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127044-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 72 discussion",
+      "author": "oioi",
+      "replies": "9",
+      "views": "5923",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127078-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 103 discussion",
+      "author": "oioi",
+      "replies": "9",
+      "views": "6074",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140865-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 142 discussion",
+      "author": "Nash101",
+      "replies": "7",
+      "views": "3423",
+      "creation_info": "by Nash101 at May 19, 2024, 12:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140546-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 132 discussion",
+      "author": "danish1234",
+      "replies": "7",
+      "views": "3621",
+      "creation_info": "by danish1234 at May 13, 2024, 9:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122774-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 26 discussion",
+      "author": "kk2000",
+      "replies": "11",
+      "views": "5828",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 1:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122767-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 24 discussion",
+      "author": "kk2000",
+      "replies": "10",
+      "views": "6016",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 1:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141586-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 154 discussion",
+      "author": "aescudero51",
+      "replies": "5",
+      "views": "3037",
+      "creation_info": "by aescudero51 at May 30, 2024, 12:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122810-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 47 discussion",
+      "author": "kk2000",
+      "replies": "9",
+      "views": "6238",
+      "creation_info": "by kk2000 at Oct. 7, 2023, 5:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141690-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 167 discussion",
+      "author": "grekh001",
+      "replies": "7",
+      "views": "2331",
+      "creation_info": "by grekh001 at May 31, 2024, 8:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127069-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 92 discussion",
+      "author": "oioi",
+      "replies": "9",
+      "views": "4831",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127076-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 101 discussion",
+      "author": "oioi",
+      "replies": "16",
+      "views": "6018",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122213-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 21 discussion",
+      "author": "aragon_saa",
+      "replies": "17",
+      "views": "6077",
+      "creation_info": "by aragon_saa at Oct. 3, 2023, 8:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140567-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 134 discussion",
+      "author": "Zek",
+      "replies": "4",
+      "views": "2993",
+      "creation_info": "by Zek at May 13, 2024, 5:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140876-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 147 discussion",
+      "author": "Certified101",
+      "replies": "5",
+      "views": "3196",
+      "creation_info": "by Certified101 at May 19, 2024, 8:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122301-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 27 discussion",
+      "author": "aragon_saa",
+      "replies": "6",
+      "views": "4817",
+      "creation_info": "by aragon_saa at Oct. 4, 2023, 1:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124007-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 58 discussion",
+      "author": "100fold",
+      "replies": "3",
+      "views": "4367",
+      "creation_info": "by 100fold at Oct. 19, 2023, 1:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124505-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 7 discussion",
+      "author": "KR693",
+      "replies": "5",
+      "views": "7972",
+      "creation_info": "by KR693 at Oct. 24, 2023, 5:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127053-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 79 discussion",
+      "author": "oioi",
+      "replies": "5",
+      "views": "4491",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123976-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 48 discussion",
+      "author": "100fold",
+      "replies": "6",
+      "views": "4962",
+      "creation_info": "by 100fold at Oct. 18, 2023, 5:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127151-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 100 discussion",
+      "author": "[Removed]",
+      "replies": "10",
+      "views": "5494",
+      "creation_info": "by [Removed] at Nov. 25, 2023, 11:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124052-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 30 discussion",
+      "author": "100fold",
+      "replies": "11",
+      "views": "4970",
+      "creation_info": "by 100fold at Oct. 19, 2023, 5:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122300-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 23 discussion",
+      "author": "aragon_saa",
+      "replies": "9",
+      "views": "4876",
+      "creation_info": "by aragon_saa at Oct. 4, 2023, 1:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122298-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 16 discussion",
+      "author": "aragon_saa",
+      "replies": "12",
+      "views": "5744",
+      "creation_info": "by aragon_saa at Oct. 4, 2023, 1:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/122210-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 10 discussion",
+      "author": "aragon_saa",
+      "replies": "14",
+      "views": "6027",
+      "creation_info": "by aragon_saa at Oct. 3, 2023, 8:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124013-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 64 discussion",
+      "author": "100fold",
+      "replies": "3",
+      "views": "4764",
+      "creation_info": "by 100fold at Oct. 19, 2023, 2:50 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124010-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 61 discussion",
+      "author": "100fold",
+      "replies": "4",
+      "views": "5079",
+      "creation_info": "by 100fold at Oct. 19, 2023, 2:28 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141676-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 163 discussion",
+      "author": "grekh001",
+      "replies": "3",
+      "views": "3346",
+      "creation_info": "by grekh001 at May 31, 2024, 7:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140863-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 133 discussion",
+      "author": "Nash101",
+      "replies": "5",
+      "views": "3086",
+      "creation_info": "by Nash101 at May 19, 2024, 12:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140725-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 129 discussion",
+      "author": "Zek",
+      "replies": "3",
+      "views": "3416",
+      "creation_info": "by Zek at May 15, 2024, 10:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123983-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 53 discussion",
+      "author": "100fold",
+      "replies": "4",
+      "views": "5085",
+      "creation_info": "by 100fold at Oct. 18, 2023, 7:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124063-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 43 discussion",
+      "author": "100fold",
+      "replies": "7",
+      "views": "6194",
+      "creation_info": "by 100fold at Oct. 19, 2023, 7:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/123953-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 42 discussion",
+      "author": "100fold",
+      "replies": "7",
+      "views": "5831",
+      "creation_info": "by 100fold at Oct. 18, 2023, 2:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/124060-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 39 discussion",
+      "author": "100fold",
+      "replies": "3",
+      "views": "5639",
+      "creation_info": "by 100fold at Oct. 19, 2023, 6:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141729-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 161 discussion",
+      "author": "aescudero51",
+      "replies": "7",
+      "views": "2301",
+      "creation_info": "by aescudero51 at June 1, 2024, 4:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127054-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 80 discussion",
+      "author": "oioi",
+      "replies": "7",
+      "views": "4905",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140619-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 153 discussion",
+      "author": "Zek",
+      "replies": "3",
+      "views": "2935",
+      "creation_info": "by Zek at May 14, 2024, 12:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140873-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 139 discussion",
+      "author": "Certified101",
+      "replies": "3",
+      "views": "2972",
+      "creation_info": "by Certified101 at May 19, 2024, 8:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140578-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 138 discussion",
+      "author": "Zek",
+      "replies": "4",
+      "views": "2488",
+      "creation_info": "by Zek at May 13, 2024, 6:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140565-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 130 discussion",
+      "author": "Zek",
+      "replies": "4",
+      "views": "2689",
+      "creation_info": "by Zek at May 13, 2024, 5:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140564-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 128 discussion",
+      "author": "Zek",
+      "replies": "3",
+      "views": "3402",
+      "creation_info": "by Zek at May 13, 2024, 4:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140560-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 123 discussion",
+      "author": "Zek",
+      "replies": "3",
+      "views": "3297",
+      "creation_info": "by Zek at May 13, 2024, 4:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127080-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 106 discussion",
+      "author": "oioi",
+      "replies": "7",
+      "views": "4609",
+      "creation_info": "by oioi at Nov. 23, 2023, 10:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127077-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 102 discussion",
+      "author": "oioi",
+      "replies": "5",
+      "views": "6301",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127081-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 107 discussion",
+      "author": "oioi",
+      "replies": "7",
+      "views": "4774",
+      "creation_info": "by oioi at Nov. 23, 2023, 10:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127075-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 99 discussion",
+      "author": "oioi",
+      "replies": "7",
+      "views": "5509",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127056-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 82 discussion",
+      "author": "oioi",
+      "replies": "7",
+      "views": "5512",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127063-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 87 discussion",
+      "author": "oioi",
+      "replies": "3",
+      "views": "4971",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140758-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 157 discussion",
+      "author": "mehmetsungur",
+      "replies": "4",
+      "views": "4042",
+      "creation_info": "by mehmetsungur at May 16, 2024, 7:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127088-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 113 discussion",
+      "author": "oioi",
+      "replies": "6",
+      "views": "5610",
+      "creation_info": "by oioi at Nov. 23, 2023, 10:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/140874-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 140 discussion",
+      "author": "Certified101",
+      "replies": "2",
+      "views": "2860",
+      "creation_info": "by Certified101 at May 19, 2024, 8:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127042-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 70 discussion",
+      "author": "oioi",
+      "replies": "3",
+      "views": "4821",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/141691-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 168 discussion",
+      "author": "grekh001",
+      "replies": "2",
+      "views": "2188",
+      "creation_info": "by grekh001 at May 31, 2024, 8:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127048-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 75 discussion",
+      "author": "oioi",
+      "replies": "6",
+      "views": "5338",
+      "creation_info": "by oioi at Nov. 23, 2023, 8:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127064-exam-aws-certified-security-specialty-scs-c02-topic-1/",
+      "title": "Exam AWS Certified Security - Specialty SCS-C02 topic 1 question 88 discussion",
+      "author": "oioi",
+      "replies": "3",
+      "views": "6326",
+      "creation_info": "by oioi at Nov. 23, 2023, 9:32 p.m."
+    }
+  ]
+}

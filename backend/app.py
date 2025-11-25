@@ -8,7 +8,63 @@ from flask_sqlalchemy import SQLAlchemy
 # Configuração do diretório do projeto
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(CURRENT_DIR)
-QUESTIONS_JSON_PATH = os.path.join(PROJECT_ROOT, 'questoes_processadas.json')
+
+# Configuração dos simulados disponíveis
+AVAILABLE_EXAMS = {
+    'machine-learning-specialty': {
+        'name': 'AWS Certified Machine Learning - Specialty',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Machine Learning - Specialty_questoes.json'
+    },
+    'machine-learning-engineer': {
+        'name': 'AWS Certified Machine Learning Engineer - Associate MLA-C01',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Machine Learning Engineer - Associate MLA-C01_questoes.json'
+    },
+    'ai-practitioner': {
+        'name': 'AWS Certified AI Practitioner AIF-C01',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified AI Practitioner AIF-C01_questoes.json'
+    },
+    'solutions-architect-associate': {
+        'name': 'AWS Certified Solutions Architect - Associate SAA-C03',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Solutions Architect - Associate SAA-C03_questoes.json'
+    },
+    'solutions-architect-professional': {
+        'name': 'AWS Certified Solutions Architect - Professional SAP-C02',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Solutions Architect - Professional SAP-C02_questoes.json'
+    },
+    'developer-associate': {
+        'name': 'AWS Certified Developer - Associate DVA-C02',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Developer - Associate DVA-C02_questoes.json'
+    },
+    'sysops-administrator': {
+        'name': 'AWS Certified SysOps Administrator - Associate',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified SysOps Administrator - Associate_questoes.json'
+    },
+    'cloud-practitioner': {
+        'name': 'AWS Certified Cloud Practitioner CLF-C02',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Cloud Practitioner CLF-C02_questoes.json'
+    },
+    'data-analytics-specialty': {
+        'name': 'AWS Certified Data Analytics - Specialty',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Data Analytics - Specialty_questoes.json'
+    },
+    'data-engineer-associate': {
+        'name': 'AWS Certified Data Engineer - Associate DEA-C01',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Data Engineer - Associate DEA-C01_questoes.json'
+    },
+    'devops-engineer-professional': {
+        'name': 'AWS Certified DevOps Engineer - Professional DOP-C02',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified DevOps Engineer - Professional DOP-C02_questoes.json'
+    },
+    'security-specialty': {
+        'name': 'AWS Certified Security - Specialty SCS-C02',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Security - Specialty SCS-C02_questoes.json'
+    }
+}
+
+# Cache para questões carregadas
+QUESTIONS_CACHE = {}
+# Cache para contagem de questões
+QUESTION_COUNT_CACHE = {}
 
 # Inicialização do Flask
 app = Flask(__name__)
@@ -34,6 +90,7 @@ class TestSession(db.Model):
     correct_answers_in_session = db.Column(db.Integer, nullable=True)
     status = db.Column(db.String(50), nullable=False, default='in_progress') 
     last_question_idx_viewed = db.Column(db.Integer, nullable=True, default=0)
+    exam_type = db.Column(db.String(100), nullable=True)
     responses = db.relationship('UserResponse', backref='test_session', lazy=True, cascade="all, delete-orphan")
 
 class UserResponse(db.Model):
@@ -44,27 +101,46 @@ class UserResponse(db.Model):
     is_correct = db.Column(db.Boolean, nullable=False)
     timestamp = db.Column(db.DateTime, default=datetime.utcnow)
 
-# Carregamento das questões
-ALL_QUESTIONS_DATA = []
-try:
-    with open(QUESTIONS_JSON_PATH, 'r', encoding='utf-8') as f:
-        ALL_QUESTIONS_DATA = json.load(f)
-    print(f"SUCESSO: Carregadas {len(ALL_QUESTIONS_DATA)} questões de '{QUESTIONS_JSON_PATH}'.")
-except FileNotFoundError:
-    print(f"AVISO CRÍTICO: Arquivo '{QUESTIONS_JSON_PATH}' NÃO ENCONTRADO. Nenhuma questão carregada.")
-except json.JSONDecodeError:
-    print(f"AVISO CRÍTICO: Erro ao decodificar JSON de '{QUESTIONS_JSON_PATH}'. Nenhuma questão carregada.")
+def load_questions_for_exam(exam_type):
+    """Carrega questões para um tipo específico de exame"""
+    if exam_type in QUESTIONS_CACHE:
+        return QUESTIONS_CACHE[exam_type]
+    
+    if exam_type not in AVAILABLE_EXAMS:
+        return []
+    
+    file_path = os.path.join(PROJECT_ROOT, AVAILABLE_EXAMS[exam_type]['file'])
+    
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            all_questions = json.load(f)
+        
+        # Filtrar questões com erro
+        questions = [q for q in all_questions if 'error' not in q and len(q.get('opcoes', [])) > 0]
+        
+        QUESTIONS_CACHE[exam_type] = questions
+        print(f"SUCESSO: Carregadas {len(questions)} questões válidas para {exam_type} (de {len(all_questions)} totais)")
+        return questions
+    except FileNotFoundError:
+        print(f"AVISO: Arquivo não encontrado para {exam_type}: {file_path}")
+        return []
+    except json.JSONDecodeError:
+        print(f"AVISO: Erro ao decodificar JSON para {exam_type}")
+        return []
 
 # Funções auxiliares
-def get_or_create_current_test_session():
-    # Busca a última sessão em progresso
-    current_test_session = TestSession.query.filter_by(status='in_progress').order_by(db.desc(TestSession.timestamp)).first()
+def get_or_create_current_test_session(exam_type):
+    current_test_session = TestSession.query.filter_by(
+        status='in_progress', 
+        exam_type=exam_type
+    ).order_by(db.desc(TestSession.timestamp)).first()
     
     if not current_test_session:
         current_test_session = TestSession(
             timestamp=datetime.utcnow(), 
             status='in_progress', 
-            last_question_idx_viewed=0
+            last_question_idx_viewed=0,
+            exam_type=exam_type
         )
         db.session.add(current_test_session)
         db.session.commit()
@@ -94,19 +170,57 @@ def finalize_session(session_id_to_finalize):
     return None
 
 # Rotas da API
+@app.route('/api/exams', methods=['GET'])
+def get_available_exams():
+    """Retorna lista de simulados disponíveis"""
+    exams = []
+    for exam_id, exam_info in AVAILABLE_EXAMS.items():
+        # Usar cache para contagem
+        if exam_id in QUESTION_COUNT_CACHE:
+            count = QUESTION_COUNT_CACHE[exam_id]
+        else:
+            questions = load_questions_for_exam(exam_id)
+            count = len(questions)
+            QUESTION_COUNT_CACHE[exam_id] = count
+            
+        exams.append({
+            'id': exam_id,
+            'name': exam_info['name'],
+            'question_count': count
+        })
+    
+    response = jsonify(exams)
+    response.headers['Cache-Control'] = 'public, max-age=3600'  # Cache por 1 hora
+    return response
+
 @app.route('/api/questions/count', methods=['GET'])
 def get_questions_count():
-    return jsonify(len(ALL_QUESTIONS_DATA))
+    exam_type = request.args.get('exam_type')
+    if not exam_type:
+        return jsonify({"error": "exam_type é obrigatório"}), 400
+    
+    # Usar cache para contagem
+    if exam_type in QUESTION_COUNT_CACHE:
+        return jsonify(QUESTION_COUNT_CACHE[exam_type])
+    
+    questions = load_questions_for_exam(exam_type)
+    count = len(questions)
+    QUESTION_COUNT_CACHE[exam_type] = count
+    return jsonify(count)
 
 @app.route('/api/questions/<int:question_idx>', methods=['GET'])
 def get_question(question_idx):
-    if not (0 <= question_idx < len(ALL_QUESTIONS_DATA)):
+    exam_type = request.args.get('exam_type')
+    if not exam_type:
+        return jsonify({"error": "exam_type é obrigatório"}), 400
+    questions = load_questions_for_exam(exam_type)
+    
+    if not (0 <= question_idx < len(questions)):
         return jsonify({"error": "Índice de questão inválido"}), 404
     
-    question = ALL_QUESTIONS_DATA[question_idx]
+    question = questions[question_idx]
     
-    # Atualiza o índice da última questão visualizada na sessão atual
-    current_test_session = get_or_create_current_test_session()
+    current_test_session = get_or_create_current_test_session(exam_type)
     current_test_session.last_question_idx_viewed = question_idx
     db.session.commit()
     
@@ -120,14 +234,17 @@ def submit_answer():
 
     question_id_original = data.get('question_id_original')
     user_choices_letters_list = data.get('chosen_letters')
+    exam_type = data.get('exam_type')
+    if not exam_type:
+        return jsonify({"success": False, "message": "exam_type é obrigatório"}), 400
 
-    current_test_session = get_or_create_current_test_session()
+    current_test_session = get_or_create_current_test_session(exam_type)
+    questions = load_questions_for_exam(exam_type)
 
     if not question_id_original or not user_choices_letters_list or not isinstance(user_choices_letters_list, list):
         return jsonify({"success": False, "message": "Dados incompletos ou formato inválido para respostas."}), 400
 
-    # Encontrar a questão nos dados globais usando o ID original
-    question_data = next((q for q in ALL_QUESTIONS_DATA if str(q.get('id_original_json')) == str(question_id_original)), None)
+    question_data = next((q for q in questions if str(q.get('id_original_json')) == str(question_id_original)), None)
 
     if not question_data:
         return jsonify({"success": False, "message": f"Questão com ID original '{question_id_original}' não encontrada."}), 404
@@ -199,16 +316,19 @@ def submit_answer():
 
 @app.route('/api/current-session', methods=['GET'])
 def get_current_session():
-    current_session = get_or_create_current_test_session()
+    exam_type = request.args.get('exam_type')
+    if not exam_type:
+        return jsonify({"error": "exam_type é obrigatório"}), 400
+    current_session = get_or_create_current_test_session(exam_type)
     
-    # Verifica se a sessão tem respostas ou se o usuário navegou para alguma questão
     if UserResponse.query.filter_by(test_session_id=current_session.id).count() > 0 or \
        (current_session.last_question_idx_viewed is not None and current_session.last_question_idx_viewed > 0):
         return jsonify({
             'id': current_session.id,
             'timestamp': current_session.timestamp.isoformat(),
             'status': current_session.status,
-            'last_question_idx_viewed': current_session.last_question_idx_viewed
+            'last_question_idx_viewed': current_session.last_question_idx_viewed,
+            'exam_type': current_session.exam_type
         })
     
     return jsonify(None)
@@ -217,13 +337,15 @@ def get_current_session():
 def start_new_study():
     data = request.get_json()
     start_question_idx = data.get('start_question_idx', 0) if data else 0
+    exam_type = data.get('exam_type') if data else None
+    if not exam_type:
+        return jsonify({"error": "exam_type é obrigatório"}), 400
     
-    # Validar o índice da questão
-    if not (0 <= start_question_idx < len(ALL_QUESTIONS_DATA)):
+    questions = load_questions_for_exam(exam_type)
+    if not (0 <= start_question_idx < len(questions)):
         return jsonify({"error": "Índice de questão inválido"}), 400
     
-    # Finaliza qualquer sessão em progresso
-    existing_session = TestSession.query.filter_by(status='in_progress').first()
+    existing_session = TestSession.query.filter_by(status='in_progress', exam_type=exam_type).first()
     if existing_session:
         if UserResponse.query.filter_by(test_session_id=existing_session.id).count() > 0:
             finalize_session(existing_session.id)
@@ -231,11 +353,11 @@ def start_new_study():
             existing_session.status = 'abandoned'
             db.session.commit()
     
-    # Cria uma nova sessão com o índice de questão especificado
     new_session = TestSession(
         timestamp=datetime.utcnow(), 
         status='in_progress', 
-        last_question_idx_viewed=start_question_idx
+        last_question_idx_viewed=start_question_idx,
+        exam_type=exam_type
     )
     db.session.add(new_session)
     db.session.commit()
@@ -244,23 +366,32 @@ def start_new_study():
         'id': new_session.id,
         'timestamp': new_session.timestamp.isoformat(),
         'status': new_session.status,
-        'last_question_idx_viewed': new_session.last_question_idx_viewed
+        'last_question_idx_viewed': new_session.last_question_idx_viewed,
+        'exam_type': new_session.exam_type
     })
 
 @app.route('/api/resume-study', methods=['GET'])
 def resume_study():
-    current_session = get_or_create_current_test_session()
+    exam_type = request.args.get('exam_type')
+    if not exam_type:
+        return jsonify({"error": "exam_type é obrigatório"}), 400
+    current_session = get_or_create_current_test_session(exam_type)
     
     return jsonify({
         'id': current_session.id,
         'timestamp': current_session.timestamp.isoformat(),
         'status': current_session.status,
-        'last_question_idx_viewed': current_session.last_question_idx_viewed or 0
+        'last_question_idx_viewed': current_session.last_question_idx_viewed or 0,
+        'exam_type': current_session.exam_type
     })
 
 @app.route('/api/finish-study', methods=['POST'])
 def finish_study():
-    current_session = get_or_create_current_test_session()
+    data = request.get_json()
+    exam_type = data.get('exam_type') if data else None
+    if not exam_type:
+        return jsonify({"error": "exam_type é obrigatório"}), 400
+    current_session = get_or_create_current_test_session(exam_type)
     
     if current_session.status == 'in_progress':
         finalized_session = finalize_session(current_session.id)
@@ -272,7 +403,8 @@ def finish_study():
                 'status': finalized_session.status,
                 'score_percentage': finalized_session.score_percentage,
                 'total_questions_in_session': finalized_session.total_questions_in_session,
-                'correct_answers_in_session': finalized_session.correct_answers_in_session
+                'correct_answers_in_session': finalized_session.correct_answers_in_session,
+                'exam_type': finalized_session.exam_type
             })
     
     return jsonify({"error": "Nenhuma sessão em progresso para finalizar"}), 400
@@ -287,7 +419,8 @@ def get_study_sessions():
         'status': session.status,
         'score_percentage': session.score_percentage,
         'total_questions_in_session': session.total_questions_in_session,
-        'correct_answers_in_session': session.correct_answers_in_session
+        'correct_answers_in_session': session.correct_answers_in_session,
+        'exam_type': session.exam_type
     } for session in sessions])
 
 @app.route('/api/results/session/<int:session_id>', methods=['GET'])
@@ -295,9 +428,12 @@ def get_session_results(session_id):
     session_obj = TestSession.query.get_or_404(session_id)
     responses = UserResponse.query.filter_by(test_session_id=session_id).order_by(UserResponse.timestamp).all()
     
+    exam_type = session_obj.exam_type
+    questions = load_questions_for_exam(exam_type)
+    
     results = []
     questions_dict_by_id = {
-        str(q.get('id_original_json')): q for q in ALL_QUESTIONS_DATA if q.get('id_original_json') is not None
+        str(q.get('id_original_json')): q for q in questions if q.get('id_original_json') is not None
     }
     
     for resp in responses:
@@ -307,7 +443,7 @@ def get_session_results(session_id):
         if question_details:
             try:
                 question_idx = next(
-                    idx for idx, q_data in enumerate(ALL_QUESTIONS_DATA) 
+                    idx for idx, q_data in enumerate(questions) 
                     if str(q_data.get('id_original_json')) == str(resp.question_id_original)
                 )
             except StopIteration:
@@ -338,7 +474,8 @@ def get_session_results(session_id):
             'status': session_obj.status,
             'score_percentage': session_obj.score_percentage,
             'total_questions_in_session': session_obj.total_questions_in_session,
-            'correct_answers_in_session': session_obj.correct_answers_in_session
+            'correct_answers_in_session': session_obj.correct_answers_in_session,
+            'exam_type': session_obj.exam_type
         },
         "results": results
     })
@@ -357,6 +494,7 @@ def index():
     return jsonify({
         "message": "StudyHub API está funcionando!",
         "endpoints": [
+            "/api/exams",
             "/api/questions/count",
             "/api/questions/<question_idx>",
             "/api/current-session",

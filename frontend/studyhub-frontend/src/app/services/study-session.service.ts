@@ -12,20 +12,25 @@ export class StudySessionService {
 
   constructor(private http: HttpClient) { }
 
-  getCurrentSession(): Observable<StudySession | null> {
-    return this.http.get<StudySession | null>(`${this.apiUrl}/current-session`);
+  getCurrentSession(examType: string): Observable<StudySession | null> {
+    return this.http.get<StudySession | null>(`${this.apiUrl}/current-session?exam_type=${examType}`);
   }
 
-  startNewStudy(startQuestionIdx: number = 0): Observable<StudySession> {
-    return this.http.post<StudySession>(`${this.apiUrl}/start-new-study`, { start_question_idx: startQuestionIdx });
+  startNewStudy(startQuestionIdx: number, examType: string): Observable<StudySession> {
+    return this.http.post<StudySession>(`${this.apiUrl}/start-new-study`, {
+      start_question_idx: startQuestionIdx,
+      exam_type: examType
+    });
   }
 
-  resumeStudy(): Observable<StudySession> {
-    return this.http.get<StudySession>(`${this.apiUrl}/resume-study`);
+  resumeStudy(examType: string): Observable<StudySession> {
+    return this.http.get<StudySession>(`${this.apiUrl}/resume-study?exam_type=${examType}`);
   }
 
-  finishStudy(): Observable<StudySession> {
-    return this.http.post<StudySession>(`${this.apiUrl}/finish-study`, {});
+  finishStudy(examType: string): Observable<StudySession> {
+    return this.http.post<StudySession>(`${this.apiUrl}/finish-study`, {
+      exam_type: examType
+    });
   }
 
   getAllSessions(): Observable<StudySession[]> {

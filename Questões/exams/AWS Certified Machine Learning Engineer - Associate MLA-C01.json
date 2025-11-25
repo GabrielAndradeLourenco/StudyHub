@@ -1,0 +1,918 @@
+{
+  "exam_name": "AWS Certified Machine Learning Engineer - Associate MLA-C01",
+  "total_questions": 114,
+  "questions": [
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168979-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 113 discussion",
+      "author": "chris_spencer",
+      "replies": "6",
+      "views": "2400",
+      "creation_info": "by chris_spencer at March 13, 2025, 8:43 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152088-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 10 discussion",
+      "author": "a4002bd",
+      "replies": "26",
+      "views": "5333",
+      "creation_info": "by a4002bd at Nov. 27, 2024, 1:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168918-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 110 discussion",
+      "author": "chris_spencer",
+      "replies": "11",
+      "views": "2684",
+      "creation_info": "by chris_spencer at March 12, 2025, 12:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168865-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 107 discussion",
+      "author": "chris_spencer",
+      "replies": "8",
+      "views": "2331",
+      "creation_info": "by chris_spencer at March 11, 2025, 3:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168857-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 97 discussion",
+      "author": "chris_spencer",
+      "replies": "5",
+      "views": "2224",
+      "creation_info": "by chris_spencer at March 11, 2025, 2:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152136-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 3 discussion",
+      "author": "GiorgioGss",
+      "replies": "6",
+      "views": "4961",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 1:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152182-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 31 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3648",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152093-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 58 discussion",
+      "author": "a4002bd",
+      "replies": "8",
+      "views": "4450",
+      "creation_info": "by a4002bd at Nov. 27, 2024, 3:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152170-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 20 discussion",
+      "author": "GiorgioGss",
+      "replies": "7",
+      "views": "4682",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 8:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152137-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 4 discussion",
+      "author": "GiorgioGss",
+      "replies": "7",
+      "views": "5916",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 1:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/310754-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 94 discussion",
+      "author": "67bdb19",
+      "replies": "1",
+      "views": "396",
+      "creation_info": "by 67bdb19 at Aug. 21, 2025, 7:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/156754-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 5 discussion",
+      "author": "AzureDP900",
+      "replies": "3",
+      "views": "3683",
+      "creation_info": "by AzureDP900 at Feb. 18, 2025, 3:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152148-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 13 discussion",
+      "author": "GiorgioGss",
+      "replies": "4",
+      "views": "3574",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 3:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169509-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 111 discussion",
+      "author": "ygn4ei",
+      "replies": "3",
+      "views": "1874",
+      "creation_info": "by ygn4ei at March 20, 2025, 4:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169506-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 109 discussion",
+      "author": "ygn4ei",
+      "replies": "3",
+      "views": "2145",
+      "creation_info": "by ygn4ei at March 20, 2025, 4:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168864-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 106 discussion",
+      "author": "chris_spencer",
+      "replies": "3",
+      "views": "1657",
+      "creation_info": "by chris_spencer at March 11, 2025, 3:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168861-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 102 discussion",
+      "author": "chris_spencer",
+      "replies": "3",
+      "views": "1721",
+      "creation_info": "by chris_spencer at March 11, 2025, 2:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169494-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 101 discussion",
+      "author": "ygn4ei",
+      "replies": "3",
+      "views": "1675",
+      "creation_info": "by ygn4ei at March 20, 2025, 3:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168860-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 100 discussion",
+      "author": "chris_spencer",
+      "replies": "3",
+      "views": "1657",
+      "creation_info": "by chris_spencer at March 11, 2025, 2:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/157315-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 87 discussion",
+      "author": "ryuhei",
+      "replies": "7",
+      "views": "2839",
+      "creation_info": "by ryuhei at March 1, 2025, 11:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/157316-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 88 discussion",
+      "author": "ryuhei",
+      "replies": "3",
+      "views": "1973",
+      "creation_info": "by ryuhei at March 1, 2025, 11:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152232-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 71 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3364",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:50 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169514-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 114 discussion",
+      "author": "ygn4ei",
+      "replies": "3",
+      "views": "2169",
+      "creation_info": "by ygn4ei at March 20, 2025, 4:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169510-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 112 discussion",
+      "author": "ygn4ei",
+      "replies": "2",
+      "views": "1685",
+      "creation_info": "by ygn4ei at March 20, 2025, 4:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168863-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 105 discussion",
+      "author": "chris_spencer",
+      "replies": "5",
+      "views": "2010",
+      "creation_info": "by chris_spencer at March 11, 2025, 3:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168862-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 103 discussion",
+      "author": "chris_spencer",
+      "replies": "3",
+      "views": "1851",
+      "creation_info": "by chris_spencer at March 11, 2025, 3:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168859-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 99 discussion",
+      "author": "chris_spencer",
+      "replies": "2",
+      "views": "1761",
+      "creation_info": "by chris_spencer at March 11, 2025, 2:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168856-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 96 discussion",
+      "author": "chris_spencer",
+      "replies": "2",
+      "views": "1805",
+      "creation_info": "by chris_spencer at March 11, 2025, 2:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168855-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 95 discussion",
+      "author": "chris_spencer",
+      "replies": "2",
+      "views": "1826",
+      "creation_info": "by chris_spencer at March 11, 2025, 2:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168854-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 93 discussion",
+      "author": "chris_spencer",
+      "replies": "3",
+      "views": "1787",
+      "creation_info": "by chris_spencer at March 11, 2025, 2 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169487-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 91 discussion",
+      "author": "ygn4ei",
+      "replies": "3",
+      "views": "2122",
+      "creation_info": "by ygn4ei at March 20, 2025, 3:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168847-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 86 discussion",
+      "author": "chris_spencer",
+      "replies": "3",
+      "views": "1599",
+      "creation_info": "by chris_spencer at March 11, 2025, 12:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152298-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 80 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3630",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 5:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152294-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 78 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3536",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 5:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152233-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 72 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "2920",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152228-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 67 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3658",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152227-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 66 discussion",
+      "author": "GiorgioGss",
+      "replies": "6",
+      "views": "3393",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:40 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152223-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 62 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3712",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152210-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 60 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "2911",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 11:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152209-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 59 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3215",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 11:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152205-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 56 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3314",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 11:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152201-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 52 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3137",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 11:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152193-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 42 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3581",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152190-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 39 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3686",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152098-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 1 discussion",
+      "author": "Neo_2022",
+      "replies": "11",
+      "views": "9067",
+      "creation_info": "by Neo_2022 at Nov. 27, 2024, 5:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/157638-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 108 discussion",
+      "author": "ryuhei",
+      "replies": "7",
+      "views": "2131",
+      "creation_info": "by ryuhei at March 6, 2025, 5:43 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152169-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 19 discussion",
+      "author": "GiorgioGss",
+      "replies": "5",
+      "views": "3555",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 8:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152183-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 32 discussion",
+      "author": "GiorgioGss",
+      "replies": "4",
+      "views": "3708",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169489-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 92 discussion",
+      "author": "ygn4ei",
+      "replies": "1",
+      "views": "951",
+      "creation_info": "by ygn4ei at March 20, 2025, 3:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152199-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 50 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3515",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152200-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 51 discussion",
+      "author": "GiorgioGss",
+      "replies": "4",
+      "views": "3121",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 11:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152172-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 22 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3763",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 8:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152135-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 2 discussion",
+      "author": "GiorgioGss",
+      "replies": "7",
+      "views": "5318",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 1:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169486-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 90 discussion",
+      "author": "ygn4ei",
+      "replies": "2",
+      "views": "1693",
+      "creation_info": "by ygn4ei at March 20, 2025, 3:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/156755-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 6 discussion",
+      "author": "AzureDP900",
+      "replies": "3",
+      "views": "2845",
+      "creation_info": "by AzureDP900 at Feb. 18, 2025, 3:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152288-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 75 discussion",
+      "author": "GiorgioGss",
+      "replies": "5",
+      "views": "3318",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 5:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152091-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 45 discussion",
+      "author": "a4002bd",
+      "replies": "7",
+      "views": "4031",
+      "creation_info": "by a4002bd at Nov. 27, 2024, 3:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152212-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 14 discussion",
+      "author": "aragon_saa",
+      "replies": "24",
+      "views": "5516",
+      "creation_info": "by aragon_saa at Nov. 28, 2024, 12:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168853-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 89 discussion",
+      "author": "chris_spencer",
+      "replies": "2",
+      "views": "1935",
+      "creation_info": "by chris_spencer at March 11, 2025, 1:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152310-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 85 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3730",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 6:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152097-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 84 discussion",
+      "author": "a4002bd",
+      "replies": "5",
+      "views": "3412",
+      "creation_info": "by a4002bd at Nov. 27, 2024, 4:11 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152305-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 83 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3287",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 5:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152095-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 82 discussion",
+      "author": "a4002bd",
+      "replies": "10",
+      "views": "4640",
+      "creation_info": "by a4002bd at Nov. 27, 2024, 4:09 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152299-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 81 discussion",
+      "author": "GiorgioGss",
+      "replies": "5",
+      "views": "3477",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 5:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152178-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 28 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3241",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 9:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152176-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 26 discussion",
+      "author": "GiorgioGss",
+      "replies": "4",
+      "views": "3577",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 9:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152175-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 25 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3338",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 9:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169496-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 104 discussion",
+      "author": "ygn4ei",
+      "replies": "2",
+      "views": "1608",
+      "creation_info": "by ygn4ei at March 20, 2025, 3:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152204-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 55 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3436",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 11:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152099-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 46 discussion",
+      "author": "a4002bd",
+      "replies": "6",
+      "views": "4063",
+      "creation_info": "by a4002bd at Nov. 27, 2024, 6:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152192-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 41 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3514",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152174-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 24 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3628",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 9:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152167-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 17 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3956",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 8:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152177-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 27 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3677",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 9:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/156757-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 8 discussion",
+      "author": "AzureDP900",
+      "replies": "3",
+      "views": "2784",
+      "creation_info": "by AzureDP900 at Feb. 18, 2025, 3:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/168858-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 98 discussion",
+      "author": "chris_spencer",
+      "replies": "2",
+      "views": "1464",
+      "creation_info": "by chris_spencer at March 11, 2025, 2:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/155580-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 9 discussion",
+      "author": "abrarjahin",
+      "replies": "7",
+      "views": "3602",
+      "creation_info": "by abrarjahin at Jan. 28, 2025, 4:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/154557-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 7 discussion",
+      "author": "0c2d840",
+      "replies": "3",
+      "views": "3649",
+      "creation_info": "by 0c2d840 at Jan. 15, 2025, 1:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152181-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 30 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3690",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 9:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152090-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 29 discussion",
+      "author": "a4002bd",
+      "replies": "6",
+      "views": "2628",
+      "creation_info": "by a4002bd at Nov. 27, 2024, 3:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152168-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 18 discussion",
+      "author": "GiorgioGss",
+      "replies": "5",
+      "views": "4018",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 8:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152166-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 16 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3672",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 8:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152149-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 15 discussion",
+      "author": "GiorgioGss",
+      "replies": "4",
+      "views": "3922",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 3:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152147-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 12 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3476",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 3:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152145-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 11 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3795",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 3:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152235-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 74 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3292",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152194-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 43 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "2932",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152195-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 44 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3272",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152196-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 47 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3893",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152197-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 48 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3082",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152198-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 49 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3087",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152234-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 73 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3325",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152206-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 57 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3256",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 11:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152203-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 54 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3334",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 11:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152202-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 53 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3218",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 11:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152187-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 36 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3662",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152173-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 23 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3607",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 9:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152171-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 21 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3214",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 8:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152189-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 38 discussion",
+      "author": "GiorgioGss",
+      "replies": "3",
+      "views": "3231",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152191-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 40 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3395",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152188-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 37 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3328",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152186-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 35 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3621",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152185-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 34 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3248",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152184-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 33 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "2937",
+      "creation_info": "by GiorgioGss at Nov. 27, 2024, 10:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152217-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 61 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3498",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 7:08 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152225-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 64 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3010",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152224-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 63 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3646",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152226-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 65 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "2871",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152229-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 68 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3309",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152230-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 69 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "2928",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152231-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 70 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3277",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 8:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152295-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 79 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3402",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 5:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152292-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 77 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3431",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 5:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152289-exam-aws-certified-machine-learning-engineer-associate-mla/",
+      "title": "Exam AWS Certified Machine Learning Engineer - Associate MLA-C01 topic 1 question 76 discussion",
+      "author": "GiorgioGss",
+      "replies": "2",
+      "views": "3389",
+      "creation_info": "by GiorgioGss at Nov. 28, 2024, 5:26 p.m."
+    }
+  ]
+}

@@ -1,0 +1,3126 @@
+{
+  "exam_name": "AWS Certified DevOps Engineer - Professional DOP-C02",
+  "total_questions": 390,
+  "questions": [
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/312880-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 385 discussion",
+      "author": "TuMMM",
+      "replies": "2",
+      "views": "207",
+      "creation_info": "by TuMMM at Sept. 21, 2025, 2:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/312903-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 390 discussion",
+      "author": "Tuffy",
+      "replies": "1",
+      "views": "178",
+      "creation_info": "by Tuffy at Sept. 23, 2025, 2:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/312883-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 389 discussion",
+      "author": "TuMMM",
+      "replies": "1",
+      "views": "207",
+      "creation_info": "by TuMMM at Sept. 21, 2025, 2:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/312850-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 388 discussion",
+      "author": "figub",
+      "replies": "2",
+      "views": "200",
+      "creation_info": "by figub at Sept. 19, 2025, 8:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/312882-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 387 discussion",
+      "author": "TuMMM",
+      "replies": "1",
+      "views": "185",
+      "creation_info": "by TuMMM at Sept. 21, 2025, 2:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/312881-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 386 discussion",
+      "author": "TuMMM",
+      "replies": "1",
+      "views": "184",
+      "creation_info": "by TuMMM at Sept. 21, 2025, 2:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/312879-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 384 discussion",
+      "author": "TuMMM",
+      "replies": "1",
+      "views": "176",
+      "creation_info": "by TuMMM at Sept. 21, 2025, 1:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/312878-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 383 discussion",
+      "author": "TuMMM",
+      "replies": "1",
+      "views": "191",
+      "creation_info": "by TuMMM at Sept. 21, 2025, 1:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308791-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 366 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "4",
+      "views": "475",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153427-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 298 discussion",
+      "author": "matt200",
+      "replies": "7",
+      "views": "2163",
+      "creation_info": "by matt200 at Dec. 25, 2024, 6:27 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105229-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 1 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "36",
+      "views": "20067",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 1:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302864-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 358 discussion",
+      "author": "GripZA",
+      "replies": "2",
+      "views": "1120",
+      "creation_info": "by GripZA at April 23, 2025, 4:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109227-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 107 discussion",
+      "author": "devnv",
+      "replies": "15",
+      "views": "5329",
+      "creation_info": "by devnv at May 14, 2023, 12:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308794-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 367 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "508",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308790-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 365 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "2",
+      "views": "488",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151630-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 352 discussion",
+      "author": "uncledana",
+      "replies": "9",
+      "views": "3124",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:40 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106264-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 57 discussion",
+      "author": "alce2020",
+      "replies": "27",
+      "views": "5710",
+      "creation_info": "by alce2020 at April 15, 2023, 5:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151838-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 296 discussion",
+      "author": "Impromptu",
+      "replies": "3",
+      "views": "2076",
+      "creation_info": "by Impromptu at Nov. 22, 2024, 3:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143399-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 270 discussion",
+      "author": "xdkonorek2",
+      "replies": "19",
+      "views": "3577",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 9:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133084-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 207 discussion",
+      "author": "Spavanko",
+      "replies": "20",
+      "views": "4738",
+      "creation_info": "by Spavanko at Feb. 6, 2024, 7:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133299-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 201 discussion",
+      "author": "Chelseajcole",
+      "replies": "25",
+      "views": "5272",
+      "creation_info": "by Chelseajcole at Feb. 7, 2024, 7:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129737-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 175 discussion",
+      "author": "csG13",
+      "replies": "21",
+      "views": "4663",
+      "creation_info": "by csG13 at Dec. 29, 2023, 7:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129682-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 162 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "26",
+      "views": "4953",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 1:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302871-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 359 discussion",
+      "author": "GripZA",
+      "replies": "5",
+      "views": "1314",
+      "creation_info": "by GripZA at April 23, 2025, 6:43 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106219-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 66 discussion",
+      "author": "alce2020",
+      "replies": "45",
+      "views": "6899",
+      "creation_info": "by alce2020 at April 15, 2023, 4:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308789-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 364 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "521",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151617-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 341 discussion",
+      "author": "uncledana",
+      "replies": "7",
+      "views": "2497",
+      "creation_info": "by uncledana at Nov. 19, 2024, 10:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106309-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 40 discussion",
+      "author": "alce2020",
+      "replies": "28",
+      "views": "5540",
+      "creation_info": "by alce2020 at April 16, 2023, 3:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308802-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 382 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "508",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308803-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 381 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "4",
+      "views": "510",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308805-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 379 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "491",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308801-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 378 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "4",
+      "views": "438",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308804-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 377 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "4",
+      "views": "450",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308800-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 376 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "474",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308797-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 375 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "454",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308792-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 374 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "534",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308799-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 373 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "407",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308796-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 372 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "432",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308788-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 371 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "461",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308793-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 370 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "544",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308798-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 369 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "3",
+      "views": "457",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308795-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 368 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "4",
+      "views": "503",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106311-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 42 discussion",
+      "author": "alce2020",
+      "replies": "63",
+      "views": "6686",
+      "creation_info": "by alce2020 at April 16, 2023, 4:09 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151628-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 350 discussion",
+      "author": "uncledana",
+      "replies": "7",
+      "views": "2432",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109044-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 112 discussion",
+      "author": "ParagSanyashiv",
+      "replies": "11",
+      "views": "4981",
+      "creation_info": "by ParagSanyashiv at May 12, 2023, 8:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109130-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 101 discussion",
+      "author": "Dimidrol",
+      "replies": "23",
+      "views": "7981",
+      "creation_info": "by Dimidrol at May 13, 2023, 9:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/137363-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 219 discussion",
+      "author": "ogerber",
+      "replies": "20",
+      "views": "3749",
+      "creation_info": "by ogerber at March 27, 2024, 6:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/308806-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 380 discussion",
+      "author": "Sai_Vignesh",
+      "replies": "2",
+      "views": "472",
+      "creation_info": "by Sai_Vignesh at Aug. 7, 2025, 4:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129736-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 174 discussion",
+      "author": "csG13",
+      "replies": "18",
+      "views": "4069",
+      "creation_info": "by csG13 at Dec. 29, 2023, 7:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105519-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 16 discussion",
+      "author": "ele",
+      "replies": "60",
+      "views": "8631",
+      "creation_info": "by ele at April 7, 2023, 3:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151849-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 321 discussion",
+      "author": "f4b18ba",
+      "replies": "6",
+      "views": "2383",
+      "creation_info": "by f4b18ba at Nov. 22, 2024, 8:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105524-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 21 discussion",
+      "author": "ele",
+      "replies": "32",
+      "views": "7530",
+      "creation_info": "by ele at April 7, 2023, 5:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302826-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 354 discussion",
+      "author": "GripZA",
+      "replies": "3",
+      "views": "1127",
+      "creation_info": "by GripZA at April 22, 2025, 8:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151620-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 344 discussion",
+      "author": "uncledana",
+      "replies": "5",
+      "views": "2397",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/169071-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 363 discussion",
+      "author": "2b80c69",
+      "replies": "3",
+      "views": "1997",
+      "creation_info": "by 2b80c69 at March 14, 2025, 9:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151629-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 351 discussion",
+      "author": "uncledana",
+      "replies": "5",
+      "views": "2520",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105230-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 2 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "15",
+      "views": "11374",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 1:29 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106265-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 56 discussion",
+      "author": "alce2020",
+      "replies": "23",
+      "views": "6186",
+      "creation_info": "by alce2020 at April 15, 2023, 5:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129693-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 183 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "9",
+      "views": "3567",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 3:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109258-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 81 discussion",
+      "author": "2pk",
+      "replies": "18",
+      "views": "5287",
+      "creation_info": "by 2pk at May 15, 2023, 9:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129674-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 154 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "13",
+      "views": "4055",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 1:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129698-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 151 discussion",
+      "author": "csG13",
+      "replies": "18",
+      "views": "3999",
+      "creation_info": "by csG13 at Dec. 29, 2023, 3:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105247-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 23 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "44",
+      "views": "9919",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 5:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/126989-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 143 discussion",
+      "author": "vandergun",
+      "replies": "6",
+      "views": "4523",
+      "creation_info": "by vandergun at Nov. 23, 2023, 9:28 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302872-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 360 discussion",
+      "author": "GripZA",
+      "replies": "2",
+      "views": "1267",
+      "creation_info": "by GripZA at April 23, 2025, 6:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302829-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 357 discussion",
+      "author": "GripZA",
+      "replies": "3",
+      "views": "1173",
+      "creation_info": "by GripZA at April 22, 2025, 8:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151631-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 353 discussion",
+      "author": "uncledana",
+      "replies": "2",
+      "views": "2007",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109205-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 87 discussion",
+      "author": "devnv",
+      "replies": "8",
+      "views": "4127",
+      "creation_info": "by devnv at May 14, 2023, 7:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129671-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 149 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "12",
+      "views": "3650",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 12:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112701-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 133 discussion",
+      "author": "tartarus23",
+      "replies": "15",
+      "views": "6437",
+      "creation_info": "by tartarus23 at June 20, 2023, 8:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109048-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 117 discussion",
+      "author": "ParagSanyashiv",
+      "replies": "8",
+      "views": "4742",
+      "creation_info": "by ParagSanyashiv at May 12, 2023, 9:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109191-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 113 discussion",
+      "author": "2pk",
+      "replies": "10",
+      "views": "5058",
+      "creation_info": "by 2pk at May 14, 2023, 2:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108749-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 110 discussion",
+      "author": "Jowblow",
+      "replies": "36",
+      "views": "9060",
+      "creation_info": "by Jowblow at May 8, 2023, 3:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153426-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 295 discussion",
+      "author": "matt200",
+      "replies": "2",
+      "views": "1704",
+      "creation_info": "by matt200 at Dec. 25, 2024, 6:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151619-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 343 discussion",
+      "author": "uncledana",
+      "replies": "7",
+      "views": "2846",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151702-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 304 discussion",
+      "author": "f4b18ba",
+      "replies": "4",
+      "views": "2287",
+      "creation_info": "by f4b18ba at Nov. 20, 2024, 5:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109219-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 97 discussion",
+      "author": "devnv",
+      "replies": "7",
+      "views": "4149",
+      "creation_info": "by devnv at May 14, 2023, 10:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143402-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 268 discussion",
+      "author": "xdkonorek2",
+      "replies": "8",
+      "views": "3025",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 10:38 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151748-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 320 discussion",
+      "author": "phu0298",
+      "replies": "9",
+      "views": "2787",
+      "creation_info": "by phu0298 at Nov. 21, 2024, 8:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108678-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 78 discussion",
+      "author": "marcoforexam",
+      "replies": "24",
+      "views": "7544",
+      "creation_info": "by marcoforexam at May 7, 2023, 11:47 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152245-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 306 discussion",
+      "author": "ArunRav",
+      "replies": "7",
+      "views": "2678",
+      "creation_info": "by ArunRav at Nov. 28, 2024, 10:01 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106272-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 46 discussion",
+      "author": "alce2020",
+      "replies": "17",
+      "views": "5273",
+      "creation_info": "by alce2020 at April 15, 2023, 6:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143413-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 274 discussion",
+      "author": "xdkonorek2",
+      "replies": "13",
+      "views": "2859",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 1:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143377-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 260 discussion",
+      "author": "xdkonorek2",
+      "replies": "5",
+      "views": "2511",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 8:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106444-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 65 discussion",
+      "author": "alce2020",
+      "replies": "8",
+      "views": "4895",
+      "creation_info": "by alce2020 at April 16, 2023, 11:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/126991-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 147 discussion",
+      "author": "vandergun",
+      "replies": "24",
+      "views": "5404",
+      "creation_info": "by vandergun at Nov. 23, 2023, 10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109237-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 104 discussion",
+      "author": "2pk",
+      "replies": "36",
+      "views": "6748",
+      "creation_info": "by 2pk at May 14, 2023, 5:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108805-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 100 discussion",
+      "author": "Jeanphi72",
+      "replies": "39",
+      "views": "6607",
+      "creation_info": "by Jeanphi72 at May 9, 2023, 2:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151621-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 345 discussion",
+      "author": "uncledana",
+      "replies": "8",
+      "views": "2499",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108676-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 77 discussion",
+      "author": "marcoforexam",
+      "replies": "12",
+      "views": "5417",
+      "creation_info": "by marcoforexam at May 7, 2023, 11:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108078-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 69 discussion",
+      "author": "haazybanj",
+      "replies": "14",
+      "views": "5373",
+      "creation_info": "by haazybanj at May 1, 2023, 7:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129685-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 172 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "15",
+      "views": "4586",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 2:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129985-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 163 discussion",
+      "author": "d262e67",
+      "replies": "14",
+      "views": "4597",
+      "creation_info": "by d262e67 at Dec. 31, 2023, 11:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129672-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 152 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "9",
+      "views": "4124",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 1:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143403-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 267 discussion",
+      "author": "xdkonorek2",
+      "replies": "6",
+      "views": "3309",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 10:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105332-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 4 discussion",
+      "author": "Dimidrol",
+      "replies": "23",
+      "views": "10458",
+      "creation_info": "by Dimidrol at April 5, 2023, 9:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302873-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 362 discussion",
+      "author": "GripZA",
+      "replies": "1",
+      "views": "1475",
+      "creation_info": "by GripZA at April 23, 2025, 7:18 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/157101-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 361 discussion",
+      "author": "Bwhizzy",
+      "replies": "2",
+      "views": "1367",
+      "creation_info": "by Bwhizzy at Feb. 25, 2025, 6:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302828-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 356 discussion",
+      "author": "GripZA",
+      "replies": "1",
+      "views": "1391",
+      "creation_info": "by GripZA at April 22, 2025, 8:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/302827-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 355 discussion",
+      "author": "GripZA",
+      "replies": "1",
+      "views": "1429",
+      "creation_info": "by GripZA at April 22, 2025, 8:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152997-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 294 discussion",
+      "author": "Ky_24",
+      "replies": "2",
+      "views": "2431",
+      "creation_info": "by Ky_24 at Dec. 15, 2024, 2:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143391-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 256 discussion",
+      "author": "xdkonorek2",
+      "replies": "5",
+      "views": "2918",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 7:03 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143392-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 255 discussion",
+      "author": "xdkonorek2",
+      "replies": "5",
+      "views": "3129",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 7:13 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143475-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 236 discussion",
+      "author": "getadroit",
+      "replies": "5",
+      "views": "2104",
+      "creation_info": "by getadroit at July 6, 2024, 10:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133302-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 204 discussion",
+      "author": "Chelseajcole",
+      "replies": "12",
+      "views": "4352",
+      "creation_info": "by Chelseajcole at Feb. 7, 2024, 7:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133267-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 199 discussion",
+      "author": "Arnaud92",
+      "replies": "10",
+      "views": "4836",
+      "creation_info": "by Arnaud92 at Feb. 7, 2024, 1:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129703-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 192 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "10",
+      "views": "4715",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 4:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129701-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 188 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "18",
+      "views": "4532",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 3:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129734-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 171 discussion",
+      "author": "csG13",
+      "replies": "24",
+      "views": "4933",
+      "creation_info": "by csG13 at Dec. 29, 2023, 6:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/119654-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 135 discussion",
+      "author": "ixdb",
+      "replies": "17",
+      "views": "5381",
+      "creation_info": "by ixdb at Sept. 1, 2023, 3:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108799-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 115 discussion",
+      "author": "Jeanphi72",
+      "replies": "19",
+      "views": "5345",
+      "creation_info": "by Jeanphi72 at May 9, 2023, noon"
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109209-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 90 discussion",
+      "author": "devnv",
+      "replies": "7",
+      "views": "6230",
+      "creation_info": "by devnv at May 14, 2023, 7:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109207-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 89 discussion",
+      "author": "devnv",
+      "replies": "6",
+      "views": "4655",
+      "creation_info": "by devnv at May 14, 2023, 7:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106262-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 59 discussion",
+      "author": "alce2020",
+      "replies": "12",
+      "views": "5658",
+      "creation_info": "by alce2020 at April 15, 2023, 4:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105492-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 54 discussion",
+      "author": "Dimidrol",
+      "replies": "33",
+      "views": "8370",
+      "creation_info": "by Dimidrol at April 7, 2023, 11:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106274-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 44 discussion",
+      "author": "alce2020",
+      "replies": "14",
+      "views": "5212",
+      "creation_info": "by alce2020 at April 15, 2023, 6:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105266-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 8 discussion",
+      "author": "Dimidrol",
+      "replies": "17",
+      "views": "9225",
+      "creation_info": "by Dimidrol at April 5, 2023, 12:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105240-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 19 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "10",
+      "views": "6344",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 4:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105265-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 6 discussion",
+      "author": "Dimidrol",
+      "replies": "26",
+      "views": "9369",
+      "creation_info": "by Dimidrol at April 5, 2023, 12:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105457-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 5 discussion",
+      "author": "Dimidrol",
+      "replies": "50",
+      "views": "12855",
+      "creation_info": "by Dimidrol at April 6, 2023, 9:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105252-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 30 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "59",
+      "views": "10056",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 6:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151626-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 349 discussion",
+      "author": "uncledana",
+      "replies": "5",
+      "views": "2478",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151624-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 348 discussion",
+      "author": "uncledana",
+      "replies": "3",
+      "views": "2242",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151623-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 347 discussion",
+      "author": "uncledana",
+      "replies": "5",
+      "views": "2448",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151622-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 346 discussion",
+      "author": "uncledana",
+      "replies": "3",
+      "views": "2614",
+      "creation_info": "by uncledana at Nov. 19, 2024, 11:13 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151618-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 342 discussion",
+      "author": "uncledana",
+      "replies": "2",
+      "views": "2018",
+      "creation_info": "by uncledana at Nov. 19, 2024, 10:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151616-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 340 discussion",
+      "author": "uncledana",
+      "replies": "4",
+      "views": "2555",
+      "creation_info": "by uncledana at Nov. 19, 2024, 10:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151615-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 339 discussion",
+      "author": "uncledana",
+      "replies": "9",
+      "views": "2119",
+      "creation_info": "by uncledana at Nov. 19, 2024, 10:11 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151613-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 337 discussion",
+      "author": "uncledana",
+      "replies": "6",
+      "views": "2255",
+      "creation_info": "by uncledana at Nov. 19, 2024, 9:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151820-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 334 discussion",
+      "author": "phu0298",
+      "replies": "6",
+      "views": "2678",
+      "creation_info": "by phu0298 at Nov. 22, 2024, 10:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151818-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 333 discussion",
+      "author": "phu0298",
+      "replies": "4",
+      "views": "2227",
+      "creation_info": "by phu0298 at Nov. 22, 2024, 9:50 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152429-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 310 discussion",
+      "author": "gunjan229",
+      "replies": "5",
+      "views": "2295",
+      "creation_info": "by gunjan229 at Dec. 1, 2024, 3:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151855-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 336 discussion",
+      "author": "f4b18ba",
+      "replies": "8",
+      "views": "2267",
+      "creation_info": "by f4b18ba at Nov. 22, 2024, 11:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152811-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 335 discussion",
+      "author": "eugene2owl",
+      "replies": "3",
+      "views": "2129",
+      "creation_info": "by eugene2owl at Dec. 10, 2024, 5:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150569-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 332 discussion",
+      "author": "awsarchitect5",
+      "replies": "5",
+      "views": "2783",
+      "creation_info": "by awsarchitect5 at Oct. 31, 2024, 12:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153039-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 331 discussion",
+      "author": "Ky_24",
+      "replies": "3",
+      "views": "2338",
+      "creation_info": "by Ky_24 at Dec. 16, 2024, 2:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152488-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 330 discussion",
+      "author": "On9son",
+      "replies": "4",
+      "views": "2402",
+      "creation_info": "by On9son at Dec. 3, 2024, 8:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153432-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 329 discussion",
+      "author": "matt200",
+      "replies": "2",
+      "views": "2001",
+      "creation_info": "by matt200 at Dec. 25, 2024, 6:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153431-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 328 discussion",
+      "author": "matt200",
+      "replies": "2",
+      "views": "1878",
+      "creation_info": "by matt200 at Dec. 25, 2024, 6:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151850-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 326 discussion",
+      "author": "f4b18ba",
+      "replies": "3",
+      "views": "1757",
+      "creation_info": "by f4b18ba at Nov. 22, 2024, 9:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150837-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 325 discussion",
+      "author": "nqg54118",
+      "replies": "7",
+      "views": "2938",
+      "creation_info": "by nqg54118 at Nov. 6, 2024, 6:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151567-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 324 discussion",
+      "author": "uncledana",
+      "replies": "3",
+      "views": "2350",
+      "creation_info": "by uncledana at Nov. 18, 2024, 11:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153128-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 323 discussion",
+      "author": "teo2157",
+      "replies": "2",
+      "views": "2500",
+      "creation_info": "by teo2157 at Dec. 17, 2024, 4:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151565-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 322 discussion",
+      "author": "uncledana",
+      "replies": "5",
+      "views": "2493",
+      "creation_info": "by uncledana at Nov. 18, 2024, 11:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151542-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 319 discussion",
+      "author": "uncledana",
+      "replies": "9",
+      "views": "2184",
+      "creation_info": "by uncledana at Nov. 18, 2024, 10:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151541-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 318 discussion",
+      "author": "uncledana",
+      "replies": "6",
+      "views": "2789",
+      "creation_info": "by uncledana at Nov. 18, 2024, 10:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151540-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 317 discussion",
+      "author": "uncledana",
+      "replies": "4",
+      "views": "2287",
+      "creation_info": "by uncledana at Nov. 18, 2024, 10:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153430-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 316 discussion",
+      "author": "matt200",
+      "replies": "2",
+      "views": "1844",
+      "creation_info": "by matt200 at Dec. 25, 2024, 6:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153429-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 315 discussion",
+      "author": "matt200",
+      "replies": "2",
+      "views": "2763",
+      "creation_info": "by matt200 at Dec. 25, 2024, 6:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151840-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 314 discussion",
+      "author": "Impromptu",
+      "replies": "8",
+      "views": "2371",
+      "creation_info": "by Impromptu at Nov. 22, 2024, 4:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151539-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 313 discussion",
+      "author": "uncledana",
+      "replies": "4",
+      "views": "2687",
+      "creation_info": "by uncledana at Nov. 18, 2024, 10:05 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152096-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 312 discussion",
+      "author": "phu0298",
+      "replies": "2",
+      "views": "2058",
+      "creation_info": "by phu0298 at Nov. 27, 2024, 4:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152094-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 311 discussion",
+      "author": "phu0298",
+      "replies": "3",
+      "views": "2338",
+      "creation_info": "by phu0298 at Nov. 27, 2024, 4:05 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152430-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 309 discussion",
+      "author": "gunjan229",
+      "replies": "2",
+      "views": "1898",
+      "creation_info": "by gunjan229 at Dec. 1, 2024, 3:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151655-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 308 discussion",
+      "author": "phu0298",
+      "replies": "3",
+      "views": "2195",
+      "creation_info": "by phu0298 at Nov. 20, 2024, 2:47 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151709-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 307 discussion",
+      "author": "f4b18ba",
+      "replies": "3",
+      "views": "2710",
+      "creation_info": "by f4b18ba at Nov. 20, 2024, 5:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151704-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 305 discussion",
+      "author": "f4b18ba",
+      "replies": "4",
+      "views": "2489",
+      "creation_info": "by f4b18ba at Nov. 20, 2024, 5:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151700-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 302 discussion",
+      "author": "f4b18ba",
+      "replies": "6",
+      "views": "2056",
+      "creation_info": "by f4b18ba at Nov. 20, 2024, 5:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152237-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 301 discussion",
+      "author": "ArunRav",
+      "replies": "3",
+      "views": "2396",
+      "creation_info": "by ArunRav at Nov. 28, 2024, 9:31 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/137342-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 221 discussion",
+      "author": "Seoyong",
+      "replies": "6",
+      "views": "4127",
+      "creation_info": "by Seoyong at March 27, 2024, 10:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136239-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 213 discussion",
+      "author": "CloudHell",
+      "replies": "8",
+      "views": "3691",
+      "creation_info": "by CloudHell at March 16, 2024, 7:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133300-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 202 discussion",
+      "author": "Chelseajcole",
+      "replies": "9",
+      "views": "4015",
+      "creation_info": "by Chelseajcole at Feb. 7, 2024, 7:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/132880-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 196 discussion",
+      "author": "hotblooded",
+      "replies": "13",
+      "views": "5420",
+      "creation_info": "by hotblooded at Feb. 5, 2024, 5:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108806-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 99 discussion",
+      "author": "Jeanphi72",
+      "replies": "15",
+      "views": "5892",
+      "creation_info": "by Jeanphi72 at May 9, 2023, 2:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106441-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 58 discussion",
+      "author": "alce2020",
+      "replies": "21",
+      "views": "6562",
+      "creation_info": "by alce2020 at April 16, 2023, 10:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106179-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 29 discussion",
+      "author": "boledadian",
+      "replies": "19",
+      "views": "6018",
+      "creation_info": "by boledadian at April 14, 2023, 2:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105335-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 26 discussion",
+      "author": "Dimidrol",
+      "replies": "24",
+      "views": "7548",
+      "creation_info": "by Dimidrol at April 5, 2023, 10:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143418-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 272 discussion",
+      "author": "xdkonorek2",
+      "replies": "5",
+      "views": "3325",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 2:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152474-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 286 discussion",
+      "author": "On9son",
+      "replies": "3",
+      "views": "2375",
+      "creation_info": "by On9son at Dec. 2, 2024, 5:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153142-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 297 discussion",
+      "author": "spring21",
+      "replies": "4",
+      "views": "2114",
+      "creation_info": "by spring21 at Dec. 18, 2024, 1:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/142993-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 230 discussion",
+      "author": "KaranNishad",
+      "replies": "6",
+      "views": "2547",
+      "creation_info": "by KaranNishad at June 27, 2024, 8 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106269-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 49 discussion",
+      "author": "alce2020",
+      "replies": "9",
+      "views": "4892",
+      "creation_info": "by alce2020 at April 15, 2023, 6:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129705-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 194 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "23",
+      "views": "5241",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 4:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153428-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 299 discussion",
+      "author": "matt200",
+      "replies": "2",
+      "views": "1945",
+      "creation_info": "by matt200 at Dec. 25, 2024, 6:28 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127013-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 146 discussion",
+      "author": "vandergun",
+      "replies": "25",
+      "views": "5210",
+      "creation_info": "by vandergun at Nov. 23, 2023, 1:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127016-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 139 discussion",
+      "author": "vandergun",
+      "replies": "9",
+      "views": "3926",
+      "creation_info": "by vandergun at Nov. 23, 2023, 1:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153424-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 287 discussion",
+      "author": "matt200",
+      "replies": "2",
+      "views": "2237",
+      "creation_info": "by matt200 at Dec. 25, 2024, 6:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129679-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 157 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "12",
+      "views": "3912",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 1:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106206-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 28 discussion",
+      "author": "alce2020",
+      "replies": "23",
+      "views": "6032",
+      "creation_info": "by alce2020 at April 14, 2023, 11:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153031-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 289 discussion",
+      "author": "teo2157",
+      "replies": "5",
+      "views": "2062",
+      "creation_info": "by teo2157 at Dec. 16, 2024, 12:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143360-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 239 discussion",
+      "author": "xdkonorek2",
+      "replies": "5",
+      "views": "3009",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 3:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143361-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 238 discussion",
+      "author": "xdkonorek2",
+      "replies": "9",
+      "views": "4098",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 3:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105512-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 13 discussion",
+      "author": "ele",
+      "replies": "11",
+      "views": "5895",
+      "creation_info": "by ele at April 7, 2023, 3:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151518-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 303 discussion",
+      "author": "f4b18ba",
+      "replies": "6",
+      "views": "2419",
+      "creation_info": "by f4b18ba at Nov. 17, 2024, 10:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143435-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 271 discussion",
+      "author": "xdkonorek2",
+      "replies": "13",
+      "views": "3177",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 6:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143893-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 261 discussion",
+      "author": "trungtd",
+      "replies": "4",
+      "views": "3019",
+      "creation_info": "by trungtd at July 14, 2024, 5:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143393-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 254 discussion",
+      "author": "xdkonorek2",
+      "replies": "4",
+      "views": "2599",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 7:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/142990-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 224 discussion",
+      "author": "KaranNishad",
+      "replies": "5",
+      "views": "3560",
+      "creation_info": "by KaranNishad at June 27, 2024, 7:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136243-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 215 discussion",
+      "author": "CloudHell",
+      "replies": "22",
+      "views": "3589",
+      "creation_info": "by CloudHell at March 16, 2024, 8:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108803-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 102 discussion",
+      "author": "Jeanphi72",
+      "replies": "32",
+      "views": "5863",
+      "creation_info": "by Jeanphi72 at May 9, 2023, 1:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129673-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 153 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "7",
+      "views": "3971",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 1:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143519-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 249 discussion",
+      "author": "tgv",
+      "replies": "6",
+      "views": "3408",
+      "creation_info": "by tgv at July 7, 2024, 8:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108356-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 72 discussion",
+      "author": "haazybanj",
+      "replies": "16",
+      "views": "5385",
+      "creation_info": "by haazybanj at May 3, 2023, 6:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153425-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 292 discussion",
+      "author": "matt200",
+      "replies": "1",
+      "views": "1574",
+      "creation_info": "by matt200 at Dec. 25, 2024, 6:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151064-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 293 discussion",
+      "author": "koo_kai",
+      "replies": "4",
+      "views": "2127",
+      "creation_info": "by koo_kai at Nov. 10, 2024, 1:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152994-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 284 discussion",
+      "author": "Ky_24",
+      "replies": "2",
+      "views": "2491",
+      "creation_info": "by Ky_24 at Dec. 15, 2024, 12:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/132881-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 198 discussion",
+      "author": "hotblooded",
+      "replies": "14",
+      "views": "4245",
+      "creation_info": "by hotblooded at Feb. 5, 2024, 5:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143411-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 276 discussion",
+      "author": "xdkonorek2",
+      "replies": "3",
+      "views": "3123",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 1:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143374-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 242 discussion",
+      "author": "xdkonorek2",
+      "replies": "4",
+      "views": "3297",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 6:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143364-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 235 discussion",
+      "author": "xdkonorek2",
+      "replies": "6",
+      "views": "2455",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 4:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143365-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 233 discussion",
+      "author": "xdkonorek2",
+      "replies": "7",
+      "views": "2293",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 4:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143354-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 228 discussion",
+      "author": "xdkonorek2",
+      "replies": "6",
+      "views": "2464",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 1:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151517-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 300 discussion",
+      "author": "f4b18ba",
+      "replies": "2",
+      "views": "2362",
+      "creation_info": "by f4b18ba at Nov. 17, 2024, 10:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153029-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 288 discussion",
+      "author": "teo2157",
+      "replies": "2",
+      "views": "2247",
+      "creation_info": "by teo2157 at Dec. 16, 2024, 12:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/137361-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 216 discussion",
+      "author": "ogerber",
+      "replies": "8",
+      "views": "3470",
+      "creation_info": "by ogerber at March 27, 2024, 5:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133261-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 197 discussion",
+      "author": "Arnaud92",
+      "replies": "10",
+      "views": "4038",
+      "creation_info": "by Arnaud92 at Feb. 7, 2024, 12:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136241-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 214 discussion",
+      "author": "CloudHell",
+      "replies": "4",
+      "views": "3656",
+      "creation_info": "by CloudHell at March 16, 2024, 8:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143894-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 262 discussion",
+      "author": "trungtd",
+      "replies": "7",
+      "views": "3910",
+      "creation_info": "by trungtd at July 14, 2024, 5:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106271-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 47 discussion",
+      "author": "alce2020",
+      "replies": "9",
+      "views": "4712",
+      "creation_info": "by alce2020 at April 15, 2023, 6:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129689-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 180 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "13",
+      "views": "4215",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 2:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129832-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 168 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "16",
+      "views": "3928",
+      "creation_info": "by PrasannaBalaji at Dec. 30, 2023, 6:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108791-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 121 discussion",
+      "author": "Jeanphi72",
+      "replies": "23",
+      "views": "7793",
+      "creation_info": "by Jeanphi72 at May 9, 2023, 9:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109206-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 88 discussion",
+      "author": "devnv",
+      "replies": "9",
+      "views": "4636",
+      "creation_info": "by devnv at May 14, 2023, 7:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143405-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 264 discussion",
+      "author": "xdkonorek2",
+      "replies": "13",
+      "views": "3529",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 11:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151022-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 291 discussion",
+      "author": "Jefff9997",
+      "replies": "4",
+      "views": "2241",
+      "creation_info": "by Jefff9997 at Nov. 8, 2024, 8:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133293-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 209 discussion",
+      "author": "Arnaud92",
+      "replies": "10",
+      "views": "3966",
+      "creation_info": "by Arnaud92 at Feb. 7, 2024, 5:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153028-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 285 discussion",
+      "author": "teo2157",
+      "replies": "1",
+      "views": "2061",
+      "creation_info": "by teo2157 at Dec. 16, 2024, 11:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152993-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 283 discussion",
+      "author": "Ky_24",
+      "replies": "2",
+      "views": "2096",
+      "creation_info": "by Ky_24 at Dec. 15, 2024, 12:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143363-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 237 discussion",
+      "author": "xdkonorek2",
+      "replies": "12",
+      "views": "3485",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 4:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/153026-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 282 discussion",
+      "author": "teo2157",
+      "replies": "1",
+      "views": "2275",
+      "creation_info": "by teo2157 at Dec. 16, 2024, 9:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/146260-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 280 discussion",
+      "author": "hzaki",
+      "replies": "7",
+      "views": "2655",
+      "creation_info": "by hzaki at Aug. 21, 2024, 4:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/152995-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 290 discussion",
+      "author": "Ky_24",
+      "replies": "1",
+      "views": "2518",
+      "creation_info": "by Ky_24 at Dec. 15, 2024, 1:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143395-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 251 discussion",
+      "author": "xdkonorek2",
+      "replies": "7",
+      "views": "1961",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 7:29 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143370-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 250 discussion",
+      "author": "xdkonorek2",
+      "replies": "10",
+      "views": "3274",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 6:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133085-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 208 discussion",
+      "author": "Spavanko",
+      "replies": "35",
+      "views": "4134",
+      "creation_info": "by Spavanko at Feb. 6, 2024, 7:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105569-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 24 discussion",
+      "author": "ele",
+      "replies": "22",
+      "views": "6803",
+      "creation_info": "by ele at April 8, 2023, 9:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105243-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 22 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "11",
+      "views": "5390",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 4:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109217-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 95 discussion",
+      "author": "devnv",
+      "replies": "7",
+      "views": "6003",
+      "creation_info": "by devnv at May 14, 2023, 10:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108863-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 93 discussion",
+      "author": "ParagSanyashiv",
+      "replies": "7",
+      "views": "4410",
+      "creation_info": "by ParagSanyashiv at May 10, 2023, 2:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106261-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 36 discussion",
+      "author": "ele",
+      "replies": "9",
+      "views": "5138",
+      "creation_info": "by ele at April 15, 2023, 4:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106199-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 35 discussion",
+      "author": "jqso234",
+      "replies": "12",
+      "views": "4646",
+      "creation_info": "by jqso234 at April 14, 2023, 8:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108354-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 68 discussion",
+      "author": "haazybanj",
+      "replies": "7",
+      "views": "4972",
+      "creation_info": "by haazybanj at May 3, 2023, 6:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109216-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 92 discussion",
+      "author": "devnv",
+      "replies": "11",
+      "views": "4976",
+      "creation_info": "by devnv at May 14, 2023, 10:28 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108586-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 80 discussion",
+      "author": "kassem77",
+      "replies": "20",
+      "views": "5928",
+      "creation_info": "by kassem77 at May 5, 2023, 10:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129829-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 160 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "11",
+      "views": "4625",
+      "creation_info": "by PrasannaBalaji at Dec. 30, 2023, 6:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129675-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 155 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "11",
+      "views": "3439",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 1:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105337-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 32 discussion",
+      "author": "Dimidrol",
+      "replies": "15",
+      "views": "5443",
+      "creation_info": "by Dimidrol at April 5, 2023, 10:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105490-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 3 discussion",
+      "author": "ele",
+      "replies": "21",
+      "views": "9229",
+      "creation_info": "by ele at April 7, 2023, 10:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151568-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 327 discussion",
+      "author": "uncledana",
+      "replies": "3",
+      "views": "2920",
+      "creation_info": "by uncledana at Nov. 19, 2024, 12:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151614-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 338 discussion",
+      "author": "uncledana",
+      "replies": "2",
+      "views": "2589",
+      "creation_info": "by uncledana at Nov. 19, 2024, 10:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129694-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 184 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "11",
+      "views": "3759",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 3:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/146254-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 278 discussion",
+      "author": "hzaki",
+      "replies": "8",
+      "views": "2919",
+      "creation_info": "by hzaki at Aug. 21, 2024, 3:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129727-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 167 discussion",
+      "author": "csG13",
+      "replies": "15",
+      "views": "5271",
+      "creation_info": "by csG13 at Dec. 29, 2023, 5:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108811-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 84 discussion",
+      "author": "ParagSanyashiv",
+      "replies": "7",
+      "views": "5024",
+      "creation_info": "by ParagSanyashiv at May 9, 2023, 3:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108587-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 86 discussion",
+      "author": "kassem77",
+      "replies": "21",
+      "views": "5281",
+      "creation_info": "by kassem77 at May 5, 2023, 10:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108355-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 71 discussion",
+      "author": "haazybanj",
+      "replies": "8",
+      "views": "4766",
+      "creation_info": "by haazybanj at May 3, 2023, 6:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105504-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 7 discussion",
+      "author": "ele",
+      "replies": "16",
+      "views": "8044",
+      "creation_info": "by ele at April 7, 2023, 2:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105520-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 17 discussion",
+      "author": "ele",
+      "replies": "11",
+      "views": "6932",
+      "creation_info": "by ele at April 7, 2023, 3:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143410-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 277 discussion",
+      "author": "xdkonorek2",
+      "replies": "14",
+      "views": "3911",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 12:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105242-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 20 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "56",
+      "views": "9897",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 4:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/137362-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 218 discussion",
+      "author": "ogerber",
+      "replies": "5",
+      "views": "3326",
+      "creation_info": "by ogerber at March 27, 2024, 6:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129687-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 178 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "4",
+      "views": "3291",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 2:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109224-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 103 discussion",
+      "author": "devnv",
+      "replies": "7",
+      "views": "4398",
+      "creation_info": "by devnv at May 14, 2023, 11:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106436-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 51 discussion",
+      "author": "alce2020",
+      "replies": "19",
+      "views": "6321",
+      "creation_info": "by alce2020 at April 16, 2023, 10:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/137341-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 222 discussion",
+      "author": "Seoyong",
+      "replies": "6",
+      "views": "3534",
+      "creation_info": "by Seoyong at March 27, 2024, 10:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133298-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 200 discussion",
+      "author": "Chelseajcole",
+      "replies": "8",
+      "views": "4238",
+      "creation_info": "by Chelseajcole at Feb. 7, 2024, 7:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129692-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 182 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "9",
+      "views": "3533",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 3:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129688-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 179 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "14",
+      "views": "3873",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 2:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129834-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 177 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "9",
+      "views": "4295",
+      "creation_info": "by PrasannaBalaji at Dec. 30, 2023, 6:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129732-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 170 discussion",
+      "author": "csG13",
+      "replies": "7",
+      "views": "4907",
+      "creation_info": "by csG13 at Dec. 29, 2023, 6:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129683-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 169 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "16",
+      "views": "4218",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 2:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129680-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 158 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "9",
+      "views": "3334",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 1:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129676-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 156 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "8",
+      "views": "3224",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 1:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129690-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 150 discussion",
+      "author": "csG13",
+      "replies": "4",
+      "views": "3692",
+      "creation_info": "by csG13 at Dec. 29, 2023, 2:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108801-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 111 discussion",
+      "author": "Jeanphi72",
+      "replies": "17",
+      "views": "5134",
+      "creation_info": "by Jeanphi72 at May 9, 2023, 12:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108802-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 109 discussion",
+      "author": "Jeanphi72",
+      "replies": "17",
+      "views": "4943",
+      "creation_info": "by Jeanphi72 at May 9, 2023, 12:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112699-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 134 discussion",
+      "author": "tartarus23",
+      "replies": "26",
+      "views": "5417",
+      "creation_info": "by tartarus23 at June 20, 2023, 8:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109365-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 124 discussion",
+      "author": "devnv",
+      "replies": "6",
+      "views": "4414",
+      "creation_info": "by devnv at May 16, 2023, 2:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109364-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 123 discussion",
+      "author": "devnv",
+      "replies": "8",
+      "views": "4469",
+      "creation_info": "by devnv at May 16, 2023, 2:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109533-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 114 discussion",
+      "author": "OrganizedChaos25",
+      "replies": "6",
+      "views": "4054",
+      "creation_info": "by OrganizedChaos25 at May 17, 2023, 2:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109225-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 105 discussion",
+      "author": "devnv",
+      "replies": "8",
+      "views": "5115",
+      "creation_info": "by devnv at May 14, 2023, 12:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129753-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 189 discussion",
+      "author": "csG13",
+      "replies": "6",
+      "views": "3861",
+      "creation_info": "by csG13 at Dec. 29, 2023, 9:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129700-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 187 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "7",
+      "views": "4238",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 3:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129706-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 159 discussion",
+      "author": "csG13",
+      "replies": "7",
+      "views": "4742",
+      "creation_info": "by csG13 at Dec. 29, 2023, 4:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/137364-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 220 discussion",
+      "author": "ogerber",
+      "replies": "15",
+      "views": "4197",
+      "creation_info": "by ogerber at March 27, 2024, 6:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129738-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 181 discussion",
+      "author": "csG13",
+      "replies": "11",
+      "views": "3802",
+      "creation_info": "by csG13 at Dec. 29, 2023, 7:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133301-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 203 discussion",
+      "author": "Chelseajcole",
+      "replies": "11",
+      "views": "4557",
+      "creation_info": "by Chelseajcole at Feb. 7, 2024, 7:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127270-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 140 discussion",
+      "author": "TheAWSRhino",
+      "replies": "8",
+      "views": "4555",
+      "creation_info": "by TheAWSRhino at Nov. 26, 2023, 7:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/126917-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 138 discussion",
+      "author": "vandergun",
+      "replies": "10",
+      "views": "4269",
+      "creation_info": "by vandergun at Nov. 22, 2023, 2:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109181-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 129 discussion",
+      "author": "2pk",
+      "replies": "19",
+      "views": "6320",
+      "creation_info": "by 2pk at May 13, 2023, 11:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109184-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 127 discussion",
+      "author": "2pk",
+      "replies": "8",
+      "views": "5880",
+      "creation_info": "by 2pk at May 14, 2023, 12:08 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106260-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 60 discussion",
+      "author": "alce2020",
+      "replies": "10",
+      "views": "4219",
+      "creation_info": "by alce2020 at April 15, 2023, 4:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/126988-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 142 discussion",
+      "author": "vandergun",
+      "replies": "8",
+      "views": "4420",
+      "creation_info": "by vandergun at Nov. 23, 2023, 9:27 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/146217-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 281 discussion",
+      "author": "hzaki",
+      "replies": "3",
+      "views": "2863",
+      "creation_info": "by hzaki at Aug. 21, 2024, 9:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129833-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 173 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "8",
+      "views": "4491",
+      "creation_info": "by PrasannaBalaji at Dec. 30, 2023, 6:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105438-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 38 discussion",
+      "author": "Dimidrol",
+      "replies": "24",
+      "views": "5083",
+      "creation_info": "by Dimidrol at April 6, 2023, 6:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105336-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 31 discussion",
+      "author": "Dimidrol",
+      "replies": "15",
+      "views": "5838",
+      "creation_info": "by Dimidrol at April 5, 2023, 10:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129708-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 161 discussion",
+      "author": "csG13",
+      "replies": "12",
+      "views": "4471",
+      "creation_info": "by csG13 at Dec. 29, 2023, 4:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106213-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 34 discussion",
+      "author": "alce2020",
+      "replies": "10",
+      "views": "5344",
+      "creation_info": "by alce2020 at April 14, 2023, 11:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108810-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 83 discussion",
+      "author": "ParagSanyashiv",
+      "replies": "15",
+      "views": "5298",
+      "creation_info": "by ParagSanyashiv at May 9, 2023, 3:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106267-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 52 discussion",
+      "author": "alce2020",
+      "replies": "7",
+      "views": "4171",
+      "creation_info": "by alce2020 at April 15, 2023, 5:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106310-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 41 discussion",
+      "author": "alce2020",
+      "replies": "9",
+      "views": "4792",
+      "creation_info": "by alce2020 at April 16, 2023, 4:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105572-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 27 discussion",
+      "author": "ele",
+      "replies": "10",
+      "views": "5880",
+      "creation_info": "by ele at April 8, 2023, 9:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/146391-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 279 discussion",
+      "author": "Kushab94",
+      "replies": "3",
+      "views": "2458",
+      "creation_info": "by Kushab94 at Aug. 24, 2024, 4:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143378-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 259 discussion",
+      "author": "xdkonorek2",
+      "replies": "6",
+      "views": "3498",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 8:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143359-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 240 discussion",
+      "author": "xdkonorek2",
+      "replies": "6",
+      "views": "3223",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 3:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143877-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 234 discussion",
+      "author": "trungtd",
+      "replies": "4",
+      "views": "3211",
+      "creation_info": "by trungtd at July 14, 2024, 12:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143368-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 232 discussion",
+      "author": "xdkonorek2",
+      "replies": "6",
+      "views": "1882",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 4:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/142994-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 231 discussion",
+      "author": "KaranNishad",
+      "replies": "5",
+      "views": "2029",
+      "creation_info": "by KaranNishad at June 27, 2024, 8:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/142992-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 227 discussion",
+      "author": "KaranNishad",
+      "replies": "5",
+      "views": "1885",
+      "creation_info": "by KaranNishad at June 27, 2024, 7:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129704-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 193 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "9",
+      "views": "4666",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 4:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105235-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 9 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "14",
+      "views": "7746",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 2:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105446-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 53 discussion",
+      "author": "Dimidrol",
+      "replies": "9",
+      "views": "7207",
+      "creation_info": "by Dimidrol at April 6, 2023, 8:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/126987-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 141 discussion",
+      "author": "vandergun",
+      "replies": "6",
+      "views": "4528",
+      "creation_info": "by vandergun at Nov. 23, 2023, 9:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129710-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 164 discussion",
+      "author": "csG13",
+      "replies": "8",
+      "views": "4126",
+      "creation_info": "by csG13 at Dec. 29, 2023, 4:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106198-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 33 discussion",
+      "author": "jqso234",
+      "replies": "9",
+      "views": "5787",
+      "creation_info": "by jqso234 at April 14, 2023, 8:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106215-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 39 discussion",
+      "author": "alce2020",
+      "replies": "31",
+      "views": "5894",
+      "creation_info": "by alce2020 at April 15, 2023, 12:13 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/137340-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 217 discussion",
+      "author": "Seoyong",
+      "replies": "6",
+      "views": "3519",
+      "creation_info": "by Seoyong at March 27, 2024, 9:38 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105239-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 18 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "18",
+      "views": "6196",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 4:09 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/137360-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 212 discussion",
+      "author": "ogerber",
+      "replies": "4",
+      "views": "3801",
+      "creation_info": "by ogerber at March 27, 2024, 5:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135848-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 211 discussion",
+      "author": "Seoyong",
+      "replies": "8",
+      "views": "4224",
+      "creation_info": "by Seoyong at March 13, 2024, 6:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129762-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 191 discussion",
+      "author": "csG13",
+      "replies": "11",
+      "views": "4121",
+      "creation_info": "by csG13 at Dec. 29, 2023, 10:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106442-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 62 discussion",
+      "author": "alce2020",
+      "replies": "7",
+      "views": "4636",
+      "creation_info": "by alce2020 at April 16, 2023, 11:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/126992-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 148 discussion",
+      "author": "vandergun",
+      "replies": "7",
+      "views": "4794",
+      "creation_info": "by vandergun at Nov. 23, 2023, 10:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/126990-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 144 discussion",
+      "author": "vandergun",
+      "replies": "5",
+      "views": "4589",
+      "creation_info": "by vandergun at Nov. 23, 2023, 9:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143414-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 273 discussion",
+      "author": "xdkonorek2",
+      "replies": "3",
+      "views": "3879",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 1:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105514-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 15 discussion",
+      "author": "ele",
+      "replies": "30",
+      "views": "6848",
+      "creation_info": "by ele at April 7, 2023, 3:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105236-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 11 discussion",
+      "author": "lqpO_Oqpl",
+      "replies": "20",
+      "views": "8246",
+      "creation_info": "by lqpO_Oqpl at April 5, 2023, 2:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112703-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 131 discussion",
+      "author": "tartarus23",
+      "replies": "5",
+      "views": "6538",
+      "creation_info": "by tartarus23 at June 20, 2023, 9:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109366-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 128 discussion",
+      "author": "devnv",
+      "replies": "5",
+      "views": "4849",
+      "creation_info": "by devnv at May 16, 2023, 3:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129696-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 185 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "12",
+      "views": "4387",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 3:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109194-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 119 discussion",
+      "author": "2pk",
+      "replies": "12",
+      "views": "4376",
+      "creation_info": "by 2pk at May 14, 2023, 2:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109226-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 106 discussion",
+      "author": "devnv",
+      "replies": "13",
+      "views": "4940",
+      "creation_info": "by devnv at May 14, 2023, 12:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133304-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 206 discussion",
+      "author": "Chelseajcole",
+      "replies": "14",
+      "views": "4206",
+      "creation_info": "by Chelseajcole at Feb. 7, 2024, 7:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105505-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 10 discussion",
+      "author": "ele",
+      "replies": "10",
+      "views": "5913",
+      "creation_info": "by ele at April 7, 2023, 2:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106258-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 63 discussion",
+      "author": "alce2020",
+      "replies": "9",
+      "views": "7468",
+      "creation_info": "by alce2020 at April 15, 2023, 4:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133303-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 205 discussion",
+      "author": "Chelseajcole",
+      "replies": "10",
+      "views": "4048",
+      "creation_info": "by Chelseajcole at Feb. 7, 2024, 7:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109220-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 98 discussion",
+      "author": "devnv",
+      "replies": "6",
+      "views": "4628",
+      "creation_info": "by devnv at May 14, 2023, 10:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109218-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 96 discussion",
+      "author": "devnv",
+      "replies": "6",
+      "views": "4985",
+      "creation_info": "by devnv at May 14, 2023, 10:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108864-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 94 discussion",
+      "author": "ParagSanyashiv",
+      "replies": "7",
+      "views": "5914",
+      "creation_info": "by ParagSanyashiv at May 10, 2023, 2:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109204-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 85 discussion",
+      "author": "devnv",
+      "replies": "4",
+      "views": "4775",
+      "creation_info": "by devnv at May 14, 2023, 7:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109261-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 82 discussion",
+      "author": "2pk",
+      "replies": "20",
+      "views": "6259",
+      "creation_info": "by 2pk at May 15, 2023, 9:27 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108679-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 79 discussion",
+      "author": "marcoforexam",
+      "replies": "4",
+      "views": "4631",
+      "creation_info": "by marcoforexam at May 7, 2023, 11:54 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108080-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 75 discussion",
+      "author": "haazybanj",
+      "replies": "7",
+      "views": "5286",
+      "creation_info": "by haazybanj at May 1, 2023, 7:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112702-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 132 discussion",
+      "author": "tartarus23",
+      "replies": "12",
+      "views": "6213",
+      "creation_info": "by tartarus23 at June 20, 2023, 9 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112704-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 130 discussion",
+      "author": "tartarus23",
+      "replies": "6",
+      "views": "5071",
+      "creation_info": "by tartarus23 at June 20, 2023, 9:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109182-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 125 discussion",
+      "author": "2pk",
+      "replies": "10",
+      "views": "7161",
+      "creation_info": "by 2pk at May 13, 2023, 11:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108077-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 64 discussion",
+      "author": "haazybanj",
+      "replies": "8",
+      "views": "4514",
+      "creation_info": "by haazybanj at May 1, 2023, 6:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143412-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 275 discussion",
+      "author": "xdkonorek2",
+      "replies": "5",
+      "views": "3558",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 1:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106266-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 55 discussion",
+      "author": "alce2020",
+      "replies": "10",
+      "views": "4925",
+      "creation_info": "by alce2020 at April 15, 2023, 5:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143401-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 269 discussion",
+      "author": "xdkonorek2",
+      "replies": "5",
+      "views": "2931",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 10:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143404-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 266 discussion",
+      "author": "xdkonorek2",
+      "replies": "4",
+      "views": "2925",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 11:06 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143912-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 265 discussion",
+      "author": "trungtd",
+      "replies": "5",
+      "views": "2515",
+      "creation_info": "by trungtd at July 15, 2024, 3:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143406-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 263 discussion",
+      "author": "xdkonorek2",
+      "replies": "3",
+      "views": "3259",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 11:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143389-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 258 discussion",
+      "author": "xdkonorek2",
+      "replies": "4",
+      "views": "2009",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 6:50 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143792-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 257 discussion",
+      "author": "TEC1",
+      "replies": "5",
+      "views": "2991",
+      "creation_info": "by TEC1 at July 12, 2024, 2:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143880-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 252 discussion",
+      "author": "trungtd",
+      "replies": "3",
+      "views": "1908",
+      "creation_info": "by trungtd at July 14, 2024, 10:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143518-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 248 discussion",
+      "author": "tgv",
+      "replies": "5",
+      "views": "2770",
+      "creation_info": "by tgv at July 7, 2024, 8:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143371-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 247 discussion",
+      "author": "xdkonorek2",
+      "replies": "4",
+      "views": "2099",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 6:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143068-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 244 discussion",
+      "author": "KaranNishad",
+      "replies": "5",
+      "views": "3068",
+      "creation_info": "by KaranNishad at June 29, 2024, 2:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143373-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 243 discussion",
+      "author": "xdkonorek2",
+      "replies": "5",
+      "views": "2175",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 6:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143375-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 241 discussion",
+      "author": "xdkonorek2",
+      "replies": "5",
+      "views": "3799",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 6:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/142991-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 226 discussion",
+      "author": "KaranNishad",
+      "replies": "4",
+      "views": "2727",
+      "creation_info": "by KaranNishad at June 27, 2024, 7:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/142973-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 223 discussion",
+      "author": "ihustle",
+      "replies": "6",
+      "views": "3111",
+      "creation_info": "by ihustle at June 27, 2024, 10:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106268-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 50 discussion",
+      "author": "alce2020",
+      "replies": "7",
+      "views": "4363",
+      "creation_info": "by alce2020 at April 15, 2023, 6:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129758-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 190 discussion",
+      "author": "csG13",
+      "replies": "23",
+      "views": "4414",
+      "creation_info": "by csG13 at Dec. 29, 2023, 10:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129699-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 186 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "12",
+      "views": "3903",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 3:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129686-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 176 discussion",
+      "author": "PrasannaBalaji",
+      "replies": "7",
+      "views": "3808",
+      "creation_info": "by PrasannaBalaji at Dec. 29, 2023, 2:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129720-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 166 discussion",
+      "author": "csG13",
+      "replies": "11",
+      "views": "3740",
+      "creation_info": "by csG13 at Dec. 29, 2023, 5:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129715-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 165 discussion",
+      "author": "csG13",
+      "replies": "11",
+      "views": "3783",
+      "creation_info": "by csG13 at Dec. 29, 2023, 5:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106307-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 37 discussion",
+      "author": "alce2020",
+      "replies": "16",
+      "views": "5231",
+      "creation_info": "by alce2020 at April 16, 2023, 3:54 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/119638-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 137 discussion",
+      "author": "traveller37",
+      "replies": "11",
+      "views": "5677",
+      "creation_info": "by traveller37 at Sept. 1, 2023, 11:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/119637-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 136 discussion",
+      "author": "traveller37",
+      "replies": "7",
+      "views": "5390",
+      "creation_info": "by traveller37 at Sept. 1, 2023, 11 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108790-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 122 discussion",
+      "author": "Jeanphi72",
+      "replies": "29",
+      "views": "5878",
+      "creation_info": "by Jeanphi72 at May 9, 2023, 9:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109195-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 120 discussion",
+      "author": "2pk",
+      "replies": "17",
+      "views": "6898",
+      "creation_info": "by 2pk at May 14, 2023, 2:40 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108792-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 118 discussion",
+      "author": "Jeanphi72",
+      "replies": "10",
+      "views": "6930",
+      "creation_info": "by Jeanphi72 at May 9, 2023, 10:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108798-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 116 discussion",
+      "author": "Jeanphi72",
+      "replies": "15",
+      "views": "5560",
+      "creation_info": "by Jeanphi72 at May 9, 2023, 11:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109228-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 108 discussion",
+      "author": "devnv",
+      "replies": "14",
+      "views": "4264",
+      "creation_info": "by devnv at May 14, 2023, 12:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/133291-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 195 discussion",
+      "author": "Chelseajcole",
+      "replies": "11",
+      "views": "3769",
+      "creation_info": "by Chelseajcole at Feb. 7, 2024, 4:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108079-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 74 discussion",
+      "author": "haazybanj",
+      "replies": "8",
+      "views": "4793",
+      "creation_info": "by haazybanj at May 1, 2023, 7:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105586-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 73 discussion",
+      "author": "Dimidrol",
+      "replies": "19",
+      "views": "7664",
+      "creation_info": "by Dimidrol at April 8, 2023, 2:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108414-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 70 discussion",
+      "author": "Jeanphi72",
+      "replies": "31",
+      "views": "6533",
+      "creation_info": "by Jeanphi72 at May 3, 2023, 4:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105450-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 67 discussion",
+      "author": "Dimidrol",
+      "replies": "12",
+      "views": "7923",
+      "creation_info": "by Dimidrol at April 6, 2023, 8:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106270-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 48 discussion",
+      "author": "alce2020",
+      "replies": "11",
+      "views": "7678",
+      "creation_info": "by alce2020 at April 15, 2023, 6:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105584-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 45 discussion",
+      "author": "Dimidrol",
+      "replies": "18",
+      "views": "6149",
+      "creation_info": "by Dimidrol at April 8, 2023, 1:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106312-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 43 discussion",
+      "author": "alce2020",
+      "replies": "12",
+      "views": "5302",
+      "creation_info": "by alce2020 at April 16, 2023, 4:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105570-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 25 discussion",
+      "author": "ele",
+      "replies": "5",
+      "views": "7167",
+      "creation_info": "by ele at April 8, 2023, 9:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105513-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 14 discussion",
+      "author": "ele",
+      "replies": "19",
+      "views": "6500",
+      "creation_info": "by ele at April 7, 2023, 3:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143394-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 253 discussion",
+      "author": "xdkonorek2",
+      "replies": "2",
+      "views": "2700",
+      "creation_info": "by xdkonorek2 at July 6, 2024, 7:19 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143070-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 245 discussion",
+      "author": "KaranNishad",
+      "replies": "4",
+      "views": "2085",
+      "creation_info": "by KaranNishad at June 29, 2024, 2:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143876-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 229 discussion",
+      "author": "trungtd",
+      "replies": "3",
+      "views": "3054",
+      "creation_info": "by trungtd at July 13, 2024, 11:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143725-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 225 discussion",
+      "author": "trungtd",
+      "replies": "2",
+      "views": "3169",
+      "creation_info": "by trungtd at July 11, 2024, 4:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/143372-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 246 discussion",
+      "author": "xdkonorek2",
+      "replies": "2",
+      "views": "2727",
+      "creation_info": "by xdkonorek2 at July 5, 2024, 6:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/135847-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 210 discussion",
+      "author": "Seoyong",
+      "replies": "5",
+      "views": "4548",
+      "creation_info": "by Seoyong at March 13, 2024, 6:21 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109183-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 126 discussion",
+      "author": "2pk",
+      "replies": "11",
+      "views": "4483",
+      "creation_info": "by 2pk at May 13, 2023, 11:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106259-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 61 discussion",
+      "author": "alce2020",
+      "replies": "22",
+      "views": "5492",
+      "creation_info": "by alce2020 at April 15, 2023, 4:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/127130-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 145 discussion",
+      "author": "tom_cat",
+      "replies": "7",
+      "views": "5594",
+      "creation_info": "by tom_cat at Nov. 24, 2023, 8 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109215-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 91 discussion",
+      "author": "devnv",
+      "replies": "9",
+      "views": "4459",
+      "creation_info": "by devnv at May 14, 2023, 10:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/105508-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 12 discussion",
+      "author": "ele",
+      "replies": "10",
+      "views": "7192",
+      "creation_info": "by ele at April 7, 2023, 2:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108608-exam-aws-certified-devops-engineer-professional-dop-c02/",
+      "title": "Exam AWS Certified DevOps Engineer - Professional DOP-C02 topic 1 question 76 discussion",
+      "author": "Zoe_zoe",
+      "replies": "14",
+      "views": "5410",
+      "creation_info": "by Zoe_zoe at May 6, 2023, 7 a.m."
+    }
+  ]
+}

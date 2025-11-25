@@ -1,0 +1,3822 @@
+{
+  "exam_name": "AWS Certified SysOps Administrator - Associate",
+  "total_questions": 477,
+  "questions": [
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138803-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 437 discussion",
+      "author": "tgv",
+      "replies": "7",
+      "views": "2133",
+      "creation_info": "by tgv at April 16, 2024, 8:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93718-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 220 discussion",
+      "author": "zolthar_z",
+      "replies": "11",
+      "views": "3899",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 3:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91663-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 201 discussion",
+      "author": "vijaya",
+      "replies": "18",
+      "views": "5092",
+      "creation_info": "by vijaya at Dec. 15, 2022, 11:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147126-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 456 discussion",
+      "author": "Toni2936",
+      "replies": "5",
+      "views": "1764",
+      "creation_info": "by Toni2936 at Sept. 7, 2024, 1:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136785-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 433 discussion",
+      "author": "mpl203",
+      "replies": "15",
+      "views": "2485",
+      "creation_info": "by mpl203 at March 21, 2024, 2:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78676-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 16 discussion",
+      "author": "moonwalkeryj",
+      "replies": "8",
+      "views": "5820",
+      "creation_info": "by moonwalkeryj at Aug. 31, 2022, 12:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/50855-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 8 discussion",
+      "author": "Azaad78",
+      "replies": "19",
+      "views": "10228",
+      "creation_info": "by Azaad78 at April 23, 2021, 9:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/57549-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 7 discussion",
+      "author": "USR",
+      "replies": "27",
+      "views": "13378",
+      "creation_info": "by USR at July 10, 2021, 1:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74323-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 6 discussion",
+      "author": "Mecdrox",
+      "replies": "19",
+      "views": "6849",
+      "creation_info": "by Mecdrox at April 24, 2022, 3:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74114-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 3 discussion",
+      "author": "dontcomplain",
+      "replies": "57",
+      "views": "16349",
+      "creation_info": "by dontcomplain at April 22, 2022, 12:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/50717-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 2 discussion",
+      "author": "Azaad78",
+      "replies": "23",
+      "views": "12155",
+      "creation_info": "by Azaad78 at April 21, 2021, 9:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/50715-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 1 discussion",
+      "author": "Azaad78",
+      "replies": "35",
+      "views": "17672",
+      "creation_info": "by Azaad78 at April 21, 2021, 9:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150375-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 465 discussion",
+      "author": "Aamee",
+      "replies": "8",
+      "views": "1749",
+      "creation_info": "by Aamee at Oct. 27, 2024, 8:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80106-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 114 discussion",
+      "author": "princajen",
+      "replies": "31",
+      "views": "5396",
+      "creation_info": "by princajen at Sept. 4, 2022, 6:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79502-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 75 discussion",
+      "author": "kati2k22cz",
+      "replies": "65",
+      "views": "7152",
+      "creation_info": "by kati2k22cz at Sept. 2, 2022, 7:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79164-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 43 discussion",
+      "author": "princajen",
+      "replies": "12",
+      "views": "5314",
+      "creation_info": "by princajen at Sept. 1, 2022, 9:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145599-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 457 discussion",
+      "author": "AMEJack",
+      "replies": "6",
+      "views": "1677",
+      "creation_info": "by AMEJack at Aug. 12, 2024, 7:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145597-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 454 discussion",
+      "author": "AMEJack",
+      "replies": "11",
+      "views": "2161",
+      "creation_info": "by AMEJack at Aug. 12, 2024, 7:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138802-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 436 discussion",
+      "author": "tgv",
+      "replies": "8",
+      "views": "2063",
+      "creation_info": "by tgv at April 16, 2024, 8:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/110756-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 318 discussion",
+      "author": "Shoppe",
+      "replies": "30",
+      "views": "4076",
+      "creation_info": "by Shoppe at June 1, 2023, 10:03 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91997-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 196 discussion",
+      "author": "beznika",
+      "replies": "8",
+      "views": "3852",
+      "creation_info": "by beznika at Dec. 18, 2022, 2:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87694-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 176 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "2714",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79126-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 38 discussion",
+      "author": "princajen",
+      "replies": "42",
+      "views": "7473",
+      "creation_info": "by princajen at Sept. 1, 2022, 8:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145603-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 461 discussion",
+      "author": "AMEJack",
+      "replies": "13",
+      "views": "2000",
+      "creation_info": "by AMEJack at Aug. 12, 2024, 9:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151634-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 471 discussion",
+      "author": "numark",
+      "replies": "3",
+      "views": "1545",
+      "creation_info": "by numark at Nov. 19, 2024, 1:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101527-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 253 discussion",
+      "author": "braveheart22",
+      "replies": "20",
+      "views": "4529",
+      "creation_info": "by braveheart22 at March 4, 2023, 7:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130066-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 398 discussion",
+      "author": "WinAndWin",
+      "replies": "4",
+      "views": "2400",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 2:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108447-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 295 discussion",
+      "author": "Gomer",
+      "replies": "34",
+      "views": "4774",
+      "creation_info": "by Gomer at May 3, 2023, 10:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108158-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 271 discussion",
+      "author": "Gomer",
+      "replies": "14",
+      "views": "4800",
+      "creation_info": "by Gomer at May 2, 2023, 1:54 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/94671-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 211 discussion",
+      "author": "zolthar_z",
+      "replies": "20",
+      "views": "4901",
+      "creation_info": "by zolthar_z at Jan. 10, 2023, 12:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/92382-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 207 discussion",
+      "author": "zolthar_z",
+      "replies": "24",
+      "views": "4958",
+      "creation_info": "by zolthar_z at Dec. 21, 2022, 6:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91933-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 191 discussion",
+      "author": "beznika",
+      "replies": "41",
+      "views": "5387",
+      "creation_info": "by beznika at Dec. 17, 2022, 9:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78903-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 23 discussion",
+      "author": "hiishii",
+      "replies": "16",
+      "views": "4715",
+      "creation_info": "by hiishii at Sept. 1, 2022, 6:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79112-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 22 discussion",
+      "author": "princajen",
+      "replies": "8",
+      "views": "7768",
+      "creation_info": "by princajen at Sept. 1, 2022, 7:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130104-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 394 discussion",
+      "author": "nharaz",
+      "replies": "21",
+      "views": "2851",
+      "creation_info": "by nharaz at Jan. 1, 2024, 7:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130079-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 388 discussion",
+      "author": "nharaz",
+      "replies": "15",
+      "views": "3086",
+      "creation_info": "by nharaz at Jan. 1, 2024, 3:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74379-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 11 discussion",
+      "author": "Mecdrox",
+      "replies": "14",
+      "views": "7846",
+      "creation_info": "by Mecdrox at April 25, 2022, 12:30 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51078-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 5 discussion",
+      "author": "binhdt2611",
+      "replies": "23",
+      "views": "9962",
+      "creation_info": "by binhdt2611 at April 27, 2021, 11:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93711-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 215 discussion",
+      "author": "ashu27",
+      "replies": "9",
+      "views": "4249",
+      "creation_info": "by ashu27 at Jan. 3, 2023, 2:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/97580-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 210 discussion",
+      "author": "joanneli77",
+      "replies": "8",
+      "views": "4380",
+      "creation_info": "by joanneli77 at Feb. 1, 2023, 8:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91400-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 209 discussion",
+      "author": "michaldavid",
+      "replies": "8",
+      "views": "3847",
+      "creation_info": "by michaldavid at Dec. 13, 2022, 12:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91037-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 206 discussion",
+      "author": "beznika",
+      "replies": "10",
+      "views": "3903",
+      "creation_info": "by beznika at Dec. 11, 2022, 5:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91935-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 197 discussion",
+      "author": "beznika",
+      "replies": "7",
+      "views": "3610",
+      "creation_info": "by beznika at Dec. 17, 2022, 9:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90999-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 189 discussion",
+      "author": "marcelodba",
+      "replies": "22",
+      "views": "4600",
+      "creation_info": "by marcelodba at Dec. 11, 2022, 11:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87957-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 188 discussion",
+      "author": "Raynor",
+      "replies": "7",
+      "views": "4000",
+      "creation_info": "by Raynor at Nov. 19, 2022, 10:03 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87673-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 157 discussion",
+      "author": "Liongeek",
+      "replies": "13",
+      "views": "3586",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90983-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 121 discussion",
+      "author": "michaldavid",
+      "replies": "8",
+      "views": "3302",
+      "creation_info": "by michaldavid at Dec. 11, 2022, 7:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79251-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 96 discussion",
+      "author": "princajen",
+      "replies": "13",
+      "views": "6233",
+      "creation_info": "by princajen at Sept. 2, 2022, 4:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150456-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 473 discussion",
+      "author": "Aamee",
+      "replies": "7",
+      "views": "1543",
+      "creation_info": "by Aamee at Oct. 29, 2024, 4:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149544-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 472 discussion",
+      "author": "kutesa1407",
+      "replies": "12",
+      "views": "1688",
+      "creation_info": "by kutesa1407 at Oct. 15, 2024, 1:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129818-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 406 discussion",
+      "author": "LemonGremlin",
+      "replies": "12",
+      "views": "3140",
+      "creation_info": "by LemonGremlin at Dec. 30, 2023, 1:40 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136782-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 429 discussion",
+      "author": "mpl203",
+      "replies": "5",
+      "views": "2636",
+      "creation_info": "by mpl203 at March 21, 2024, 1:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113370-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 359 discussion",
+      "author": "Warza",
+      "replies": "21",
+      "views": "3886",
+      "creation_info": "by Warza at June 27, 2023, 3:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113768-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 335 discussion",
+      "author": "Pete987",
+      "replies": "12",
+      "views": "3339",
+      "creation_info": "by Pete987 at June 30, 2023, 5:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113767-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 334 discussion",
+      "author": "Pete987",
+      "replies": "4",
+      "views": "2388",
+      "creation_info": "by Pete987 at June 30, 2023, 5:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111980-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 325 discussion",
+      "author": "mracni",
+      "replies": "12",
+      "views": "3408",
+      "creation_info": "by mracni at June 12, 2023, 2:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78477-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 18 discussion",
+      "author": "haxaffee",
+      "replies": "13",
+      "views": "8511",
+      "creation_info": "by haxaffee at Aug. 30, 2022, 8:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87684-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 164 discussion",
+      "author": "Liongeek",
+      "replies": "29",
+      "views": "5897",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79635-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 46 discussion",
+      "author": "kati2k22cz",
+      "replies": "26",
+      "views": "7565",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 2:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78471-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 14 discussion",
+      "author": "haxaffee",
+      "replies": "11",
+      "views": "7025",
+      "creation_info": "by haxaffee at Aug. 30, 2022, 7:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74377-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 4 discussion",
+      "author": "Mecdrox",
+      "replies": "26",
+      "views": "11357",
+      "creation_info": "by Mecdrox at April 25, 2022, 12:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87788-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 117 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "3580",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 4:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78749-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 34 discussion",
+      "author": "haxaffee",
+      "replies": "8",
+      "views": "4660",
+      "creation_info": "by haxaffee at Aug. 31, 2022, 7:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79631-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 33 discussion",
+      "author": "kati2k22cz",
+      "replies": "19",
+      "views": "5958",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 1:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/119001-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 376 discussion",
+      "author": "Tapkar",
+      "replies": "6",
+      "views": "3091",
+      "creation_info": "by Tapkar at Aug. 25, 2023, 8:21 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150477-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 478 discussion",
+      "author": "Aamee",
+      "replies": "5",
+      "views": "1937",
+      "creation_info": "by Aamee at Oct. 29, 2024, 8:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113684-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 323 discussion",
+      "author": "koltysh",
+      "replies": "12",
+      "views": "3398",
+      "creation_info": "by koltysh at June 29, 2023, 7:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99321-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 239 discussion",
+      "author": "anderri",
+      "replies": "30",
+      "views": "4793",
+      "creation_info": "by anderri at Feb. 15, 2023, 10:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/53904-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 20 discussion",
+      "author": "RicardoD",
+      "replies": "13",
+      "views": "7847",
+      "creation_info": "by RicardoD at May 31, 2021, 11:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78474-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 15 discussion",
+      "author": "haxaffee",
+      "replies": "7",
+      "views": "6334",
+      "creation_info": "by haxaffee at Aug. 30, 2022, 7:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78470-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 13 discussion",
+      "author": "haxaffee",
+      "replies": "37",
+      "views": "8384",
+      "creation_info": "by haxaffee at Aug. 30, 2022, 7:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79380-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 12 discussion",
+      "author": "Hello23",
+      "replies": "12",
+      "views": "5964",
+      "creation_info": "by Hello23 at Sept. 2, 2022, 1:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101894-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 244 discussion",
+      "author": "csG13",
+      "replies": "24",
+      "views": "4498",
+      "creation_info": "by csG13 at March 8, 2023, 3:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130031-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 389 discussion",
+      "author": "LemonGremlin",
+      "replies": "15",
+      "views": "2550",
+      "creation_info": "by LemonGremlin at Dec. 31, 2023, 11:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130030-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 384 discussion",
+      "author": "LemonGremlin",
+      "replies": "5",
+      "views": "2786",
+      "creation_info": "by LemonGremlin at Dec. 31, 2023, 11:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91071-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 183 discussion",
+      "author": "tyfta6",
+      "replies": "9",
+      "views": "3804",
+      "creation_info": "by tyfta6 at Dec. 11, 2022, 8:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87676-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 160 discussion",
+      "author": "Liongeek",
+      "replies": "6",
+      "views": "3215",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91073-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 195 discussion",
+      "author": "Fatoch",
+      "replies": "12",
+      "views": "4917",
+      "creation_info": "by Fatoch at Dec. 11, 2022, 8:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80088-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 88 discussion",
+      "author": "kati2k22cz",
+      "replies": "16",
+      "views": "5745",
+      "creation_info": "by kati2k22cz at Sept. 4, 2022, 3:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80041-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 83 discussion",
+      "author": "kati2k22cz",
+      "replies": "24",
+      "views": "5860",
+      "creation_info": "by kati2k22cz at Sept. 4, 2022, 12:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78525-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 77 discussion",
+      "author": "Rick365",
+      "replies": "42",
+      "views": "6027",
+      "creation_info": "by Rick365 at Aug. 31, 2022, 12:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80412-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 109 discussion",
+      "author": "kati2k22cz",
+      "replies": "6",
+      "views": "4678",
+      "creation_info": "by kati2k22cz at Sept. 5, 2022, 8:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79875-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 51 discussion",
+      "author": "haxaffee",
+      "replies": "4",
+      "views": "5635",
+      "creation_info": "by haxaffee at Sept. 3, 2022, 7:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88953-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 134 discussion",
+      "author": "marcelodba",
+      "replies": "6",
+      "views": "3565",
+      "creation_info": "by marcelodba at Nov. 27, 2022, 4:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150469-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 474 discussion",
+      "author": "Aamee",
+      "replies": "5",
+      "views": "1734",
+      "creation_info": "by Aamee at Oct. 29, 2024, 6:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79245-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 85 discussion",
+      "author": "princajen",
+      "replies": "7",
+      "views": "4404",
+      "creation_info": "by princajen at Sept. 2, 2022, 4:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99054-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 231 discussion",
+      "author": "Gil80",
+      "replies": "14",
+      "views": "4713",
+      "creation_info": "by Gil80 at Feb. 13, 2023, 12:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78746-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 27 discussion",
+      "author": "haxaffee",
+      "replies": "10",
+      "views": "7842",
+      "creation_info": "by haxaffee at Aug. 31, 2022, 7:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74305-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 26 discussion",
+      "author": "lotfi50",
+      "replies": "27",
+      "views": "8362",
+      "creation_info": "by lotfi50 at April 24, 2022, 12:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/51032-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 62 discussion",
+      "author": "PatNathan",
+      "replies": "23",
+      "views": "8658",
+      "creation_info": "by PatNathan at April 27, 2021, 1:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87698-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 185 discussion",
+      "author": "Liongeek",
+      "replies": "9",
+      "views": "3986",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79638-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 113 discussion",
+      "author": "Rick365",
+      "replies": "22",
+      "views": "6616",
+      "creation_info": "by Rick365 at Sept. 3, 2022, 2:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130037-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 407 discussion",
+      "author": "LemonGremlin",
+      "replies": "14",
+      "views": "2437",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87690-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 172 discussion",
+      "author": "Liongeek",
+      "replies": "9",
+      "views": "3990",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80057-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 87 discussion",
+      "author": "kati2k22cz",
+      "replies": "8",
+      "views": "4824",
+      "creation_info": "by kati2k22cz at Sept. 4, 2022, 1:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80042-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 89 discussion",
+      "author": "haxaffee",
+      "replies": "12",
+      "views": "5862",
+      "creation_info": "by haxaffee at Sept. 4, 2022, 1:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79161-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 41 discussion",
+      "author": "princajen",
+      "replies": "6",
+      "views": "4740",
+      "creation_info": "by princajen at Sept. 1, 2022, 9:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80105-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 108 discussion",
+      "author": "haxaffee",
+      "replies": "13",
+      "views": "4807",
+      "creation_info": "by haxaffee at Sept. 4, 2022, 6:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90461-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 120 discussion",
+      "author": "tts1234",
+      "replies": "17",
+      "views": "4391",
+      "creation_info": "by tts1234 at Dec. 7, 2022, 7:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80377-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 104 discussion",
+      "author": "kati2k22cz",
+      "replies": "5",
+      "views": "4266",
+      "creation_info": "by kati2k22cz at Sept. 5, 2022, 5:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80374-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 103 discussion",
+      "author": "kati2k22cz",
+      "replies": "40",
+      "views": "6585",
+      "creation_info": "by kati2k22cz at Sept. 5, 2022, 5:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130040-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 413 discussion",
+      "author": "LemonGremlin",
+      "replies": "6",
+      "views": "3303",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:19 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111473-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 297 discussion",
+      "author": "Nrn143",
+      "replies": "13",
+      "views": "3964",
+      "creation_info": "by Nrn143 at June 8, 2023, 4:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108306-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 280 discussion",
+      "author": "Gomer",
+      "replies": "12",
+      "views": "4006",
+      "creation_info": "by Gomer at May 2, 2023, 7:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87671-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 118 discussion",
+      "author": "Xelnak",
+      "replies": "3",
+      "views": "3382",
+      "creation_info": "by Xelnak at Nov. 16, 2022, 8:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80099-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 91 discussion",
+      "author": "princajen",
+      "replies": "4",
+      "views": "4614",
+      "creation_info": "by princajen at Sept. 4, 2022, 5:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79240-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 81 discussion",
+      "author": "princajen",
+      "replies": "4",
+      "views": "3773",
+      "creation_info": "by princajen at Sept. 2, 2022, 4:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79236-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 78 discussion",
+      "author": "princajen",
+      "replies": "3",
+      "views": "3988",
+      "creation_info": "by princajen at Sept. 2, 2022, 4:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87668-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 115 discussion",
+      "author": "Xelnak",
+      "replies": "9",
+      "views": "4527",
+      "creation_info": "by Xelnak at Nov. 16, 2022, 8:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79230-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 71 discussion",
+      "author": "princajen",
+      "replies": "3",
+      "views": "4937",
+      "creation_info": "by princajen at Sept. 2, 2022, 3:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87687-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 167 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "4859",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150474-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 477 discussion",
+      "author": "Aamee",
+      "replies": "4",
+      "views": "1666",
+      "creation_info": "by Aamee at Oct. 29, 2024, 8:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/151636-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 476 discussion",
+      "author": "numark",
+      "replies": "3",
+      "views": "1291",
+      "creation_info": "by numark at Nov. 19, 2024, 1:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150470-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 475 discussion",
+      "author": "Aamee",
+      "replies": "3",
+      "views": "1741",
+      "creation_info": "by Aamee at Oct. 29, 2024, 6:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150381-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 470 discussion",
+      "author": "Aamee",
+      "replies": "5",
+      "views": "1826",
+      "creation_info": "by Aamee at Oct. 27, 2024, 9:23 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/149841-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 469 discussion",
+      "author": "Slays",
+      "replies": "5",
+      "views": "1687",
+      "creation_info": "by Slays at Oct. 20, 2024, 1:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150380-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 468 discussion",
+      "author": "Aamee",
+      "replies": "2",
+      "views": "1622",
+      "creation_info": "by Aamee at Oct. 27, 2024, 9:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150379-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 467 discussion",
+      "author": "Aamee",
+      "replies": "3",
+      "views": "1301",
+      "creation_info": "by Aamee at Oct. 27, 2024, 9 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/150378-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 466 discussion",
+      "author": "Aamee",
+      "replies": "3",
+      "views": "1459",
+      "creation_info": "by Aamee at Oct. 27, 2024, 8:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112207-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 332 discussion",
+      "author": "Gomer",
+      "replies": "17",
+      "views": "4074",
+      "creation_info": "by Gomer at June 15, 2023, 1:29 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/116075-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 372 discussion",
+      "author": "trvtrinh",
+      "replies": "13",
+      "views": "3547",
+      "creation_info": "by trvtrinh at July 22, 2023, 2:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130111-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 418 discussion",
+      "author": "Kipalom",
+      "replies": "6",
+      "views": "2582",
+      "creation_info": "by Kipalom at Jan. 1, 2024, 11:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130039-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 411 discussion",
+      "author": "LemonGremlin",
+      "replies": "3",
+      "views": "2618",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:18 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87722-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 131 discussion",
+      "author": "Liongeek",
+      "replies": "27",
+      "views": "4980",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 3:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91499-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 122 discussion",
+      "author": "Jamshif01",
+      "replies": "22",
+      "views": "5393",
+      "creation_info": "by Jamshif01 at Dec. 13, 2022, 11:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112630-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 333 discussion",
+      "author": "Gomer",
+      "replies": "7",
+      "views": "4465",
+      "creation_info": "by Gomer at June 20, 2023, 12:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112193-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 330 discussion",
+      "author": "Gomer",
+      "replies": "20",
+      "views": "3992",
+      "creation_info": "by Gomer at June 14, 2023, 9:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78523-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 73 discussion",
+      "author": "Rick365",
+      "replies": "8",
+      "views": "4869",
+      "creation_info": "by Rick365 at Aug. 31, 2022, 12:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79232-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 72 discussion",
+      "author": "princajen",
+      "replies": "14",
+      "views": "5066",
+      "creation_info": "by princajen at Sept. 2, 2022, 4:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112091-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 317 discussion",
+      "author": "Gomer",
+      "replies": "6",
+      "views": "3606",
+      "creation_info": "by Gomer at June 13, 2023, 11:24 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130047-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 381 discussion",
+      "author": "WinAndWin",
+      "replies": "12",
+      "views": "2355",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 10:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98496-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 238 discussion",
+      "author": "Deeezz",
+      "replies": "15",
+      "views": "4371",
+      "creation_info": "by Deeezz at Feb. 8, 2023, 11:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136665-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 422 discussion",
+      "author": "nightmerv",
+      "replies": "13",
+      "views": "1999",
+      "creation_info": "by nightmerv at March 19, 2024, 7:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80415-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 110 discussion",
+      "author": "kati2k22cz",
+      "replies": "9",
+      "views": "5683",
+      "creation_info": "by kati2k22cz at Sept. 5, 2022, 9:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79165-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 44 discussion",
+      "author": "princajen",
+      "replies": "7",
+      "views": "4131",
+      "creation_info": "by princajen at Sept. 1, 2022, 9:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80045-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 90 discussion",
+      "author": "haxaffee",
+      "replies": "14",
+      "views": "7143",
+      "creation_info": "by haxaffee at Sept. 4, 2022, 1:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79237-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 79 discussion",
+      "author": "princajen",
+      "replies": "7",
+      "views": "3796",
+      "creation_info": "by princajen at Sept. 2, 2022, 4:18 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87721-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 130 discussion",
+      "author": "Liongeek",
+      "replies": "10",
+      "views": "3787",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 3:50 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138804-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 438 discussion",
+      "author": "tgv",
+      "replies": "3",
+      "views": "1614",
+      "creation_info": "by tgv at April 16, 2024, 8:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136776-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 425 discussion",
+      "author": "mpl203",
+      "replies": "4",
+      "views": "1874",
+      "creation_info": "by mpl203 at March 21, 2024, 1:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129820-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 395 discussion",
+      "author": "WinAndWin",
+      "replies": "7",
+      "views": "2672",
+      "creation_info": "by WinAndWin at Dec. 30, 2023, 1:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/116002-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 345 discussion",
+      "author": "trvtrinh",
+      "replies": "4",
+      "views": "2870",
+      "creation_info": "by trvtrinh at July 21, 2023, 4:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136777-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 426 discussion",
+      "author": "mpl203",
+      "replies": "4",
+      "views": "1969",
+      "creation_info": "by mpl203 at March 21, 2024, 1:21 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136550-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 421 discussion",
+      "author": "Nigma",
+      "replies": "4",
+      "views": "2443",
+      "creation_info": "by Nigma at March 19, 2024, 5:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108180-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 278 discussion",
+      "author": "Gomer",
+      "replies": "4",
+      "views": "3796",
+      "creation_info": "by Gomer at May 2, 2023, 7:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78745-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 24 discussion",
+      "author": "haxaffee",
+      "replies": "6",
+      "views": "6458",
+      "creation_info": "by haxaffee at Aug. 31, 2022, 6:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78478-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 21 discussion",
+      "author": "haxaffee",
+      "replies": "11",
+      "views": "6054",
+      "creation_info": "by haxaffee at Aug. 30, 2022, 8:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/97947-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 228 discussion",
+      "author": "dangji",
+      "replies": "9",
+      "views": "3488",
+      "creation_info": "by dangji at Feb. 4, 2023, 12:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79873-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 50 discussion",
+      "author": "haxaffee",
+      "replies": "14",
+      "views": "4902",
+      "creation_info": "by haxaffee at Sept. 3, 2022, 7:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111420-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 308 discussion",
+      "author": "tts1234",
+      "replies": "9",
+      "views": "3429",
+      "creation_info": "by tts1234 at June 7, 2023, 6:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111792-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 303 discussion",
+      "author": "Gomer",
+      "replies": "4",
+      "views": "3294",
+      "creation_info": "by Gomer at June 10, 2023, 3:29 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90524-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 202 discussion",
+      "author": "goatbernard",
+      "replies": "7",
+      "views": "4096",
+      "creation_info": "by goatbernard at Dec. 8, 2022, 3:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112491-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 326 discussion",
+      "author": "vcloudpmp",
+      "replies": "6",
+      "views": "3972",
+      "creation_info": "by vcloudpmp at June 17, 2023, 10:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88962-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 148 discussion",
+      "author": "marcelodba",
+      "replies": "4",
+      "views": "3096",
+      "creation_info": "by marcelodba at Nov. 27, 2022, 5:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80298-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 98 discussion",
+      "author": "kati2k22cz",
+      "replies": "7",
+      "views": "4360",
+      "creation_info": "by kati2k22cz at Sept. 5, 2022, 12:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/53901-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 56 discussion",
+      "author": "RicardoD",
+      "replies": "19",
+      "views": "5505",
+      "creation_info": "by RicardoD at May 31, 2021, 10:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108584-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 292 discussion",
+      "author": "hexie",
+      "replies": "5",
+      "views": "3327",
+      "creation_info": "by hexie at May 5, 2023, 9:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/115980-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 370 discussion",
+      "author": "jas26says",
+      "replies": "6",
+      "views": "3415",
+      "creation_info": "by jas26says at July 21, 2023, 3:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111768-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 299 discussion",
+      "author": "Gomer",
+      "replies": "7",
+      "views": "3901",
+      "creation_info": "by Gomer at June 9, 2023, 10:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87689-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 170 discussion",
+      "author": "Liongeek",
+      "replies": "9",
+      "views": "4756",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111417-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 307 discussion",
+      "author": "tts1234",
+      "replies": "9",
+      "views": "3669",
+      "creation_info": "by tts1234 at June 7, 2023, 5:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130041-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 414 discussion",
+      "author": "LemonGremlin",
+      "replies": "3",
+      "views": "1905",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/115989-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 373 discussion",
+      "author": "jas26says",
+      "replies": "6",
+      "views": "3449",
+      "creation_info": "by jas26says at July 21, 2023, 3:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113683-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 322 discussion",
+      "author": "koltysh",
+      "replies": "5",
+      "views": "2721",
+      "creation_info": "by koltysh at June 29, 2023, 7:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78878-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 74 discussion",
+      "author": "Flosuccess",
+      "replies": "17",
+      "views": "7169",
+      "creation_info": "by Flosuccess at Sept. 1, 2022, 4:50 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130035-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 403 discussion",
+      "author": "LemonGremlin",
+      "replies": "8",
+      "views": "2947",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112025-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 313 discussion",
+      "author": "Gomer",
+      "replies": "5",
+      "views": "2842",
+      "creation_info": "by Gomer at June 13, 2023, 5:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87683-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 163 discussion",
+      "author": "Liongeek",
+      "replies": "4",
+      "views": "3576",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 9:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101910-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 255 discussion",
+      "author": "csG13",
+      "replies": "4",
+      "views": "3552",
+      "creation_info": "by csG13 at March 8, 2023, 6:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/97945-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 225 discussion",
+      "author": "dangji",
+      "replies": "3",
+      "views": "3186",
+      "creation_info": "by dangji at Feb. 4, 2023, 12:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93725-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 224 discussion",
+      "author": "zolthar_z",
+      "replies": "15",
+      "views": "3535",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 3:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87686-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 166 discussion",
+      "author": "Liongeek",
+      "replies": "11",
+      "views": "3504",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87815-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 127 discussion",
+      "author": "Liongeek",
+      "replies": "4",
+      "views": "4242",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 7:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74132-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 37 discussion",
+      "author": "ovilla",
+      "replies": "11",
+      "views": "6022",
+      "creation_info": "by ovilla at April 22, 2022, 2:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87725-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 137 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "2954",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 4:11 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87723-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 136 discussion",
+      "author": "Liongeek",
+      "replies": "9",
+      "views": "5661",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 4:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79884-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 53 discussion",
+      "author": "kati2k22cz",
+      "replies": "9",
+      "views": "3772",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 8:14 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79172-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 52 discussion",
+      "author": "princajen",
+      "replies": "29",
+      "views": "5950",
+      "creation_info": "by princajen at Sept. 1, 2022, 10:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79723-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 36 discussion",
+      "author": "CiCa560",
+      "replies": "10",
+      "views": "4053",
+      "creation_info": "by CiCa560 at Sept. 3, 2022, 10:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79632-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 35 discussion",
+      "author": "kati2k22cz",
+      "replies": "16",
+      "views": "7209",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 1:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111780-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 302 discussion",
+      "author": "Gomer",
+      "replies": "2",
+      "views": "3541",
+      "creation_info": "by Gomer at June 10, 2023, 1:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79870-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 49 discussion",
+      "author": "kati2k22cz",
+      "replies": "16",
+      "views": "6783",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 7:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/76152-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 70 discussion",
+      "author": "Mikilo",
+      "replies": "28",
+      "views": "7433",
+      "creation_info": "by Mikilo at May 23, 2022, 10:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74552-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 69 discussion",
+      "author": "Mikilo",
+      "replies": "16",
+      "views": "6560",
+      "creation_info": "by Mikilo at April 26, 2022, 7:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/54073-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 68 discussion",
+      "author": "lei00",
+      "replies": "17",
+      "views": "5714",
+      "creation_info": "by lei00 at June 1, 2021, 1:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111269-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 304 discussion",
+      "author": "pepecastr0",
+      "replies": "27",
+      "views": "4180",
+      "creation_info": "by pepecastr0 at June 6, 2023, 3:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/81357-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 65 discussion",
+      "author": "chanaka5",
+      "replies": "8",
+      "views": "6037",
+      "creation_info": "by chanaka5 at Sept. 9, 2022, 1:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79225-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 64 discussion",
+      "author": "princajen",
+      "replies": "6",
+      "views": "4778",
+      "creation_info": "by princajen at Sept. 2, 2022, 3:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74386-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 63 discussion",
+      "author": "Mecdrox",
+      "replies": "6",
+      "views": "3982",
+      "creation_info": "by Mecdrox at April 25, 2022, 12:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79906-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 58 discussion",
+      "author": "kati2k22cz",
+      "replies": "6",
+      "views": "3927",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 11:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79903-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 55 discussion",
+      "author": "kati2k22cz",
+      "replies": "7",
+      "views": "4077",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 10:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99280-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 260 discussion",
+      "author": "0timepass",
+      "replies": "9",
+      "views": "4495",
+      "creation_info": "by 0timepass at Feb. 15, 2023, 11:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101897-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 247 discussion",
+      "author": "csG13",
+      "replies": "10",
+      "views": "3034",
+      "creation_info": "by csG13 at March 8, 2023, 3:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88954-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 138 discussion",
+      "author": "marcelodba",
+      "replies": "4",
+      "views": "4091",
+      "creation_info": "by marcelodba at Nov. 27, 2022, 4:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80177-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 94 discussion",
+      "author": "kati2k22cz",
+      "replies": "4",
+      "views": "4303",
+      "creation_info": "by kati2k22cz at Sept. 5, 2022, 3:50 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93724-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 223 discussion",
+      "author": "zolthar_z",
+      "replies": "9",
+      "views": "4430",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 3:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93715-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 217 discussion",
+      "author": "ashu27",
+      "replies": "9",
+      "views": "3845",
+      "creation_info": "by ashu27 at Jan. 3, 2023, 2:59 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147128-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 460 discussion",
+      "author": "Toni2936",
+      "replies": "2",
+      "views": "1767",
+      "creation_info": "by Toni2936 at Sept. 7, 2024, 1:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145601-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 459 discussion",
+      "author": "AMEJack",
+      "replies": "6",
+      "views": "1942",
+      "creation_info": "by AMEJack at Aug. 12, 2024, 9:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145600-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 458 discussion",
+      "author": "AMEJack",
+      "replies": "3",
+      "views": "1796",
+      "creation_info": "by AMEJack at Aug. 12, 2024, 9:29 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145598-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 455 discussion",
+      "author": "AMEJack",
+      "replies": "2",
+      "views": "1913",
+      "creation_info": "by AMEJack at Aug. 12, 2024, 7:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99523-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 240 discussion",
+      "author": "Agil09",
+      "replies": "2",
+      "views": "2930",
+      "creation_info": "by Agil09 at Feb. 17, 2023, 5:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145624-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 453 discussion",
+      "author": "vaa2020",
+      "replies": "5",
+      "views": "1611",
+      "creation_info": "by vaa2020 at Aug. 12, 2024, 10:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145619-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 451 discussion",
+      "author": "vaa2020",
+      "replies": "4",
+      "views": "1822",
+      "creation_info": "by vaa2020 at Aug. 12, 2024, 6:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147123-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 450 discussion",
+      "author": "Toni2936",
+      "replies": "2",
+      "views": "1715",
+      "creation_info": "by Toni2936 at Sept. 7, 2024, 1:03 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145595-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 449 discussion",
+      "author": "AMEJack",
+      "replies": "5",
+      "views": "1880",
+      "creation_info": "by AMEJack at Aug. 12, 2024, 6:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147122-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 448 discussion",
+      "author": "Toni2936",
+      "replies": "2",
+      "views": "1808",
+      "creation_info": "by Toni2936 at Sept. 7, 2024, 1 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145596-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 447 discussion",
+      "author": "AMEJack",
+      "replies": "2",
+      "views": "1948",
+      "creation_info": "by AMEJack at Aug. 12, 2024, 6:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145576-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 446 discussion",
+      "author": "AMEJack",
+      "replies": "4",
+      "views": "1670",
+      "creation_info": "by AMEJack at Aug. 11, 2024, 11:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/147120-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 445 discussion",
+      "author": "Toni2936",
+      "replies": "2",
+      "views": "1613",
+      "creation_info": "by Toni2936 at Sept. 7, 2024, 12:51 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138809-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 443 discussion",
+      "author": "tgv",
+      "replies": "3",
+      "views": "2041",
+      "creation_info": "by tgv at April 16, 2024, 8:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138808-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 442 discussion",
+      "author": "tgv",
+      "replies": "5",
+      "views": "2250",
+      "creation_info": "by tgv at April 16, 2024, 8:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138807-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 441 discussion",
+      "author": "tgv",
+      "replies": "2",
+      "views": "2511",
+      "creation_info": "by tgv at April 16, 2024, 8:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138805-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 439 discussion",
+      "author": "tgv",
+      "replies": "2",
+      "views": "1790",
+      "creation_info": "by tgv at April 16, 2024, 8:26 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130081-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 410 discussion",
+      "author": "WinAndWin",
+      "replies": "6",
+      "views": "2634",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 3:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130034-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 400 discussion",
+      "author": "LemonGremlin",
+      "replies": "5",
+      "views": "2550",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130051-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 385 discussion",
+      "author": "WinAndWin",
+      "replies": "7",
+      "views": "2777",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 11:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/119052-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 378 discussion",
+      "author": "xSohox",
+      "replies": "7",
+      "views": "2703",
+      "creation_info": "by xSohox at Aug. 25, 2023, 3:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/116080-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 375 discussion",
+      "author": "trvtrinh",
+      "replies": "13",
+      "views": "3599",
+      "creation_info": "by trvtrinh at July 22, 2023, 3:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93697-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 212 discussion",
+      "author": "zolthar_z",
+      "replies": "4",
+      "views": "3822",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 1:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87666-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 153 discussion",
+      "author": "Liongeek",
+      "replies": "9",
+      "views": "3389",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112298-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 331 discussion",
+      "author": "vcloudpmp",
+      "replies": "5",
+      "views": "3774",
+      "creation_info": "by vcloudpmp at June 15, 2023, 8:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130048-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 382 discussion",
+      "author": "WinAndWin",
+      "replies": "4",
+      "views": "1962",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 10:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/110751-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 314 discussion",
+      "author": "Shoppe",
+      "replies": "5",
+      "views": "3564",
+      "creation_info": "by Shoppe at June 1, 2023, 9:46 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111776-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 301 discussion",
+      "author": "Gomer",
+      "replies": "3",
+      "views": "2910",
+      "creation_info": "by Gomer at June 10, 2023, 12:08 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112504-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 277 discussion",
+      "author": "rdiaz",
+      "replies": "3",
+      "views": "2603",
+      "creation_info": "by rdiaz at June 18, 2023, 9:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138806-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 440 discussion",
+      "author": "tgv",
+      "replies": "1",
+      "views": "2154",
+      "creation_info": "by tgv at April 16, 2024, 8:29 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138725-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 434 discussion",
+      "author": "andy_sds",
+      "replies": "2",
+      "views": "2014",
+      "creation_info": "by andy_sds at April 15, 2024, 10:21 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136725-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 432 discussion",
+      "author": "gamebase",
+      "replies": "3",
+      "views": "2550",
+      "creation_info": "by gamebase at March 20, 2024, 1:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136781-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 428 discussion",
+      "author": "mpl203",
+      "replies": "3",
+      "views": "2559",
+      "creation_info": "by mpl203 at March 21, 2024, 1:43 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136778-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 427 discussion",
+      "author": "mpl203",
+      "replies": "4",
+      "views": "2295",
+      "creation_info": "by mpl203 at March 21, 2024, 1:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136773-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 423 discussion",
+      "author": "mpl203",
+      "replies": "3",
+      "views": "2171",
+      "creation_info": "by mpl203 at March 21, 2024, 1:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/110753-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 316 discussion",
+      "author": "Shoppe",
+      "replies": "8",
+      "views": "3928",
+      "creation_info": "by Shoppe at June 1, 2023, 9:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/116053-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 369 discussion",
+      "author": "trvtrinh",
+      "replies": "3",
+      "views": "2551",
+      "creation_info": "by trvtrinh at July 22, 2023, 9:03 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90951-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 177 discussion",
+      "author": "Fatoch",
+      "replies": "5",
+      "views": "3341",
+      "creation_info": "by Fatoch at Dec. 10, 2022, 10:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113695-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 342 discussion",
+      "author": "Sourav8602",
+      "replies": "4",
+      "views": "3012",
+      "creation_info": "by Sourav8602 at June 29, 2023, 9:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87677-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 161 discussion",
+      "author": "Liongeek",
+      "replies": "4",
+      "views": "3920",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109079-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 291 discussion",
+      "author": "kondratyevmn",
+      "replies": "4",
+      "views": "3034",
+      "creation_info": "by kondratyevmn at May 12, 2023, 4:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79244-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 84 discussion",
+      "author": "princajen",
+      "replies": "4",
+      "views": "3267",
+      "creation_info": "by princajen at Sept. 2, 2022, 4:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/110752-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 309 discussion",
+      "author": "Shoppe",
+      "replies": "7",
+      "views": "3273",
+      "creation_info": "by Shoppe at June 1, 2023, 9:49 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80063-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 93 discussion",
+      "author": "haxaffee",
+      "replies": "12",
+      "views": "6149",
+      "creation_info": "by haxaffee at Sept. 4, 2022, 1:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80173-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 92 discussion",
+      "author": "kati2k22cz",
+      "replies": "5",
+      "views": "3543",
+      "creation_info": "by kati2k22cz at Sept. 5, 2022, 1:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99056-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 233 discussion",
+      "author": "Gil80",
+      "replies": "16",
+      "views": "3995",
+      "creation_info": "by Gil80 at Feb. 13, 2023, 12:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136784-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 431 discussion",
+      "author": "mpl203",
+      "replies": "3",
+      "views": "2351",
+      "creation_info": "by mpl203 at March 21, 2024, 2:06 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136783-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 430 discussion",
+      "author": "mpl203",
+      "replies": "2",
+      "views": "2446",
+      "creation_info": "by mpl203 at March 21, 2024, 2:01 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130038-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 408 discussion",
+      "author": "LemonGremlin",
+      "replies": "6",
+      "views": "2903",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109882-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 264 discussion",
+      "author": "rrshah83",
+      "replies": "7",
+      "views": "3069",
+      "creation_info": "by rrshah83 at May 22, 2023, 11:03 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109880-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 273 discussion",
+      "author": "rrshah83",
+      "replies": "7",
+      "views": "3173",
+      "creation_info": "by rrshah83 at May 22, 2023, 10:42 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130080-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 409 discussion",
+      "author": "WinAndWin",
+      "replies": "3",
+      "views": "2032",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 3:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130154-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 419 discussion",
+      "author": "LemonGremlin",
+      "replies": "4",
+      "views": "2779",
+      "creation_info": "by LemonGremlin at Jan. 3, 2024, 1:06 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130029-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 380 discussion",
+      "author": "LemonGremlin",
+      "replies": "3",
+      "views": "3434",
+      "creation_info": "by LemonGremlin at Dec. 31, 2023, 10:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/119002-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 379 discussion",
+      "author": "Tapkar",
+      "replies": "5",
+      "views": "2867",
+      "creation_info": "by Tapkar at Aug. 25, 2023, 8:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113595-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 360 discussion",
+      "author": "kevino81",
+      "replies": "4",
+      "views": "3229",
+      "creation_info": "by kevino81 at June 29, 2023, 3:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113594-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 357 discussion",
+      "author": "kevino81",
+      "replies": "3",
+      "views": "2930",
+      "creation_info": "by kevino81 at June 29, 2023, 3:43 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87685-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 165 discussion",
+      "author": "Liongeek",
+      "replies": "4",
+      "views": "3971",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112511-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 305 discussion",
+      "author": "rdiaz",
+      "replies": "3",
+      "views": "2635",
+      "creation_info": "by rdiaz at June 18, 2023, 11:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/116239-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 285 discussion",
+      "author": "trvtrinh",
+      "replies": "4",
+      "views": "2933",
+      "creation_info": "by trvtrinh at July 24, 2023, 1:14 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/115966-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 364 discussion",
+      "author": "jas26says",
+      "replies": "5",
+      "views": "3125",
+      "creation_info": "by jas26says at July 21, 2023, 2:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93716-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 218 discussion",
+      "author": "zolthar_z",
+      "replies": "9",
+      "views": "4016",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 3:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112100-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 320 discussion",
+      "author": "Gomer",
+      "replies": "4",
+      "views": "3531",
+      "creation_info": "by Gomer at June 14, 2023, 12:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91399-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 208 discussion",
+      "author": "michaldavid",
+      "replies": "18",
+      "views": "5219",
+      "creation_info": "by michaldavid at Dec. 13, 2022, 12:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90677-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 179 discussion",
+      "author": "grka25",
+      "replies": "5",
+      "views": "2941",
+      "creation_info": "by grka25 at Dec. 8, 2022, 5:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80939-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 100 discussion",
+      "author": "kati2k22cz",
+      "replies": "7",
+      "views": "3814",
+      "creation_info": "by kati2k22cz at Sept. 7, 2022, 4:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79118-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 31 discussion",
+      "author": "princajen",
+      "replies": "6",
+      "views": "4535",
+      "creation_info": "by princajen at Sept. 1, 2022, 7:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108311-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 281 discussion",
+      "author": "Gomer",
+      "replies": "8",
+      "views": "3850",
+      "creation_info": "by Gomer at May 2, 2023, 7:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74376-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 10 discussion",
+      "author": "Mecdrox",
+      "replies": "11",
+      "views": "7330",
+      "creation_info": "by Mecdrox at April 25, 2022, 12:19 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/50857-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 9 discussion",
+      "author": "Azaad78",
+      "replies": "32",
+      "views": "14149",
+      "creation_info": "by Azaad78 at April 23, 2021, 10:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90719-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 190 discussion",
+      "author": "grka25",
+      "replies": "8",
+      "views": "4718",
+      "creation_info": "by grka25 at Dec. 8, 2022, 10:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87675-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 159 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "3675",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/136775-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 424 discussion",
+      "author": "mpl203",
+      "replies": "2",
+      "views": "1914",
+      "creation_info": "by mpl203 at March 21, 2024, 1:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130036-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 405 discussion",
+      "author": "LemonGremlin",
+      "replies": "3",
+      "views": "2230",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:13 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111266-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 300 discussion",
+      "author": "pepecastr0",
+      "replies": "7",
+      "views": "4563",
+      "creation_info": "by pepecastr0 at June 6, 2023, 2:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87688-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 169 discussion",
+      "author": "Liongeek",
+      "replies": "14",
+      "views": "3420",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99233-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 236 discussion",
+      "author": "anderri",
+      "replies": "9",
+      "views": "3614",
+      "creation_info": "by anderri at Feb. 15, 2023, 12:40 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87791-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 119 discussion",
+      "author": "Liongeek",
+      "replies": "6",
+      "views": "2920",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 4:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87672-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 156 discussion",
+      "author": "Liongeek",
+      "replies": "11",
+      "views": "4385",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87661-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 150 discussion",
+      "author": "Liongeek",
+      "replies": "12",
+      "views": "5808",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 7:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88956-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 140 discussion",
+      "author": "marcelodba",
+      "replies": "7",
+      "views": "5278",
+      "creation_info": "by marcelodba at Nov. 27, 2022, 4:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79887-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 54 discussion",
+      "author": "kati2k22cz",
+      "replies": "4",
+      "views": "3880",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 8:28 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145447-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 463 discussion",
+      "author": "BryRob",
+      "replies": "3",
+      "views": "1770",
+      "creation_info": "by BryRob at Aug. 11, 2024, 6:45 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99938-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 251 discussion",
+      "author": "defmania00",
+      "replies": "8",
+      "views": "4663",
+      "creation_info": "by defmania00 at Feb. 19, 2023, 2:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101902-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 250 discussion",
+      "author": "csG13",
+      "replies": "5",
+      "views": "3594",
+      "creation_info": "by csG13 at March 8, 2023, 4:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/100521-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 249 discussion",
+      "author": "fahadadnan",
+      "replies": "4",
+      "views": "3034",
+      "creation_info": "by fahadadnan at Feb. 23, 2023, 5:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/116204-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 269 discussion",
+      "author": "trvtrinh",
+      "replies": "3",
+      "views": "2694",
+      "creation_info": "by trvtrinh at July 23, 2023, 2:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90952-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 178 discussion",
+      "author": "Fatoch",
+      "replies": "8",
+      "views": "3597",
+      "creation_info": "by Fatoch at Dec. 10, 2022, 10:11 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87885-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 168 discussion",
+      "author": "Xelnak",
+      "replies": "5",
+      "views": "3196",
+      "creation_info": "by Xelnak at Nov. 18, 2022, 11:05 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101966-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 258 discussion",
+      "author": "csG13",
+      "replies": "12",
+      "views": "3466",
+      "creation_info": "by csG13 at March 9, 2023, 9:05 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101915-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 256 discussion",
+      "author": "csG13",
+      "replies": "12",
+      "views": "4035",
+      "creation_info": "by csG13 at March 8, 2023, 6:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/76234-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 25 discussion",
+      "author": "Finger41",
+      "replies": "11",
+      "views": "5433",
+      "creation_info": "by Finger41 at May 24, 2022, 5:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111431-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 310 discussion",
+      "author": "tts1234",
+      "replies": "8",
+      "views": "4108",
+      "creation_info": "by tts1234 at June 7, 2023, 8:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113880-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 324 discussion",
+      "author": "Sourav8602",
+      "replies": "7",
+      "views": "3033",
+      "creation_info": "by Sourav8602 at July 1, 2023, 8:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78680-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 19 discussion",
+      "author": "moonwalkeryj",
+      "replies": "15",
+      "views": "7867",
+      "creation_info": "by moonwalkeryj at Aug. 31, 2022, 12:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78678-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 17 discussion",
+      "author": "moonwalkeryj",
+      "replies": "11",
+      "views": "5696",
+      "creation_info": "by moonwalkeryj at Aug. 31, 2022, 12:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/116241-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 293 discussion",
+      "author": "Zotarix",
+      "replies": "2",
+      "views": "2859",
+      "creation_info": "by Zotarix at July 24, 2023, 2:17 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106978-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 294 discussion",
+      "author": "AndyMartinez",
+      "replies": "14",
+      "views": "4608",
+      "creation_info": "by AndyMartinez at April 22, 2023, 2:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/114096-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 327 discussion",
+      "author": "jlmadvig",
+      "replies": "3",
+      "views": "3009",
+      "creation_info": "by jlmadvig at July 4, 2023, 5:16 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112018-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 311 discussion",
+      "author": "Gomer",
+      "replies": "5",
+      "views": "3022",
+      "creation_info": "by Gomer at June 13, 2023, 1:19 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87909-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 186 discussion",
+      "author": "Xelnak",
+      "replies": "14",
+      "views": "3916",
+      "creation_info": "by Xelnak at Nov. 18, 2022, 4:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130070-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 401 discussion",
+      "author": "WinAndWin",
+      "replies": "6",
+      "views": "3212",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 2:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79254-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 112 discussion",
+      "author": "princajen",
+      "replies": "10",
+      "views": "4343",
+      "creation_info": "by princajen at Sept. 2, 2022, 5:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/118376-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 377 discussion",
+      "author": "DZRomero",
+      "replies": "3",
+      "views": "2984",
+      "creation_info": "by DZRomero at Aug. 18, 2023, 5:03 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88009-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 129 discussion",
+      "author": "Fatoch",
+      "replies": "8",
+      "views": "3933",
+      "creation_info": "by Fatoch at Nov. 19, 2022, 10:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79247-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 86 discussion",
+      "author": "princajen",
+      "replies": "8",
+      "views": "4015",
+      "creation_info": "by princajen at Sept. 2, 2022, 4:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79630-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 32 discussion",
+      "author": "kati2k22cz",
+      "replies": "4",
+      "views": "4141",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 1:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113873-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 350 discussion",
+      "author": "Sourav8602",
+      "replies": "10",
+      "views": "2896",
+      "creation_info": "by Sourav8602 at July 1, 2023, 8:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98530-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 227 discussion",
+      "author": "Gil80",
+      "replies": "4",
+      "views": "3123",
+      "creation_info": "by Gil80 at Feb. 9, 2023, 11:19 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101895-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 246 discussion",
+      "author": "csG13",
+      "replies": "2",
+      "views": "3679",
+      "creation_info": "by csG13 at March 8, 2023, 3:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108326-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 288 discussion",
+      "author": "Gomer",
+      "replies": "10",
+      "views": "4249",
+      "creation_info": "by Gomer at May 2, 2023, 10:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108324-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 287 discussion",
+      "author": "Gomer",
+      "replies": "10",
+      "views": "3264",
+      "creation_info": "by Gomer at May 2, 2023, 10:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108987-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 283 discussion",
+      "author": "kondratyevmn",
+      "replies": "3",
+      "views": "3064",
+      "creation_info": "by kondratyevmn at May 11, 2023, 7:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108981-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 282 discussion",
+      "author": "wooyourdaddy",
+      "replies": "5",
+      "views": "3945",
+      "creation_info": "by wooyourdaddy at May 11, 2023, 5:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108174-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 276 discussion",
+      "author": "Gomer",
+      "replies": "7",
+      "views": "3527",
+      "creation_info": "by Gomer at May 2, 2023, 5:54 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108162-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 272 discussion",
+      "author": "Gomer",
+      "replies": "7",
+      "views": "3894",
+      "creation_info": "by Gomer at May 2, 2023, 2:27 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108114-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 268 discussion",
+      "author": "dan80",
+      "replies": "3",
+      "views": "3247",
+      "creation_info": "by dan80 at May 1, 2023, 2:03 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145936-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 452 discussion",
+      "author": "AMEJack",
+      "replies": "2",
+      "views": "1710",
+      "creation_info": "by AMEJack at Aug. 18, 2024, 12:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106975-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 266 discussion",
+      "author": "AndyMartinez",
+      "replies": "3",
+      "views": "3196",
+      "creation_info": "by AndyMartinez at April 22, 2023, 1:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101991-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 263 discussion",
+      "author": "csG13",
+      "replies": "4",
+      "views": "4707",
+      "creation_info": "by csG13 at March 9, 2023, 11:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101967-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 259 discussion",
+      "author": "csG13",
+      "replies": "3",
+      "views": "2999",
+      "creation_info": "by csG13 at March 9, 2023, 9:28 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99333-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 257 discussion",
+      "author": "anderri",
+      "replies": "5",
+      "views": "4211",
+      "creation_info": "by anderri at Feb. 16, 2023, 12:58 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99331-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 248 discussion",
+      "author": "anderri",
+      "replies": "3",
+      "views": "3141",
+      "creation_info": "by anderri at Feb. 15, 2023, 11:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99329-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 243 discussion",
+      "author": "anderri",
+      "replies": "6",
+      "views": "3697",
+      "creation_info": "by anderri at Feb. 15, 2023, 11:36 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/100867-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 232 discussion",
+      "author": "bbfd465",
+      "replies": "6",
+      "views": "3396",
+      "creation_info": "by bbfd465 at Feb. 26, 2023, 5:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98822-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 230 discussion",
+      "author": "grka25",
+      "replies": "8",
+      "views": "4647",
+      "creation_info": "by grka25 at Feb. 11, 2023, 6:15 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130049-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 383 discussion",
+      "author": "WinAndWin",
+      "replies": "3",
+      "views": "2026",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 10:53 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93712-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 213 discussion",
+      "author": "zolthar_z",
+      "replies": "8",
+      "views": "3578",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 2:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91936-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 203 discussion",
+      "author": "beznika",
+      "replies": "4",
+      "views": "3768",
+      "creation_info": "by beznika at Dec. 17, 2022, 9:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91332-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 205 discussion",
+      "author": "michaldavid",
+      "replies": "18",
+      "views": "4267",
+      "creation_info": "by michaldavid at Dec. 13, 2022, 8:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/115983-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 371 discussion",
+      "author": "jas26says",
+      "replies": "6",
+      "views": "3334",
+      "creation_info": "by jas26says at July 21, 2023, 3:20 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/115978-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 368 discussion",
+      "author": "jas26says",
+      "replies": "4",
+      "views": "3466",
+      "creation_info": "by jas26says at July 21, 2023, 3:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87670-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 155 discussion",
+      "author": "Liongeek",
+      "replies": "3",
+      "views": "3099",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:21 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87664-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 151 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "3721",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90931-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 145 discussion",
+      "author": "Pepepep",
+      "replies": "4",
+      "views": "4274",
+      "creation_info": "by Pepepep at Dec. 10, 2022, 3:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88959-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 141 discussion",
+      "author": "marcelodba",
+      "replies": "4",
+      "views": "4322",
+      "creation_info": "by marcelodba at Nov. 27, 2022, 4:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87809-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 128 discussion",
+      "author": "Xelnak",
+      "replies": "8",
+      "views": "4107",
+      "creation_info": "by Xelnak at Nov. 17, 2022, 5:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87679-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 125 discussion",
+      "author": "Xelnak",
+      "replies": "7",
+      "views": "5072",
+      "creation_info": "by Xelnak at Nov. 16, 2022, 8:52 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88004-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 123 discussion",
+      "author": "Fatoch",
+      "replies": "9",
+      "views": "3120",
+      "creation_info": "by Fatoch at Nov. 19, 2022, 9:55 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130032-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 390 discussion",
+      "author": "LemonGremlin",
+      "replies": "10",
+      "views": "3070",
+      "creation_info": "by LemonGremlin at Dec. 31, 2023, 11:53 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93713-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 214 discussion",
+      "author": "zolthar_z",
+      "replies": "3",
+      "views": "2695",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 2:56 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87678-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 162 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "3935",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:51 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113101-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 344 discussion",
+      "author": "jas26says",
+      "replies": "8",
+      "views": "3139",
+      "creation_info": "by jas26says at June 23, 2023, 3:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91309-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 181 discussion",
+      "author": "michaldavid",
+      "replies": "7",
+      "views": "4488",
+      "creation_info": "by michaldavid at Dec. 13, 2022, 6:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93717-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 219 discussion",
+      "author": "zolthar_z",
+      "replies": "6",
+      "views": "3650",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 3:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145605-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 462 discussion",
+      "author": "AMEJack",
+      "replies": "2",
+      "views": "1830",
+      "creation_info": "by AMEJack at Aug. 12, 2024, 10:27 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87787-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 116 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "3631",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 4:07 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80398-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 107 discussion",
+      "author": "kati2k22cz",
+      "replies": "7",
+      "views": "4883",
+      "creation_info": "by kati2k22cz at Sept. 5, 2022, 7:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79653-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 102 discussion",
+      "author": "skinnyxpuppy",
+      "replies": "8",
+      "views": "6792",
+      "creation_info": "by skinnyxpuppy at Sept. 3, 2022, 4:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80288-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 97 discussion",
+      "author": "kati2k22cz",
+      "replies": "5",
+      "views": "3977",
+      "creation_info": "by kati2k22cz at Sept. 5, 2022, 11:43 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80101-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 95 discussion",
+      "author": "princajen",
+      "replies": "6",
+      "views": "4804",
+      "creation_info": "by princajen at Sept. 4, 2022, 5:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106757-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 267 discussion",
+      "author": "wooyourdaddy",
+      "replies": "4",
+      "views": "3354",
+      "creation_info": "by wooyourdaddy at April 19, 2023, 6:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79929-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 80 discussion",
+      "author": "kati2k22cz",
+      "replies": "6",
+      "views": "3764",
+      "creation_info": "by kati2k22cz at Sept. 4, 2022, 4 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/145448-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 464 discussion",
+      "author": "BryRob",
+      "replies": "2",
+      "views": "1791",
+      "creation_info": "by BryRob at Aug. 11, 2024, 6:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74331-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 67 discussion",
+      "author": "Mecdrox",
+      "replies": "7",
+      "views": "5575",
+      "creation_info": "by Mecdrox at April 24, 2022, 3:37 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79226-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 66 discussion",
+      "author": "princajen",
+      "replies": "4",
+      "views": "4499",
+      "creation_info": "by princajen at Sept. 2, 2022, 3:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79908-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 59 discussion",
+      "author": "kati2k22cz",
+      "replies": "6",
+      "views": "4589",
+      "creation_info": "by kati2k22cz at Sept. 4, 2022, 12:10 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79168-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 47 discussion",
+      "author": "princajen",
+      "replies": "5",
+      "views": "5007",
+      "creation_info": "by princajen at Sept. 1, 2022, 9:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/104162-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 60 discussion",
+      "author": "helloworldabc",
+      "replies": "5",
+      "views": "3480",
+      "creation_info": "by helloworldabc at March 28, 2023, 4:44 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79116-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 28 discussion",
+      "author": "princajen",
+      "replies": "6",
+      "views": "5887",
+      "creation_info": "by princajen at Sept. 1, 2022, 7:41 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88960-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 142 discussion",
+      "author": "marcelodba",
+      "replies": "9",
+      "views": "3822",
+      "creation_info": "by marcelodba at Nov. 27, 2022, 4:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98231-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 237 discussion",
+      "author": "Deeezz",
+      "replies": "5",
+      "views": "3967",
+      "creation_info": "by Deeezz at Feb. 6, 2023, 11:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130114-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 416 discussion",
+      "author": "WinAndWin",
+      "replies": "2",
+      "views": "2651",
+      "creation_info": "by WinAndWin at Jan. 2, 2024, 2:06 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130101-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 391 discussion",
+      "author": "nharaz",
+      "replies": "3",
+      "views": "2750",
+      "creation_info": "by nharaz at Jan. 1, 2024, 7:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129814-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 386 discussion",
+      "author": "WinAndWin",
+      "replies": "4",
+      "views": "2166",
+      "creation_info": "by WinAndWin at Dec. 30, 2023, 1:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87692-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 174 discussion",
+      "author": "Liongeek",
+      "replies": "6",
+      "views": "3999",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108140-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 270 discussion",
+      "author": "Gomer",
+      "replies": "11",
+      "views": "4134",
+      "creation_info": "by Gomer at May 1, 2023, 8:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129817-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 404 discussion",
+      "author": "LemonGremlin",
+      "replies": "5",
+      "views": "2326",
+      "creation_info": "by LemonGremlin at Dec. 30, 2023, 1:37 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/100890-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 261 discussion",
+      "author": "bbfd465",
+      "replies": "3",
+      "views": "2748",
+      "creation_info": "by bbfd465 at Feb. 26, 2023, 6:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106957-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 279 discussion",
+      "author": "Hanny",
+      "replies": "6",
+      "views": "2890",
+      "creation_info": "by Hanny at April 22, 2023, 2:52 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87813-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 126 discussion",
+      "author": "Liongeek",
+      "replies": "5",
+      "views": "3327",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 7:01 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112503-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 275 discussion",
+      "author": "rdiaz",
+      "replies": "3",
+      "views": "3122",
+      "creation_info": "by rdiaz at June 18, 2023, 9:55 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/115990-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 374 discussion",
+      "author": "jas26says",
+      "replies": "5",
+      "views": "3594",
+      "creation_info": "by jas26says at July 21, 2023, 3:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113770-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 347 discussion",
+      "author": "Pete987",
+      "replies": "3",
+      "views": "3093",
+      "creation_info": "by Pete987 at June 30, 2023, 5:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113240-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 343 discussion",
+      "author": "Phat_nguyen_VN",
+      "replies": "5",
+      "views": "3047",
+      "creation_info": "by Phat_nguyen_VN at June 25, 2023, 9:34 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113879-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 338 discussion",
+      "author": "Sourav8602",
+      "replies": "2",
+      "views": "3029",
+      "creation_info": "by Sourav8602 at July 1, 2023, 8:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112411-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 337 discussion",
+      "author": "Gomer",
+      "replies": "5",
+      "views": "3460",
+      "creation_info": "by Gomer at June 17, 2023, 12:04 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112410-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 336 discussion",
+      "author": "Gomer",
+      "replies": "2",
+      "views": "3414",
+      "creation_info": "by Gomer at June 16, 2023, 11:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129893-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 420 discussion",
+      "author": "JIMBOB2",
+      "replies": "5",
+      "views": "2567",
+      "creation_info": "by JIMBOB2 at Dec. 30, 2023, 3:58 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78753-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 39 discussion",
+      "author": "haxaffee",
+      "replies": "26",
+      "views": "7673",
+      "creation_info": "by haxaffee at Aug. 31, 2022, 7:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112493-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 339 discussion",
+      "author": "vcloudpmp",
+      "replies": "3",
+      "views": "3576",
+      "creation_info": "by vcloudpmp at June 17, 2023, 10:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108171-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 274 discussion",
+      "author": "Gomer",
+      "replies": "3",
+      "views": "3845",
+      "creation_info": "by Gomer at May 2, 2023, 3:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/106974-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 265 discussion",
+      "author": "AndyMartinez",
+      "replies": "2",
+      "views": "3379",
+      "creation_info": "by AndyMartinez at April 22, 2023, 1:49 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87727-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 139 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "4230",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 5:56 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87824-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 133 discussion",
+      "author": "Liongeek",
+      "replies": "5",
+      "views": "3634",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 8:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101526-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 252 discussion",
+      "author": "braveheart22",
+      "replies": "4",
+      "views": "2795",
+      "creation_info": "by braveheart22 at March 4, 2023, 7:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93720-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 221 discussion",
+      "author": "zolthar_z",
+      "replies": "2",
+      "views": "3920",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 3:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93714-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 216 discussion",
+      "author": "ashu27",
+      "replies": "6",
+      "views": "3809",
+      "creation_info": "by ashu27 at Jan. 3, 2023, 2:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/115805-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 367 discussion",
+      "author": "Alagong",
+      "replies": "23",
+      "views": "4366",
+      "creation_info": "by Alagong at July 20, 2023, 1:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90804-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 204 discussion",
+      "author": "beznika",
+      "replies": "5",
+      "views": "3928",
+      "creation_info": "by beznika at Dec. 9, 2022, 1:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/91328-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 200 discussion",
+      "author": "michaldavid",
+      "replies": "3",
+      "views": "4308",
+      "creation_info": "by michaldavid at Dec. 13, 2022, 8:32 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/92358-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 199 discussion",
+      "author": "zolthar_z",
+      "replies": "2",
+      "views": "3642",
+      "creation_info": "by zolthar_z at Dec. 21, 2022, 4:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87674-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 158 discussion",
+      "author": "Liongeek",
+      "replies": "8",
+      "views": "4153",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87667-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 154 discussion",
+      "author": "Liongeek",
+      "replies": "4",
+      "views": "3758",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87665-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 152 discussion",
+      "author": "Liongeek",
+      "replies": "5",
+      "views": "3224",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 8:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87826-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 149 discussion",
+      "author": "Liongeek",
+      "replies": "4",
+      "views": "4744",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 8:48 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87866-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 147 discussion",
+      "author": "Xelnak",
+      "replies": "4",
+      "views": "3906",
+      "creation_info": "by Xelnak at Nov. 18, 2022, 7:23 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87732-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 146 discussion",
+      "author": "Liongeek",
+      "replies": "11",
+      "views": "4557",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 6:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90420-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 144 discussion",
+      "author": "grka25",
+      "replies": "9",
+      "views": "4080",
+      "creation_info": "by grka25 at Dec. 7, 2022, 3:10 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87730-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 143 discussion",
+      "author": "Liongeek",
+      "replies": "4",
+      "views": "3719",
+      "creation_info": "by Liongeek at Nov. 17, 2022, 6:12 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130052-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 387 discussion",
+      "author": "WinAndWin",
+      "replies": "3",
+      "views": "2719",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 11:20 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130082-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 412 discussion",
+      "author": "WinAndWin",
+      "replies": "2",
+      "views": "2720",
+      "creation_info": "by WinAndWin at Jan. 1, 2024, 3:12 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130042-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 417 discussion",
+      "author": "LemonGremlin",
+      "replies": "4",
+      "views": "2349",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:21 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99328-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 242 discussion",
+      "author": "anderri",
+      "replies": "4",
+      "views": "3430",
+      "creation_info": "by anderri at Feb. 15, 2023, 11:27 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101440-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 241 discussion",
+      "author": "grka25",
+      "replies": "3",
+      "views": "3055",
+      "creation_info": "by grka25 at March 3, 2023, 7:31 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98303-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 234 discussion",
+      "author": "Spike2020",
+      "replies": "8",
+      "views": "3008",
+      "creation_info": "by Spike2020 at Feb. 7, 2023, 1:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88945-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 124 discussion",
+      "author": "marcelodba",
+      "replies": "7",
+      "views": "3467",
+      "creation_info": "by marcelodba at Nov. 27, 2022, 1:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79909-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 61 discussion",
+      "author": "kati2k22cz",
+      "replies": "8",
+      "views": "4745",
+      "creation_info": "by kati2k22cz at Sept. 4, 2022, 12:24 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138810-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 444 discussion",
+      "author": "tgv",
+      "replies": "4",
+      "views": "2062",
+      "creation_info": "by tgv at April 16, 2024, 8:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/92357-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 198 discussion",
+      "author": "zolthar_z",
+      "replies": "3",
+      "views": "3672",
+      "creation_info": "by zolthar_z at Dec. 21, 2022, 4:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/93722-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 222 discussion",
+      "author": "zolthar_z",
+      "replies": "13",
+      "views": "5360",
+      "creation_info": "by zolthar_z at Jan. 3, 2023, 3:17 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112098-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 319 discussion",
+      "author": "Gomer",
+      "replies": "3",
+      "views": "3174",
+      "creation_info": "by Gomer at June 14, 2023, 12:08 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111270-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 306 discussion",
+      "author": "pepecastr0",
+      "replies": "5",
+      "views": "3279",
+      "creation_info": "by pepecastr0 at June 6, 2023, 3:05 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101908-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 254 discussion",
+      "author": "csG13",
+      "replies": "4",
+      "views": "4013",
+      "creation_info": "by csG13 at March 8, 2023, 5:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112075-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 315 discussion",
+      "author": "Gomer",
+      "replies": "4",
+      "views": "2804",
+      "creation_info": "by Gomer at June 13, 2023, 10:09 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113589-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 363 discussion",
+      "author": "kevino81",
+      "replies": "15",
+      "views": "3650",
+      "creation_info": "by kevino81 at June 29, 2023, 3:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113590-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 362 discussion",
+      "author": "kevino81",
+      "replies": "5",
+      "views": "3165",
+      "creation_info": "by kevino81 at June 29, 2023, 3:36 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113141-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 361 discussion",
+      "author": "jas26says",
+      "replies": "8",
+      "views": "3152",
+      "creation_info": "by jas26says at June 24, 2023, 3:02 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113123-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 356 discussion",
+      "author": "jas26says",
+      "replies": "10",
+      "views": "3375",
+      "creation_info": "by jas26says at June 23, 2023, 6:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113122-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 355 discussion",
+      "author": "jas26says",
+      "replies": "8",
+      "views": "3537",
+      "creation_info": "by jas26says at June 23, 2023, 6:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113593-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 354 discussion",
+      "author": "kevino81",
+      "replies": "7",
+      "views": "3100",
+      "creation_info": "by kevino81 at June 29, 2023, 3:41 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113118-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 352 discussion",
+      "author": "jas26says",
+      "replies": "12",
+      "views": "3732",
+      "creation_info": "by jas26says at June 23, 2023, 6:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113592-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 351 discussion",
+      "author": "kevino81",
+      "replies": "10",
+      "views": "3723",
+      "creation_info": "by kevino81 at June 29, 2023, 3:39 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113771-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 348 discussion",
+      "author": "Pete987",
+      "replies": "7",
+      "views": "3083",
+      "creation_info": "by Pete987 at June 30, 2023, 5:35 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113692-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 349 discussion",
+      "author": "Sourav8602",
+      "replies": "6",
+      "views": "3330",
+      "creation_info": "by Sourav8602 at June 29, 2023, 9:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113119-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 353 discussion",
+      "author": "jas26says",
+      "replies": "10",
+      "views": "3249",
+      "creation_info": "by jas26says at June 23, 2023, 6:39 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113765-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 328 discussion",
+      "author": "Pete987",
+      "replies": "2",
+      "views": "2633",
+      "creation_info": "by Pete987 at June 30, 2023, 4:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99066-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 235 discussion",
+      "author": "Gil80",
+      "replies": "8",
+      "views": "3667",
+      "creation_info": "by Gil80 at Feb. 13, 2023, 1:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87976-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 135 discussion",
+      "author": "Raynor",
+      "replies": "4",
+      "views": "3549",
+      "creation_info": "by Raynor at Nov. 19, 2022, 11:16 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79930-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 82 discussion",
+      "author": "kati2k22cz",
+      "replies": "7",
+      "views": "5383",
+      "creation_info": "by kati2k22cz at Sept. 4, 2022, 4:06 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80102-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 99 discussion",
+      "author": "princajen",
+      "replies": "8",
+      "views": "5303",
+      "creation_info": "by princajen at Sept. 4, 2022, 6:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130138-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 397 discussion",
+      "author": "nharaz",
+      "replies": "2",
+      "views": "2141",
+      "creation_info": "by nharaz at Jan. 2, 2024, 8:40 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130109-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 399 discussion",
+      "author": "Kipalom",
+      "replies": "3",
+      "views": "2550",
+      "creation_info": "by Kipalom at Jan. 1, 2024, 10:47 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/99330-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 245 discussion",
+      "author": "anderri",
+      "replies": "4",
+      "views": "3851",
+      "creation_info": "by anderri at Feb. 15, 2023, 11:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129815-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 402 discussion",
+      "author": "LemonGremlin",
+      "replies": "2",
+      "views": "2465",
+      "creation_info": "by LemonGremlin at Dec. 30, 2023, 1:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130103-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 393 discussion",
+      "author": "nharaz",
+      "replies": "2",
+      "views": "2539",
+      "creation_info": "by nharaz at Jan. 1, 2024, 7:54 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129813-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 392 discussion",
+      "author": "LemonGremlin",
+      "replies": "3",
+      "views": "2414",
+      "creation_info": "by LemonGremlin at Dec. 30, 2023, 1:25 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79620-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 105 discussion",
+      "author": "Rick365",
+      "replies": "9",
+      "views": "5160",
+      "creation_info": "by Rick365 at Sept. 3, 2022, 12:35 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/130033-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 396 discussion",
+      "author": "LemonGremlin",
+      "replies": "2",
+      "views": "2269",
+      "creation_info": "by LemonGremlin at Jan. 1, 2024, 12:07 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/82545-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 111 discussion",
+      "author": "XAvenger",
+      "replies": "5",
+      "views": "3138",
+      "creation_info": "by XAvenger at Sept. 17, 2022, 5:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98538-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 229 discussion",
+      "author": "Gil80",
+      "replies": "9",
+      "views": "5275",
+      "creation_info": "by Gil80 at Feb. 9, 2023, 11:57 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/98436-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 226 discussion",
+      "author": "Gil80",
+      "replies": "7",
+      "views": "3916",
+      "creation_info": "by Gil80 at Feb. 8, 2023, 3:30 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/115969-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 366 discussion",
+      "author": "jas26says",
+      "replies": "5",
+      "views": "2973",
+      "creation_info": "by jas26says at July 21, 2023, 2:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/115967-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 365 discussion",
+      "author": "jas26says",
+      "replies": "6",
+      "views": "3621",
+      "creation_info": "by jas26says at July 21, 2023, 2:42 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113769-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 346 discussion",
+      "author": "Pete987",
+      "replies": "1",
+      "views": "2844",
+      "creation_info": "by Pete987 at June 30, 2023, 5:32 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113766-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 329 discussion",
+      "author": "Pete987",
+      "replies": "1",
+      "views": "2698",
+      "creation_info": "by Pete987 at June 30, 2023, 4:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112024-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 312 discussion",
+      "author": "Gomer",
+      "replies": "3",
+      "views": "3183",
+      "creation_info": "by Gomer at June 13, 2023, 5:15 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/129819-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 415 discussion",
+      "author": "LemonGremlin",
+      "replies": "7",
+      "views": "2502",
+      "creation_info": "by LemonGremlin at Dec. 30, 2023, 1:48 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108991-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 284 discussion",
+      "author": "kondratyevmn",
+      "replies": "4",
+      "views": "3197",
+      "creation_info": "by kondratyevmn at May 11, 2023, 8:13 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/138801-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 435 discussion",
+      "author": "tgv",
+      "replies": "2",
+      "views": "1680",
+      "creation_info": "by tgv at April 16, 2024, 8:09 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79926-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 76 discussion",
+      "author": "kati2k22cz",
+      "replies": "11",
+      "views": "5132",
+      "creation_info": "by kati2k22cz at Sept. 4, 2022, 3:33 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/80103-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 106 discussion",
+      "author": "princajen",
+      "replies": "7",
+      "views": "4553",
+      "creation_info": "by princajen at Sept. 4, 2022, 6:18 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79166-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 45 discussion",
+      "author": "princajen",
+      "replies": "7",
+      "views": "5632",
+      "creation_info": "by princajen at Sept. 1, 2022, 9:45 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79633-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 42 discussion",
+      "author": "kati2k22cz",
+      "replies": "9",
+      "views": "5002",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 1:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79117-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 30 discussion",
+      "author": "princajen",
+      "replies": "3",
+      "views": "5800",
+      "creation_info": "by princajen at Sept. 1, 2022, 7:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/113124-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 358 discussion",
+      "author": "jas26says",
+      "replies": "3",
+      "views": "3169",
+      "creation_info": "by jas26says at June 23, 2023, 6:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/111765-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 298 discussion",
+      "author": "Gomer",
+      "replies": "5",
+      "views": "3337",
+      "creation_info": "by Gomer at June 9, 2023, 10:06 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109082-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 296 discussion",
+      "author": "kondratyevmn",
+      "replies": "4",
+      "views": "2906",
+      "creation_info": "by kondratyevmn at May 12, 2023, 5:25 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108319-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 286 discussion",
+      "author": "Gomer",
+      "replies": "7",
+      "views": "3623",
+      "creation_info": "by Gomer at May 2, 2023, 9:22 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87701-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 194 discussion",
+      "author": "Liongeek",
+      "replies": "10",
+      "views": "4054",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 11:04 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87699-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 193 discussion",
+      "author": "Liongeek",
+      "replies": "8",
+      "views": "4028",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:57 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87956-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 187 discussion",
+      "author": "Raynor",
+      "replies": "12",
+      "views": "4086",
+      "creation_info": "by Raynor at Nov. 19, 2022, 10:01 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87907-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 184 discussion",
+      "author": "Xelnak",
+      "replies": "5",
+      "views": "4140",
+      "creation_info": "by Xelnak at Nov. 18, 2022, 4:34 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90709-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 182 discussion",
+      "author": "grka25",
+      "replies": "26",
+      "views": "5834",
+      "creation_info": "by grka25 at Dec. 8, 2022, 9:02 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90678-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 180 discussion",
+      "author": "grka25",
+      "replies": "5",
+      "views": "2703",
+      "creation_info": "by grka25 at Dec. 8, 2022, 5:33 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87693-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 175 discussion",
+      "author": "Liongeek",
+      "replies": "6",
+      "views": "2366",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:26 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/87691-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 173 discussion",
+      "author": "Liongeek",
+      "replies": "7",
+      "views": "4137",
+      "creation_info": "by Liongeek at Nov. 16, 2022, 10:19 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/88972-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 171 discussion",
+      "author": "marcelodba",
+      "replies": "5",
+      "views": "3513",
+      "creation_info": "by marcelodba at Nov. 27, 2022, 6:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/101807-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 262 discussion",
+      "author": "Domdom120",
+      "replies": "11",
+      "views": "4737",
+      "creation_info": "by Domdom120 at March 7, 2023, 8:43 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/90351-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 132 discussion",
+      "author": "grka25",
+      "replies": "2",
+      "views": "3353",
+      "creation_info": "by grka25 at Dec. 7, 2022, 9:18 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/108329-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 290 discussion",
+      "author": "Gomer",
+      "replies": "9",
+      "views": "3455",
+      "creation_info": "by Gomer at May 2, 2023, 11:38 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/126137-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 340 discussion",
+      "author": "DeaconStJohn",
+      "replies": "3",
+      "views": "2033",
+      "creation_info": "by DeaconStJohn at Nov. 14, 2023, 8:08 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/112103-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 321 discussion",
+      "author": "Gomer",
+      "replies": "2",
+      "views": "3005",
+      "creation_info": "by Gomer at June 14, 2023, 1:22 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79905-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 57 discussion",
+      "author": "kati2k22cz",
+      "replies": "3",
+      "views": "3190",
+      "creation_info": "by kati2k22cz at Sept. 3, 2022, 10:46 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/74102-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 29 discussion",
+      "author": "dontcomplain",
+      "replies": "8",
+      "views": "6241",
+      "creation_info": "by dontcomplain at April 22, 2022, 10:19 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/89426-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 192 discussion",
+      "author": "TomRabello",
+      "replies": "3",
+      "views": "2957",
+      "creation_info": "by TomRabello at Nov. 30, 2022, 6:29 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79252-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 101 discussion",
+      "author": "princajen",
+      "replies": "5",
+      "views": "6101",
+      "creation_info": "by princajen at Sept. 2, 2022, 4:59 a.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/78754-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 40 discussion",
+      "author": "haxaffee",
+      "replies": "13",
+      "views": "6391",
+      "creation_info": "by haxaffee at Aug. 31, 2022, 7:50 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/109069-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 289 discussion",
+      "author": "kondratyevmn",
+      "replies": "2",
+      "views": "3956",
+      "creation_info": "by kondratyevmn at May 12, 2023, 2:44 p.m."
+    },
+    {
+      "url": "https://www.examtopics.com/discussions/amazon/view/79170-exam-aws-certified-sysops-administrator-associate-topic-1/",
+      "title": "Exam AWS Certified SysOps Administrator - Associate topic 1 question 48 discussion",
+      "author": "princajen",
+      "replies": "4",
+      "views": "4214",
+      "creation_info": "by princajen at Sept. 1, 2022, 9:52 p.m."
+    }
+  ]
+}

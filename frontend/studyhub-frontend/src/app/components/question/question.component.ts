@@ -22,6 +22,7 @@ export class QuestionComponent implements OnInit {
   isCorrect: boolean | null = null;
   isAnswered: boolean = false;
   correctAnswer: string = '';
+  examType: string = '';
 
   constructor(
     private route: ActivatedRoute,
@@ -31,21 +32,43 @@ export class QuestionComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.questionService.getTotalQuestions().subscribe({
+    this.route.queryParams.subscribe(params => {
+      this.examType = params['exam_type'] || '';
+      const questionIdx = params['question_idx'];
+      
+      if (!this.examType) {
+        console.error('exam_type é obrigatório');
+        this.router.navigate(['/exam-selection']);
+        return;
+      }
+      
+      if (questionIdx !== undefined) {
+        this.questionIndex = +questionIdx;
+      } else {
+        // Pegar do parâmetro da rota se existir
+        this.route.params.subscribe(routeParams => {
+          if (routeParams['id'] !== undefined) {
+            this.questionIndex = +routeParams['id'];
+          }
+        });
+      }
+      
+      this.loadTotalQuestions();
+      this.loadQuestion();
+    });
+  }
+  
+  loadTotalQuestions(): void {
+    this.questionService.getTotalQuestions(this.examType).subscribe({
       next: (count) => {
         this.totalQuestions = count;
       },
       error: (err) => console.error('Erro ao obter total de questões:', err)
     });
-
-    this.route.params.subscribe(params => {
-      this.questionIndex = +params['id'];
-      this.loadQuestion();
-    });
   }
 
   loadQuestion(): void {
-    this.questionService.getQuestion(this.questionIndex).subscribe({
+    this.questionService.getQuestion(this.questionIndex, this.examType).subscribe({
       next: (question) => {
         this.question = question;
         this.selectedOptions = [];
@@ -91,7 +114,7 @@ export class QuestionComponent implements OnInit {
       return;
     }
 
-    this.questionService.submitAnswer(this.question.id_original_json, this.selectedOptions).subscribe({
+    this.questionService.submitAnswer(this.question.id_original_json, this.selectedOptions, this.examType).subscribe({
       next: (response) => {
         this.isAnswered = true;
         this.isCorrect = response.is_correct;
@@ -115,17 +138,27 @@ export class QuestionComponent implements OnInit {
   }
 
   nextQuestion(): void {
-    this.router.navigate(['/question', this.questionIndex + 1]);
+    this.router.navigate(['/question'], { 
+      queryParams: { 
+        exam_type: this.examType,
+        question_idx: this.questionIndex + 1 
+      } 
+    });
   }
 
   previousQuestion(): void {
     if (this.questionIndex > 0) {
-      this.router.navigate(['/question', this.questionIndex - 1]);
+      this.router.navigate(['/question'], { 
+        queryParams: { 
+          exam_type: this.examType,
+          question_idx: this.questionIndex - 1 
+        } 
+      });
     }
   }
 
   finishStudy(): void {
-    this.studySessionService.finishStudy().subscribe({
+    this.studySessionService.finishStudy(this.examType).subscribe({
       next: (session) => {
         this.router.navigate(['/session-results', session.id]);
       },
