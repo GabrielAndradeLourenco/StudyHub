@@ -1,0 +1,480 @@
+{
+  "exam_name": "AWS Certified Generative AI Developer - Professional AIP-C01",
+  "total_questions": 79,
+  "questions": [
+    {
+      "exam_id": 384112,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384112-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 1 discussion",
+      "question_id": "1"
+    },
+    {
+      "exam_id": 384102,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384102-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 2 discussion",
+      "question_id": "2"
+    },
+    {
+      "exam_id": 384113,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384113-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 3 discussion",
+      "question_id": "3"
+    },
+    {
+      "exam_id": 384114,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384114-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 4 discussion",
+      "question_id": "4"
+    },
+    {
+      "exam_id": 384107,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384107-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 5 discussion",
+      "question_id": "5"
+    },
+    {
+      "exam_id": 384108,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384108-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 6 discussion",
+      "question_id": "6"
+    },
+    {
+      "exam_id": 384109,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384109-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 7 discussion",
+      "question_id": "7"
+    },
+    {
+      "exam_id": 384110,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384110-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 8 discussion",
+      "question_id": "8"
+    },
+    {
+      "exam_id": 384105,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384105-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 9 discussion",
+      "question_id": "9"
+    },
+    {
+      "exam_id": 384104,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384104-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 10 discussion",
+      "question_id": "10"
+    },
+    {
+      "exam_id": 384106,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384106-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 11 discussion",
+      "question_id": "11"
+    },
+    {
+      "exam_id": 384103,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384103-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 12 discussion",
+      "question_id": "12"
+    },
+    {
+      "exam_id": 384239,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384239-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 13 discussion",
+      "question_id": "13"
+    },
+    {
+      "exam_id": 384243,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384243-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 14 discussion",
+      "question_id": "14"
+    },
+    {
+      "exam_id": 384230,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384230-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 15 discussion",
+      "question_id": "15"
+    },
+    {
+      "exam_id": 384244,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384244-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 16 discussion",
+      "question_id": "16"
+    },
+    {
+      "exam_id": 384221,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384221-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 17 discussion",
+      "question_id": "17"
+    },
+    {
+      "exam_id": 384241,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384241-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 18 discussion",
+      "question_id": "18"
+    },
+    {
+      "exam_id": 384228,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384228-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 19 discussion",
+      "question_id": "19"
+    },
+    {
+      "exam_id": 384237,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384237-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 20 discussion",
+      "question_id": "20"
+    },
+    {
+      "exam_id": 384231,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384231-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 21 discussion",
+      "question_id": "21"
+    },
+    {
+      "exam_id": 384229,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384229-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 22 discussion",
+      "question_id": "22"
+    },
+    {
+      "exam_id": 384223,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384223-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 23 discussion",
+      "question_id": "23"
+    },
+    {
+      "exam_id": 384236,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384236-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 24 discussion",
+      "question_id": "24"
+    },
+    {
+      "exam_id": 384224,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384224-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 25 discussion",
+      "question_id": "25"
+    },
+    {
+      "exam_id": 384225,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384225-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 26 discussion",
+      "question_id": "26"
+    },
+    {
+      "exam_id": 384238,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384238-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 27 discussion",
+      "question_id": "27"
+    },
+    {
+      "exam_id": 384226,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384226-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 28 discussion",
+      "question_id": "28"
+    },
+    {
+      "exam_id": 384240,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384240-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 29 discussion",
+      "question_id": "29"
+    },
+    {
+      "exam_id": 384227,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384227-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 30 discussion",
+      "question_id": "30"
+    },
+    {
+      "exam_id": 384233,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384233-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 31 discussion",
+      "question_id": "31"
+    },
+    {
+      "exam_id": 384242,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384242-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 32 discussion",
+      "question_id": "32"
+    },
+    {
+      "exam_id": 384232,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384232-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 33 discussion",
+      "question_id": "33"
+    },
+    {
+      "exam_id": 384245,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384245-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 34 discussion",
+      "question_id": "34"
+    },
+    {
+      "exam_id": 384222,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384222-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 35 discussion",
+      "question_id": "35"
+    },
+    {
+      "exam_id": 384234,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384234-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 36 discussion",
+      "question_id": "36"
+    },
+    {
+      "exam_id": 384235,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384235-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 37 discussion",
+      "question_id": "37"
+    },
+    {
+      "exam_id": 384246,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384246-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 38 discussion",
+      "question_id": "38"
+    },
+    {
+      "exam_id": 384260,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384260-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 39 discussion",
+      "question_id": "39"
+    },
+    {
+      "exam_id": 384259,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384259-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 40 discussion",
+      "question_id": "40"
+    },
+    {
+      "exam_id": 384292,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384292-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 41 discussion",
+      "question_id": "41"
+    },
+    {
+      "exam_id": 384249,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384249-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 42 discussion",
+      "question_id": "42"
+    },
+    {
+      "exam_id": 384269,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384269-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 43 discussion",
+      "question_id": "43"
+    },
+    {
+      "exam_id": 384248,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384248-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 44 discussion",
+      "question_id": "44"
+    },
+    {
+      "exam_id": 384278,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384278-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 45 discussion",
+      "question_id": "45"
+    },
+    {
+      "exam_id": 384252,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384252-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 46 discussion",
+      "question_id": "46"
+    },
+    {
+      "exam_id": 384281,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384281-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 47 discussion",
+      "question_id": "47"
+    },
+    {
+      "exam_id": 384290,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384290-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 48 discussion",
+      "question_id": "48"
+    },
+    {
+      "exam_id": 384273,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384273-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 49 discussion",
+      "question_id": "49"
+    },
+    {
+      "exam_id": 384250,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384250-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 50 discussion",
+      "question_id": "50"
+    },
+    {
+      "exam_id": 384285,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384285-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 52 discussion",
+      "question_id": "52"
+    },
+    {
+      "exam_id": 384270,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384270-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 53 discussion",
+      "question_id": "53"
+    },
+    {
+      "exam_id": 384282,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384282-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 54 discussion",
+      "question_id": "54"
+    },
+    {
+      "exam_id": 384267,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384267-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 55 discussion",
+      "question_id": "55"
+    },
+    {
+      "exam_id": 384286,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384286-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 56 discussion",
+      "question_id": "56"
+    },
+    {
+      "exam_id": 384291,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384291-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 57 discussion",
+      "question_id": "57"
+    },
+    {
+      "exam_id": 384277,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384277-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 58 discussion",
+      "question_id": "58"
+    },
+    {
+      "exam_id": 384264,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384264-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 59 discussion",
+      "question_id": "59"
+    },
+    {
+      "exam_id": 384272,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384272-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 64 discussion",
+      "question_id": "64"
+    },
+    {
+      "exam_id": 384287,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384287-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 65 discussion",
+      "question_id": "65"
+    },
+    {
+      "exam_id": 384262,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384262-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 66 discussion",
+      "question_id": "66"
+    },
+    {
+      "exam_id": 384271,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384271-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 67 discussion",
+      "question_id": "67"
+    },
+    {
+      "exam_id": 384283,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384283-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 68 discussion",
+      "question_id": "68"
+    },
+    {
+      "exam_id": 384247,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384247-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 70 discussion",
+      "question_id": "70"
+    },
+    {
+      "exam_id": 384288,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384288-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 71 discussion",
+      "question_id": "71"
+    },
+    {
+      "exam_id": 384255,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384255-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 72 discussion",
+      "question_id": "72"
+    },
+    {
+      "exam_id": 384258,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384258-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 73 discussion",
+      "question_id": "73"
+    },
+    {
+      "exam_id": 384275,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384275-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 74 discussion",
+      "question_id": "74"
+    },
+    {
+      "exam_id": 384284,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384284-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 75 discussion",
+      "question_id": "75"
+    },
+    {
+      "exam_id": 384253,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384253-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 76 discussion",
+      "question_id": "76"
+    },
+    {
+      "exam_id": 384254,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384254-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 77 discussion",
+      "question_id": "77"
+    },
+    {
+      "exam_id": 384274,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384274-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 78 discussion",
+      "question_id": "78"
+    },
+    {
+      "exam_id": 384257,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384257-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 79 discussion",
+      "question_id": "79"
+    },
+    {
+      "exam_id": 384265,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384265-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 80 discussion",
+      "question_id": "80"
+    },
+    {
+      "exam_id": 384251,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384251-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 81 discussion",
+      "question_id": "81"
+    },
+    {
+      "exam_id": 384276,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384276-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 82 discussion",
+      "question_id": "82"
+    },
+    {
+      "exam_id": 384280,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384280-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 83 discussion",
+      "question_id": "83"
+    },
+    {
+      "exam_id": 384293,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384293-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 84 discussion",
+      "question_id": "84"
+    },
+    {
+      "exam_id": 384256,
+      "url": "https://www.examtopics.com/discussions/amazon/view/384256-exam-aws-certified-generative-ai-developer-professional-aip/",
+      "title": "Exam AWS Certified Generative AI Developer - Professional AIP-C01 topic 1 question 85 discussion",
+      "question_id": "85"
+    }
+  ]
+}

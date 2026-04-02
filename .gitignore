@@ -11,3 +11,10 @@ __pycache__/
 
 # Outros
 .DS_Store
+
+# Scripts - arquivos temporários
+scripts/google-chrome-stable_current_amd64.deb
+
+# Data - arquivos muito grandes (manter apenas os processados necessários)
+data/questoes_base.json
+data/exams/raw/

@@ -58,6 +58,10 @@ AVAILABLE_EXAMS = {
     'security-specialty': {
         'name': 'AWS Certified Security - Specialty SCS-C02',
         'file': 'Questões/exams/questoes_processadas/AWS Certified Security - Specialty SCS-C02_questoes.json'
+    },
+    'generative-ai-developer': {
+        'name': 'AWS Certified Generative AI Developer - Professional AIP-C01',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified Generative AI Developer - Professional AIP-C01_questoes.json'
     }
 }
 
