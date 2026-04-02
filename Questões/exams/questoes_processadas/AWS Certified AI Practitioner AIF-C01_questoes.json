@@ -6860,6 +6860,165 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "235",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313022-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 235 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>A company wants to develop a solution that uses generative AI to create content for product advertisements, including sample images and slogans.<br/><br/>Select the correct model type from the following list for each action. Each model type should be selected one time.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image21.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "236",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313006-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 236 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company has created multiple ML models. The company needs a solution for storing, managing, and versioning the models.<br/><br/>Which AWS service or feature meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "AWS Audit Manager"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon SageMaker Model Monitor"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon SageMaker Model Registry"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon SageMaker Canvas"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "237",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313023-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 237 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn AI practitioner is building an ML model. The AI practitioner wants to provide model transparency and explainability to stakeholders.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Present the model Shapley values."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Provide the model accuracy measure."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Provide the model confusion matrix."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Provide a secure model inference endpoint."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "238",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313003-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 238 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is developing an ML application. The application must automatically group similar customers and products based on their characteristics. Which ML strategy should the company use to meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Unsupervised learning"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Supervised learning"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Reinforcement learning"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Semi-supervised learning"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "239",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313035-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 239 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA news agency publishes articles in English. The agency wants to make articles available in other languages.<br/><br/>Which solution meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Add Amazon Transcribe to the company’s website."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use the Amazon Translate real-time translation feature."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Add Amazon Personalize to the company’s website."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use the Amazon Textract real-time document processing feature."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "240",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313005-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 240 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA bank is building a chatbot to answer customer questions about opening a bank account. The chatbot will use public bank documents to generate responses. The company will use Amazon Bedrock and prompt engineering to improve the chatbot’s responses.<br/><br/>Which prompt engineering technique meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Complexity-based prompting"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Zero-shot prompting"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Few-shot prompting"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Directional stimulus prompting"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "241",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312972-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 241 discussion",
@@ -6955,6 +7114,75 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "244",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/312995-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 244 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using supervised learning to train an AI model on a small labeled dataset that is specific to a target task.<br/><br/>Which step of the foundation model (FM) lifecycle does this describe?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Fine-tuning"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Data selection"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Pre-training"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Evaluation"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "245",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/312997-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 245 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>A company is developing an AI application to help the company approve or deny personal loans. The application must follow the principles of responsible AI.<br/><br/>Select the correct responsible AI principle from the following list for each action. Select each responsible AI principle one time or not at all.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image23.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "246",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/312998-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 246 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is introducing a new feature for its application. The feature will refine the style of output messages. The company will fine-tune a large language model (LLM) on Amazon Bedrock to implement the feature.<br/><br/>Which type of data does the company need to meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Samples of only input messages"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Samples of only output messages"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Samples of pairs of input and output messages"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Separate samples of input and output messages"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "247",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312977-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 247 discussion",
@@ -6982,6 +7210,66 @@
             }
         ],
         "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "248",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313019-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 248 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA financial company wants to build workflows for human review of ML predictions. The company wants to define confidence thresholds for its use case and adjust the thresholds over time.<br/><br/>Which AWS service meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon Personalize"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon Augmented AI (Amazon A2I)"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon Inspector"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "AWS Audit Manager"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "249",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313009-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 249 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to develop an AI assistant for employees to query internal data.<br/><br/>Which AWS service will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon Rekognition"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon Textract"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon Lex"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon Q Business"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
         "num_answers_to_select": 1
     },
     {
@@ -7165,6 +7453,45 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "256",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313041-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 256 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA financial company is developing a generative AI application for loan approval decisions. The company needs the application output to be responsible and fair.<br/><br/>Which solution meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Review the training data to check for biases. Include data from all demographics in the training data."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use a deep learning model with many hidden layers."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Keep the model’s decision-making process a secret to protect proprietary algorithms."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Continuously monitor the model’s performance on a static test dataset"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "257",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313040-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 257 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>Select the correct AWS service or tool from the following list for each use case. Select each AWS service or tool one time or not at all.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image25.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "258",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312982-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 258 discussion",
@@ -7189,6 +7516,66 @@
                 "letra_raw": "D.",
                 "letra": "D",
                 "texto": "SageMaker Data Wrangler"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "259",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313011-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 259 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using AI to improve its services. The company needs to ensure that the AI system is fair and explainable. The company wants to require training for members of the AI system development team.<br/><br/>Which training will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Training on advanced coding skills"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Training on data privacy and encryption protocols"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Training on bias awareness and responsible AI"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Training on advanced ML algorithms"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "260",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313031-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 260 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company has an ML model. The company wants to know how the model makes predictions.<br/><br/>Which term refers to understanding model predictions?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Model interpretability"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Model training"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Model interoperability"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Model performance"
             }
         ],
         "resposta_sugerida_letra": "A",
@@ -7252,6 +7639,36 @@
             }
         ],
         "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "263",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313034-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 263 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using an Amazon Nova Canvas model to generate images. The model generates images successfully.<br/><br/>The company needs to prevent the model from including specific items in the generated images.<br/><br/>Which solution will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use a higher temperature value."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use a more detailed prompt."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use a negative prompt."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use another foundation model (FM)."
+            }
+        ],
+        "resposta_sugerida_letra": "C",
         "num_answers_to_select": 1
     },
     {
@@ -7324,6 +7741,45 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "267",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313042-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 267 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>A company is building an AI solution by using Amazon SageMaker AI. The company wants to use SageMaker AI features to facilitate application development.<br/><br/>Select the correct SageMaker AI feature from the following list for each use case. Select each feature one time.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image29.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "268",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313045-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 268 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is building a generative AI tool. The company will use internal documents to customize a foundation model (FM).<br/><br/>Which approach will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Classification"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Continued pre-training"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Distillation"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Regression"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "269",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312973-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 269 discussion",
@@ -7351,6 +7807,36 @@
             }
         ],
         "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "270",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313033-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 270 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA financial company uses a generative AI model to assign credit limits to new customers. The company wants to make the decision-making process of the model more transparent to its customers.<br/><br/>Which solution meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use a rule-based system instead of an ML model."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Apply explainable AI techniques to show customers which factors influenced the model’s decision."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Develop an interactive UI for customers and provide clear technical explanations about the system."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Increase the accuracy of the model to reduce the need for transparency."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
         "num_answers_to_select": 1
     },
     {
@@ -7384,6 +7870,195 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "272",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313000-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 272 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tWhich option is an example of unsupervised learning?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "A model that groups customers based on their purchase history"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "A model that classifies images as dogs or cats"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "A model that predicts a house’s price based on various features"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "A model that learns to play chess by using trial and error"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "273",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313025-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 273 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is evaluating several large language models (LLMs) for a text summarization task. The company needs to select a metric to evaluate the quality of the summaries that the LLMs generate.<br/><br/>Which metric will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Recall"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Area under the ROC curve (AUC)"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Recall-Oriented Understudy for Gisting Evaluation (ROUGE)"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Mean squared error (MSE)"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "274",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313016-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 274 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA research group wants to test different generative AI models to create research papers. The research group has defined a prompt and needs a method to assess the models’ output. The research group wants to use a team of scientists to perform the output assessments.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use automatic evaluation on Amazon Personalize."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use content moderation on Amazon Rekognition."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use model evaluation on Amazon Bedrock."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use sentiment analysis on Amazon Comprehend."
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "275",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313001-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 275 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>An ecommerce company is developing a generative AI solution to create personalized product recommendations for its application users. The company wants to track how effectively the AI solution increases product sales and user engagement in the application.<br/><br/>Select the correct business metric from the following list for each business goal. Each business metric should be selected one time.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image31.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "276",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313020-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 276 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn AI practitioner wants to evaluate ML models. The AI practitioner wants to provide explanations of model predictions to customers and stakeholders.<br/><br/>Which AWS service or feature will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon QuickSight"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon Comprehend"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "AWS Trusted Advisor"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon SageMaker Clarify"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "277",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313044-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 277 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tSentiment analysis is a subset of which broader field of AI?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Computer vision"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Robotics"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Natural language processing (NLP)"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Time series forecasting"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "278",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313026-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 278 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to set up private access to Amazon Bedrock APIs from the company’s AWS account. The company also wants to protect its data from internet exposure. Which solution meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use Amazon CloudFront to restrict access to the company’s private content."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use AWS Glue to set up data encryption across the company’s data catalog."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use AWS Lake Formation to manage centralized data governance and cross-account data sharing."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use AWS PrivateLink to configure a private connection between the company’s VPC and Amazon Bedrock."
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "279",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/313007-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 279 discussion",
@@ -7414,6 +8089,15 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "280",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313021-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 280 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>A company wants to improve multiple ML models.<br/><br/>Select the correct technique from the following list of use cases. Each technique should be selected one time or not at all.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image33.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "281",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312981-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 281 discussion",
@@ -7441,6 +8125,36 @@
             }
         ],
         "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "282",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313046-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 282 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to use an ML model to analyze customer reviews on social media. The model must determine if each review has a neutral, positive, or negative sentiment.<br/><br/>Which model evaluation strategy will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Open-ended generation"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Text summarization"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Machine translation"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Classification"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
         "num_answers_to_select": 1
     },
     {
@@ -7483,6 +8197,36 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "285",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313047-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 285 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn online learning company with large volumes of education materials wants to use enterprise search.<br/><br/>Which AWS service meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon Comprehend"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon Textract"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon Kendra"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon Personalize"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "286",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312994-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 286 discussion",
@@ -7513,12 +8257,192 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "287",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313037-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 287 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is training ML models on datasets. The datasets contain some classes that have more examples than other classes. The company wants to measure how well the model balances detecting and labeling the classes.<br/><br/>Which metric should the company use?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Accuracy"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Recall"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Precision"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "F1 score"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "288",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313010-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 288 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is analyzing financial transaction records. The company categorizes the records as either personal or business. The company inserts the categories into the transaction records.<br/><br/>Which data preparation step does this describe?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Data encoding"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Data labeling"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Data normalization"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Data balancing"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "289",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/312999-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 289 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to extract key insights from large policy documents to increase employee efficiency.<br/><br/>Which generative AI strategy meets this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Regression"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Clustering"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Summarization"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Classification"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "290",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313018-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 290 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using Amazon SageMaker to deploy a model that identifies if social media posts contain certain topics. The company needs to show how different input features influence model behavior.<br/><br/>Which SageMaker feature meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "SageMaker Canvas"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "SageMaker Clarify"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "SageMaker Feature Store"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "SageMaker Ground Truth"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "291",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312988-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 291 discussion",
         "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>An AI practitioner is determining the appropriate data type for various use cases.<br/><br/>Select the correct data type from the following list for each use case. Select each data type one time.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image37.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
         "opcoes": [],
         "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "292",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313030-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 292 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to assess internet quality in remote areas of the world. The company needs to collect internet speed data and store the data in Amazon RDS. The company will analyze internet speed variation throughout each day. The company wants to create an AI model to predict potential internet disruptions.<br/><br/>Which type of data should the company collect for this task?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Tabular data"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Text data"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Time series data"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Audio data"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "293",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313038-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 293 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to build an ML model to detect abnormal patterns in sensor data. The company does not have labeled data for training.<br/><br/>Which ML method will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Linear regression"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Classification"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Decision tree"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Autoencoders"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
         "num_answers_to_select": 1
     },
     {
@@ -7582,6 +8506,96 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "296",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313024-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 296 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tWhich scenario represents a practical use case for generative AI?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Using an ML model to forecast product demand"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Employing a chatbot to provide human-like responses to customer queries in real time"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Using an analytics dashboard to track website traffic and user behavior"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Implementing a rule-based recommendation engine to suggest products to customers"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "297",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313015-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 297 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using Amazon Bedrock for a generative AI solution. The solution must integrate a service with vector database storage and vector search capabilities.<br/><br/>Which AWS service will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon DynamoDB"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon OpenSearch Service"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon ElastiCache"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon Redshift"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "298",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313027-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 298 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA media streaming platform wants to provide movie recommendations to users based on the users’ account history.<br/><br/>Which AWS service meets these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon Polly"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon Comprehend"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon Transcribe"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon Personalize"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "299",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312970-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 299 discussion",
@@ -7609,6 +8623,156 @@
             }
         ],
         "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "301",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313048-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 301 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using large language models (LLMs) to develop online tutoring applications. The company needs to apply configurable safeguards to the LLMs. These safeguards must ensure that the LLMs follow standard safety rules when creating applications.<br/><br/>Which solution will meet these requirements with the LEAST effort?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon Bedrock playgrounds"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon SageMaker Clarify"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon Bedrock Guardrails"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon SageMaker Jumpstart"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "302",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313014-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 302 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is exploring Amazon Nova models in Amazon Bedrock. The company needs a multimodal model that supports multiple languages.<br/><br/>Which Nova model will meet these requirements MOST cost-effectively?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Nova Lite"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Nova Pro"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Nova Canvas"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Nova Reel"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "303",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313012-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 303 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is building a new generative AI chatbot. The chatbot uses an Amazon Bedrock foundation model (FM) to generate responses. During testing, the company notices that the chatbot is prone to prompt injection attacks.<br/><br/>What can the company do to secure the chatbot with the LEAST implementation effort?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Fine-tune the FM to avoid harmful responses."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use Amazon Bedrock Guardrails content filters and denied topics."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Change the FM to a more secure FM."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use chain-of-thought prompting to produce secure responses."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "304",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313032-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 304 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tWhat does inference refer to in the context of AI?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "The process of creating new AI algorithms"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "The use of a trained model to make predictions or decisions on unseen data"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "The process of combining multiple AI models into one model"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "The method of collecting training data for AI systems"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "305",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313004-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 305 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to build an AI assistant to provide responses to user queries. The AI assistant must evaluate specific data sources, query external APIs, generate response options, and compare and prioritize response options.<br/><br/>Which Amazon Bedrock feature or resource will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Prompt Management"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Response streaming"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Knowledge Bases"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Agents"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
         "num_answers_to_select": 1
     },
     {
@@ -7642,6 +8806,36 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "307",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313002-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 307 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is building a generative AI application on AWS. The application will help improve reading comprehension for students. The application must give students the ability to add illustrations to stories.<br/><br/>Which solution will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use Amazon Bedrock Stable Diffusion 3.5 Large to generate images based on text inputs."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use Amazon Polly to create an audiobook based on story texts."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use Amazon Rekognition to analyze image contents and detect text attributes."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Create a standard prompt template. Use Amazon Q Business to illustrate stories."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "308",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312984-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 308 discussion",
@@ -7669,6 +8863,54 @@
             }
         ],
         "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "309",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313008-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 309 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>Select and order the steps from the following list to correctly describe the ML lifecycle for a new custom model. Select each step one time.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image41.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "310",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313043-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 310 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company acquires International Organization for Standardization (ISO) accreditation to manage AI risks and to use AI responsibly.<br/><br/>What does this accreditation reflect about the company?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "All members of the company are ISO certified."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "All AI systems that the company uses are ISO certified."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "All AI application team members are ISO certified."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "The company’s development framework is ISO certified."
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "311",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/312996-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 311 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>Select the correct prompt engineering technique from the following list for each description. Select each prompt engineering technique one time or not at all.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image43.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
         "num_answers_to_select": 1
     },
     {
@@ -7702,6 +8944,45 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "313",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313013-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 313 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>A company periodically updates its product database by manually uploading digital product guides. The product guides contain text and images. The company wants to automate this task by using generative AI.<br/><br/>Select and order the steps from the following list to automate the database update task by using generative AI. Select each step one time.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image45.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "314",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313028-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 314 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company has guidelines for data storage and deletion.<br/><br/>Which data governance strategy does this describe?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Data de-identification"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Data quality standards"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Data retention"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Log storage"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "315",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312965-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 315 discussion",
@@ -7732,6 +9013,36 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "316",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313039-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 316 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn AI practitioner is writing software code. The AI practitioner wants to quickly develop a test case and create documentation for the code.<br/><br/>Which solution will meet these requirements with the LEAST effort?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Upload the code to an online coding assistant."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Develop an application to use foundation models (FMs)."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use Amazon Q Developer in an integrated development environment (IDE)."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Research and write test cases. Then, create test cases and add documentation."
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "317",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/312990-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
         "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 317 discussion",
@@ -7759,6 +9070,1033 @@
             }
         ],
         "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "318",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/313029-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 318 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn AI practitioner has trained a model on a training dataset. The model performs well on the training data. However, the model does not perform well on evaluation data.<br/><br/>What is the MOST likely cause of this issue?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "The model is underfit."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "The model requires prompt engineering."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "The model is biased."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "The model is overfit."
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "319",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316403-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 319 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to develop an interpretable ML model to assess the risk of loan applications.<br/><br/>Which type of ML model or algorithm will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Deep learning model"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Logistic regression model"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "K-means algorithm"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Random cut forest algorithm"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "320",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316402-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 320 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company stores customer personally identifiable information (PII) data. The company must store the PII data within the company's AWS Region.<br/><br/>Which aspect of governance does this describe?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Data mining"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Data residency"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Pre-training bias"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Geolocation routing"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "321",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316395-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 321 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to implement a generative AI solution to improve its marketing operations. The company wants to increase its revenue in the next 6 months.<br/><br/>Which approach will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Immediately start training a custom FM by using the company's existing data."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Conduct stakeholder interviews to refine use cases and set measurable goals."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Implement a prebuilt AI assistant solution and measure its impact on customer satisfaction."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Analyze industry AI implementations and replicate the most successful features."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "322",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316404-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 322 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA healthcare company wants to create a model to improve disease diagnostics by analyzing patient voices. The company has recorded hundreds of patient voices for this project.<br/><br/>The company is currently filtering voice recordings according to duration and language.<br/><br/>Which phase of the ML lifecycle describes the current project phase?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Data collection"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Data preprocessing"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Feature engineering"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Model training"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "323",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316401-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 323 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using Amazon Bedrock to build an AI assistant. The AI assistant helps customers find relevant products by making suggestions. However, the AI assistant's responses are often generic and irrelevant. The company wants to use prompt engineering to improve the AI assistant's responses.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use few-shot prompting to add domain-specific context and explicit instructions."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use chain-of-thought prompting with hidden reasoning steps to ignore explicit domain instructions."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Modify the AI assistant's conversational style to use more formal language and include technical product specifications."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use zero-shot prompting to augment retrieval from a product database."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "324",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316399-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 324 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company runs a website for users to make travel reservations. The company wants an AI solution to help create consistent branding for hotels on the website.<br/><br/>The AI solution needs to generate hotel descriptions for the website in a consistent writing style.<br/><br/>Which AWS service will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon Comprehend"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon Personalize"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon Rekognition"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon Bedrock"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "325",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316398-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 325 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using a pre-trained large language model (LLM). The LLM must perform multiple tasks that require specific domain knowledge. The LLM does not have information about several technical topics in the domain. The company has unlabeled data that the company can use to fine-tune the model.<br/><br/>Which fine-tuning method will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Full training"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Supervised fine-tuning"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Continued pre-training"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Retrieval Augmented Generation (RAG)"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "326",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316406-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 326 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to classify images of different objects based on custom features extracted from a dataset.<br/><br/>Which solution will meet this requirement with the LEAST development effort?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use traditional ML algorithms with custom features extracted from the dataset."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use a pre-trained deep learning model. Fine-tune the model on the dataset."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use a generative adversarial network (GAN) model to classify the images."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use a support vector machine (SVM) with manually engineered features for classification."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "327",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316405-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 327 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to customize Amazon Bedrock foundation models (FMs) to improve an application's performance. The company must prepare a training dataset for text-to-text model fine-tuning.<br/><br/>Which dataset format should the company use to train the models?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "A JSON file with labeled data"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "A CSV file with unlabeled data"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "A CSV file with tabular data"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "A text file with unlabeled data"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "328",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316396-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 328 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>A company wants to build generative AI applications by using Amazon Bedrock. The company wants to minimize development effort.<br/><br/>Select and order the model development techniques from the following list from the LEAST development effort to the MOST development effort. Each model development technique should be selected one time.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image47.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "329",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316393-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 329 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn airline company wants to use a generative AI model to convert a flight booking system from one coding language into another coding language. The company must select a model for this task.<br/><br/>Which criteria should the company use to select the correct generative AI model for this task?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Syntax, semantic understanding, and code optimization capabilities"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Code generation speed and error handling capabilities"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Ability to generate creative content"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Model size and resource requirements"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "330",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316397-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 330 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn AI practitioner is using Amazon Bedrock Prompt Management to create a reusable prompt. The prompt must be able to interact with external services by calling an external API.<br/><br/>Which solution will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use special tokens."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use a tools configuration."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use prompt variables."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use a stop sequence."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "331",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316394-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 331 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to use Amazon Q Business for its data. The company needs to ensure the security and privacy of the data.<br/><br/>Which combination of steps will meet these requirements? (Choose two.)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Enable AWS Key Management Service (AWS KMS) keys for the Amazon Q Business Enterprise index."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Set up cross-account access to the Amazon Q index."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Configure Amazon Inspector for authentication."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Allow public access to the Amazon Q index."
+            },
+            {
+                "letra_raw": "E.",
+                "letra": "E",
+                "texto": "Configure AWS Identity and Access Management (IAM) for authentication."
+            }
+        ],
+        "resposta_sugerida_letra": "AE",
+        "num_answers_to_select": 2
+    },
+    {
+        "id_original_json": "332",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316408-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 332 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company uses Amazon Comprehend to analyze customer feedback. A customer has several unique trained models. The company uses Comprehend to assign each model an endpoint. The company wants to automate a report on each endpoint that is not used for more than 15 days.<br/><br/>Which service will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "AWS Trusted Advisor"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon CloudWatch"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "AWS CloudTrail"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "AWS Config"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "333",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316400-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 333 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company plans to use a generative AI model to provide real-time service quotes to users.<br/><br/>Which criteria should the company use to select the correct model for this use case?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Model size"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Training data quality"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "General-purpose use and high-powered GPU availability"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Model latency and optimized inference speed"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "334",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316407-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 334 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn AI practitioner must fine-tune an open source large language model (LLM) for text categorization. The dataset is already prepared.<br/><br/>Which solution will meet these requirements with the LEAST operational effort?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Create a custom model training job in PartyRock on Amazon Bedrock."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use Amazon SageMaker JumpStart to create a training job."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use a custom script to run an Amazon SageMaker AI model training job."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Create a Jupyter notebook on an Amazon EC2 instance. Use the notebook to train the model."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "335",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/384028-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 335 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tWhat is the primary purpose of system prompts in generative AI applications?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "To authenticate user credentials to access responses from AI"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "To generate random responses by AI"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "To define the role and behavioral boundaries of AI"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "To compress output data from AI"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "336",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385078-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 336 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using a large language model (LLM) to create a generative AI assistant. The company must choose an AI technique to ensure that the AI assistant generates the most factually correct responses. The company selects the Retrieval Augmented Generation (RAG) technique.<br/><br/>Which limitation of LLMs is the company trying to reduce?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Hallucinations"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Security"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Nondeterminism"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Interpretability"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "337",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385079-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 337 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is building a job recommendation system based on job posting data and job seeker user profiles. The system shows bias in job recommendations based on gender for user profiles that are otherwise equivalent.<br/><br/>Which principle should the company follow to address this issue, according to AWS best practices for responsible AI?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Governance"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Explainability"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Controllability"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Fairness"
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "338",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/382861-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 338 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants its AI models to be transparent and explainable.<br/><br/>Which combination of Amazon SageMaker AI features will meet these requirements? (Choose two.)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "SageMaker Model Cards"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "SageMaker Pipelines"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "SageMaker Clarity"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "SageMaker Model Monitor"
+            },
+            {
+                "letra_raw": "E.",
+                "letra": "E",
+                "texto": "SageMaker Debugger"
+            }
+        ],
+        "resposta_sugerida_letra": "AC",
+        "num_answers_to_select": 2
+    },
+    {
+        "id_original_json": "339",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385080-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 339 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is developing a product recommendation application by using a generative AI model. The company must minimize the application’s environmental impact.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Optimize the deployed model architecture to prioritize computational efficiency during model inference."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Adopt a distributed inference approach by using multiple smaller models across multiple Availability Zones."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Adopt a hybrid strategy by deploying the model on premises and storing the data on AWS."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Deploy multiple models and use a dynamic model selection mechanism that queries different models randomly."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "340",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385081-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 340 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company uses Amazon SageMaker AI to generate article summaries in multiple languages. The company needs a metric to evaluate the quality of the summary translations in multiple languages.<br/><br/>Which evaluation metric will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Recall-Oriented Understudy for Gisting Evaluation (ROUGE)"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Bilingual evaluation understudy (BLEU)"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Area Under the ROC Curve (AUC)"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Precision"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "341",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385082-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 341 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA research company is growing microbiological cultures. The company captures images of the cultures without any prior labeled data about growth areas. The company needs to identify the regions of the images that show culture growth.<br/><br/>Which ML technique will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Logistic regression"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Decision tree"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Clustering"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Dimensionality reduction"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "342",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385083-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 342 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company that streams media is selecting an Amazon Nova foundation model (FM) to process documents and images. The company is comparing Nova Micro and Nova Lite. The company wants to minimize costs.<br/><br/>Which model characteristics should the company consider to meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Nova Micro uses transformer-based architectures. Nova Lite does not use transformer-based architectures."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Nova Micro supports only text data. Nova Lite is optimized for numerical data."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Nova Micro supports only text. Nova Lite supports images, videos, and text."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Nova Micro runs only on CPUs. Nova Lite runs only on GPUs."
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "343",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385084-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 343 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company stores customer data in OpenSearch. The company wants an AI solution to retrieve specific customer information from the stored data. The AI solution must convert queries into data requests and generate CSV files from the results. Then, the AI solution must upload the CSV files to Amazon S3.<br/><br/>Which solution will meet these requirements in the MOST operationally-efficient way?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Create an AI agent to perform the required steps."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use a single foundation model (FM) with few-shot prompting."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Create a software application without using AI to perform the required steps."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Train a decision tree model to generate a solution based on user questions."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "344",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385085-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 344 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tWhich foundation model (FM) in Amazon Bedrock can be fine-tuned for text, image, and video comprehension?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon Nova Pro"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon Titan Multimodal Embeddings G1"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon Titan Text G1 - Express"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon Nova Micro"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "345",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385086-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 345 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to generate synthetic data responses for multiple prompts from a large volume of data. The company wants to use an API method to generate the responses. The company does not need to generate the responses immediately.<br/><br/>Which solution meets these requirements with the LEAST development effort?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Input the prompts into the model. Generate responses by using real-time inference."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use Amazon Bedrock batch inference. Generate responses asynchronously."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use Amazon Bedrock agents. Build an agent system to process the prompts recursively."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use AWS Lambda functions to automate the task. Submit one prompt after another and store each response."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "346",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385087-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 346 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tWhich statement accurately describes Retrieval Augmented Generation (RAG)?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "A process that uses large amounts of new data to train large language models (LLMs) to improve LLM performance"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "A process by which large language models (LLMs) reference external authoritative knowledge bases to enhance the relevance and accuracy of LLM responses without re-training"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "A process that limits large language models (LLMs) exclusively to their original training data to improve response speed for business applications without re-training"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "A process that focuses on language translation tasks for businesses that operate in multiple countries"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "347",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385088-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 347 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company must comply with regulatory standards to develop and use trustworthy AI management solutions.<br/><br/>Which approach will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Optimize model inference time by using high-powered GPUs for faster processing."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Ensure that each AI solution is developed only by technical experts. Do not involve other stakeholders."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Constrain transparency and user access to each model’s decision-making process."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Ensure fairness, transparency, accountability, and security throughout the lifecycle of each AI solution."
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "348",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/384029-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 348 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company has trained a foundation model (FM) to perform a specific task. The company needs to fine-tune the FM to perform a different but related task.<br/><br/>Which fine-tuning method will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Hyperparameter tuning"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Pre-training"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Transfer learning"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Reinforcement learning"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "349",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385089-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 349 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tAn AI practitioner is developing a prompt for large language models (LLMs) in Amazon Bedrock. The AI practitioner must ensure that the prompt works across all Amazon Bedrock LLMs.<br/><br/>Which characteristic can differ across the LLMs?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Maximum token count"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "On-demand inference parameter support"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "The ability to control model output randomness"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Compatibility with Amazon Bedrock Guardrails"
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "350",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385090-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 350 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>A company wants to use ML to increase customer engagement and sales. The company has collected a large dataset that includes customer demographics, purchase history, browsing patterns, and product ratings.<br/><br/>Select the correct ML approach from the following list for each use case. Select each ML approach one time.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image49.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "351",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385091-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 351 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHOTSPOT<br/> -<br/><br/>A company wants to build a new ML solution. The company already has data. The company needs to understand the ML lifecycle before building the solution.<br/><br/>Select and order the steps from the following list to correctly describe the ML lifecycle. Select each step one time.<br/><br/><img src=\"https://img.examtopics.com/aws-certified-ai-practitioner-aif-c01/image51.png\" style=\"max-width:100%;;height:auto\"/>\n</p>",
+        "opcoes": [],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "352",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/382712-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 352 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company wants to integrate an AI solution to contact emergency services within 30 seconds of vehicle crash detection. The company wants to use a pre-trained model without additional training.<br/><br/>Which factor should the company prioritize when selecting a model to meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Model customization"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Model size"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Model cost"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Model temperature"
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "353",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385092-exam-aws-certified-ai-practitioner-aif-c01-topic-1-question/",
+        "titulo_original": "Exam AWS Certified AI Practitioner AIF-C01 topic 1 question 353 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company is using Amazon Q Business to create an AI assistant. The company needs to restrict user interactions with the AI assistant to company-approved topics.<br/><br/>Which feature will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Amazon Q Business Enterprise index"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Amazon Q Business Starter index"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Amazon Q Business application guardrails"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Amazon Q index cross-account access"
+            }
+        ],
+        "resposta_sugerida_letra": "C",
         "num_answers_to_select": 1
     }
 ]

@@ -6645,6 +6645,96 @@
         "num_answers_to_select": 1
     },
     {
+        "id_original_json": "217",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/305566-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 217 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company stores sensitive data in an Amazon Redshift table. The company needs to give specific users the ability to access the sensitive data. The company must not create duplication in the data.<br/><br/>Customer support users must be able to see the last four characters of the sensitive data. Audit users must be able to see the full value of the sensitive data. No other users can have the ability to access the sensitive information.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Create a dynamic data masking policy to allow access based on each user role. Create IAM roles that have specific access permissions. Attach the masking policy to the column that contains sensitive data."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Enable metadata security on the Redshift cluster. Create IAM users and IAM roles for the customer support users and the audit users. Grant the IAM users and IAM roles permissions to view the metadata in the Redshift cluster."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Create a row-level security policy to allow access based on each user role. Create IAM roles that have specific access permissions. Attach the security policy to the table."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Create an AWS Glue job to redact the sensitive data and to load the data into a new Redshift table."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "218",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/305567-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 218 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA data engineer uses AWS Lake Formation to manage access to data that is stored in an Amazon S3 bucket. The data engineer configures an AWS Glue crawler to discover data at a specific file location in the bucket, s3://examplepath. The crawler execution fails with the following error: “The S3 location: s3://examplepath is not registered.”<br/><br/>The data engineer needs to resolve the error.<br/><br/>Which solution will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Attach an appropriate IAM policy to the IAM role of the AWS Glue crawler to grant the crawler permission to read the S3 location."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Register the S3 location in Lake Formation to allow the crawler to access the data."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Create a new AWS Glue database. Assign the correct permissions to the database for the crawler."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Configure the S3 bucket policy to allow cross-account access."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "219",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/304583-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 219 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company built a data lake and a data warehouse on AWS. The company wants to implement a data catalog to enhance the current data storage solutions. The company wants to have the capability to add business metadata and glossary information to the data catalog for every asset.<br/><br/>Which solution will meet these requirements with the LEAST operational overhead?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use AWS Glue Catalog. Create a user table for the business glossary. Use the AWS Glue API to change table properties to add business metadata. Create a web application to access the metadata."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use an Apache Hive metastore. Create a user table for the business glossary. Use the ALTER TABLE command to change table properties to add business metadata. Create a web application to access the metadata."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use Amazon DataZone. Create the business glossaries. Create metadata forms. Use the Amazon DataZone data portal to access the metadata."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use Amazon OpenSearch Service. Create an index for the business glossary. Create a second index for the business metadata. Use the OpenSearch Service dashboard to access the metadata."
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
         "id_original_json": "220",
         "url_original": "https://www.examtopics.com/discussions/amazon/view/305095-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
         "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 220 discussion",
@@ -7337,6 +7427,586 @@
             }
         ],
         "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "244",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/315497-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 244 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA data engineer is configuring an AWS Glue Apache Spark extract, transform, and load (ETL) job. The job contains a sort-merge join of two large and equally sized DataFrames.<br/><br/>The job is failing with the following error: No space left on device.<br/><br/>Which solution will resolve the error?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use the AWS Glue Spark shuffle manager."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Deploy are Amazon Elastic Block Store (Amazon EBS) volume for the job to use."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Convert the sort-merge join in the job to be a broadcast join."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Convert the DataFrames to DynamicFrames, and perform a DynamicFrame join in the job."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "245",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316742-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 245 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company needs to implement a workflow to process transactions. Each transaction goes through multiple levels of validation. Each validation level depends on the preceding validation level.<br/><br/>The workflow must either process or reject each transaction within 24-hours. The workflow must run for less than 24 hours total.<br/><br/>Which solution will meet these requirements with the LEAST operational cost?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Create a standard workflow in AWS Step Functions. Implement a Wait for Callback pattern to wait for the validation steps to finish."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Create an express workflow in AWS Step Functions. Implement a Wait for Callback pattern to wait for the validation steps to finish."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use AWS Lambda functions to implement the workflow. Use Amazon EventBridge to invoke the validation steps."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use Amazon Managed Workflows for Apache Airflow (Amazon MWAA) to implement the workflow."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "248",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316748-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 248 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company processes 500 GB of audience and advertising data daily, storing CSV files in Amazon S3 with schemas registered in AWS Glue Data Catalog. They need to convert these files to Apache Parquet format and store them in an S3 bucket.<br/><br/>The solution requires a long-running workflow with 15 GiB memory capacity to process the data concurrently, followed by a correlation process that begins only after the first two processes complete.<br/><br/>Which solution will meet these requirements with the LEAST operational overhead?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use Amazon Managed Workflows for Apache Airflow (Amazon MWAA) to orchestrate the workflow by using AWS Glue. Configure AWS Glue to begin the third process after the first two processes have finished."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use Amazon EMR to run each process in the workflow. Create an Amazon Simple Queue Service (Amazon SQS) queue to handle messages that indicate the completion of the first two processes. Configure an AWS Lambda function to process the SQS queue by running the third process."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use AWS Glue workflows to run the first two processes in parallel. Ensure that the third process starts after the first two processes have finished."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use AWS Step Functions to orchestrate a workflow that uses multiple AWS Lambda functions. Ensure that the third process starts after the first two processes have finished."
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "249",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/315500-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 249 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company uses an organization in AWS Organizations to manage multiple AWS accounts. The company uses an enhanced fanout data stream in Amazon Kinesis Data Streams to receive streaming data from multiple producers. The company runs the data stream in an account named Account A. The company wants to use an AWS Lambda function in an account named Account В to process the data from the data stream. The company creates a Lambda execution role in Account В that has permissions to access data from the data stream in Account A.<br/><br/>What additional step must the company take to meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Create a service control policy (SCP) to grant the data stream read access to the cross-account Lambda execution role. Attach the SCP to Account A."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Add a resource-based policy to the data stream to allow read access for the cross-account Lambda execution role."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Create a service control policy (SCP) to grant the data stream read access to the cross-account Lambda execution role. Attach the SCP to Account B."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Add a resource-based policy to the cross-account Lambda function to grant the data stream read access to the function."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "250",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/315501-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 250 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company needs to use Amazon Athena to analyze data that is in an Amazon S3 bucket. A data engineer needs to configure AWS Glue table partitions for year, month, and day. The data engineer needs to create the partitions every day to adjust to schema changes in the data.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use AWS Glue DataBrew to create the partitions for the AWS Glue table."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use an AWS Lambda function to create the partitions for the AWS Glue table."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Set partition projection properties for the AWS Glue table."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Configure an AWS Glue crawler to run on a set schedule."
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "255",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316744-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 255 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA data engineer is building a solution to detect sensitive information that is stored in a data lake across multiple Amazon S3 buckets. The solution must detect personally identifiable information (PII) that is in a proprietary data format.<br/><br/>Which solution will meet these requirements with the LEAST operational overhead?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use the AWS Glue Detect PII transform with specific patterns."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use Amazon Made with managed data identifiers."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use an AWS Lambda function with custom regular expressions."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use Amazon Athena with a SQL query to match the custom formats."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "257",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316747-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 257 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA ride-sharing company stores records for all rides in an Amazon DynamoDB table. The table includes the following columns and types of values:<br/><br/><img src=\"https://img.examtopics.com/aws-certified-data-engineer-associate-dea-c01/image3.png\" style=\"max-width:100%;;height:auto\"/><br/><br/>The table currently contains billions of items. The table is partitioned by RideID and uses TripStartTime as the sort key. The company wants to use the data to build a personal interface to give drivers the ability to view the rides that each driver has completed, based on RideStatus. The solution must access the necessary data without scanning the entire table.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Create a local secondary index (LSI) on DriverID."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Create a global secondary index (GSI) that uses RiderID as the partition key and RideStatus as the sort key."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Create a global secondary index (GSI) that uses DriverID as the partition key and RideStatus as the sort key."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Create a filter expression that uses RiderID and RideStatus."
+            }
+        ],
+        "resposta_sugerida_letra": "C",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "258",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/315508-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 258 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company stores information about its subscribers in an Amazon S3 bucket. The company runs an analysis every time a subscriber ends their subscription. The company uses AWS Lambda functions to respond to events from the S3 bucket by performing analyses.<br/><br/>The Lambda functions clean data from the S3 bucket and initiate an AWS Glue workflow. The Lambda functions have 128 MB of memory and 512 MB of ephemeral storage. The Lambda functions have a timeout of 15 seconds.<br/><br/>All three functions successfully finish running. However, CPU usage is often near 100%, which causes slow performance. The company wants to improve the performance of the functions and reduce the total runtime of the pipeline.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Increase the memory of the Lambda functions to 512 MB."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Increase the number of retries by using the Maximum Retry Attempts setting."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Configure the Lambda functions to run in the company's VPC."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Increase the timeout value for the Lambda functions from 15 seconds to 30 seconds."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "259",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316746-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 259 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company uses a data stream in Amazon Kinesis Data Streams to collect transactional data from multiple sources. The company uses an AWS Glue extract, transform, and load (ETL) pipeline to look for outliers in the data from the stream. When the workflow detects an outlier, it sends a notification to an Amazon Simple Notification Service (Amazon SNS) topic. The SNS topic initiates a second workflow to retrieve logs for the outliers and stores the logs in an Amazon S3 bucket.<br/><br/>The company experiences delays in the notifications to the SNS topic during periods when the data stream is processing a high volume of data. When the company examines Amazon CloudWatch logs, the company notices a high value for the glue.driver.BlockManager.disk.diskSpaceUsed_MB metric when the traffic is high. The company must resolve this issue.<br/><br/>Which solution will meet this requirement with the LEAST operational effort?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Increase the number of data processing units (DPUs) in AWS Glue ETL jobs."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use Amazon EMR to manage the ETL pipeline instead of AWS Glue."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use AWS Step Functions to orchestrate a parallel workflow state."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Enable auto scaling for the AWS Glue ETL jobs."
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "260",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316743-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 260 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company has a data processing pipeline that runs multiple SQL queries in sequence against an Amazon Redshift cluster. The company merges with a second company. The original company modifies a query that aggregates sales revenue data to join sales tables from both companies. The sales table for the first company is named Table S1. The sales table for the second company is named Table S2. Table S1 contains 10 billion records. Table S2 contains 900 million records.<br/>The query becomes slow after the modification. A data engineer must improve the query performance.<br/><br/>Which solutions will meet these requirements? (Choose two.)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use the KEY distribution style for both sales tables. Select a low cardinality column to use for the join."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use the KEY distribution style for both sales tables. Select a high cardinality column to use for the join."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use the EVEN distribution style for Table S1. Use the ALL distribution style for Table S2."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use the Amazon Redshift query optimizer to review and select optimizations to implement."
+            },
+            {
+                "letra_raw": "E.",
+                "letra": "E",
+                "texto": "Use Amazon Redshift Advisor to review and select optimizations to implement."
+            }
+        ],
+        "resposta_sugerida_letra": "D",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "261",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/316745-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 261 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA gaming company uses AWS Glue to perform read and write operations on Apache Iceberg tables for real-time streaming data. The data in the Iceberg tables is in Apache Parquet format. The company is experiencing slow query performance.<br/><br/>Which solutions will improve query performance? (Choose two.)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use AWS Glue Data Catalog to generate column-level statistics for the Iceberg tables on a schedule."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use AWS Glue Data Catalog to automatically compact the Iceberg tables."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use AWS Glue Data Catalog to automatically optimize indexes for the Iceberg tables."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use AWS Glue Data Catalog to enable copy-on-write for the Iceberg tables."
+            },
+            {
+                "letra_raw": "E.",
+                "letra": "E",
+                "texto": "Use AWS Glue Data Catalog to generate views for the Iceberg tables."
+            }
+        ],
+        "resposta_sugerida_letra": "AB",
+        "num_answers_to_select": 2
+    },
+    {
+        "id_original_json": "262",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/382561-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 262 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA data engineer at a company is optimizing extract, transform, and load (ETL) workflows. The current architecture uses Amazon EMR and Apache Spark for large-scale transformations and AWS Glue for other ETL tasks. The workflows load processed data into an Amazon S3 based data lake.<br/><br/>The company wants to move to a fully managed serverless solution that can orchestrate multiple ETL jobs and automate execution. The new solution must continue to use Spark to process data. The company needs to orchestrate and automate the ETL workflows with minimal manual intervention.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Migrate all ETL jobs to AWS Glue. Use AWS Glue workflows to orchestrate the pipeline."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Configure AWS Step Functions and Amazon EventBridge to orchestrate and invoke ETL workflows in AWS Glue and Amazon EMR."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Configure AWS Lambda functions to process Amazon S3 event notifications for data transformation tasks when new data is uploaded."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use Amazon Managed Workflows for Apache Airflow automatic scheduling to orchestrate the Spark-based ETL jobs."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "265",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/382556-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 265 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company needs to aggregate and filter a large amount of streaming data in real-time with low latency. The company needs to store the data in Amazon S3 for analysis.<br/><br/>Which solution will meet these requirements in the MOST operationally efficient way?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use Amazon Kinesis Data Streams with provisioned capacity and AWS Lambda functions to perform custom transformations and to integrate with Amazon S3."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Use Amazon Data Firehose with built-in data transformations. Deliver the data directly to Amazon S3."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use Amazon Kinesis Data Streams and Amazon Managed Service for Apache Flink to perform complex processing and to integrate with Amazon S3."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Use Amazon Data Firehose and AWS Lambda functions to perform custom transformations and to deliver the data to Amazon S3."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "268",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/382472-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 268 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA retail company stores point-of-sale transaction data in an Amazon RDS for MySQL database. The company maintains historical sales analytics in Amazon Redshift. The company needs to create daily reports that combine the current day's transactions with historical sales patterns for trend analysis. The company requires a solution that provides near real-time insights while minimizing data transfer costs and maintenance overhead.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Configure AWS Database Migration Service (AWS DMS) to continuously replicate data from RDS for MySQL to Amazon Redshift. Use Redshift queries to create consolidated reports."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Implement Amazon Redshift federated queries to directly access RDS for MySQL data and join it with existing Redshift tables in a single query."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Use AWS Glue to create an extract, transform, and load (ETL) pipeline that runs every hour to copy incremental data from RDS for MySQL to Amazon Redshift. Generate reports."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Export RDS for MySQL data to an Amazon S3 bucket on a regular schedule. Use the COPY command to load the data into Amazon Redshift staging tables. Join the data with historical data."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "279",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/382564-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 279 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company needs to optimize storage costs for an Amazon S3 bucket. The S3 bucket receives 10 million objects every day. The objects range in size from 2 KB to 5 MB. The objects need to be immediately accessible for the first 60 days. Users access objects infrequently from 61 to 180 days. The objects must be accessible within an hour from 181 to 365 days. The company can delete the objects after 365 days.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use S3 Intelligent-Tiering to automatically transition objects. Select the Archive Access tier for Intelligent-Tiering. Configure an S3 bucket policy to expire objects that are older than 365 days."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Create an S3 Lifecycle policy to move objects. Configure the policy to move objects from S3 Standard to S3 Standard-Infrequent Access (S3 Standard-IA) after 60 days. Move the objects to S3 Glacier Flexible Retrieval after 180 days. Expire objects after 365 days."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Enable S3 Inventory. Use a daily inventory report to configure an S3 Batch Operations job that moves objects from S3 Standard to S3 Standard-Infrequent Access (S3 Standard-IA) after 60 days. Move objects to S3 Glacier Flexible Retrieval after 180 days. Expire objects after 365 days."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Enable S3 Inventory. Run an AWS Lambda function each day to fetch an inventory report and move objects from S3 Standard to S3 Standard-Infrequent Access (S3 Standard-IA) after 60 days. Move objects to S3 Glacier Flexible Retrieval after 180 days. Expire objects after 365 days."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "281",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/382569-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 281 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company runs a multi-tenant Amazon EMR cluster on Amazon EC2 instances. Multiple teams perform interactive query analyses and data transformations on the data in the EMR cluster. The teams can access the cluster only through EMR Studio workspaces and EMR steps.<br/><br/>The teams need to use EMR steps to run Apache Spark jobs to fetch data from an Amazon DynamoDB table. The DynamoDB table contains confidential data that must be accessible to only one specific team. The company needs to ensure that only the appropriate team can access the confidential data in the EMR cluster.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Set up runtime roles for EMR steps."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Set up AWS Lake Formation permissions."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Set up IAM roles for EMR File System (EMRFS) requests."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Set up a DynamoDB resource-based policy."
+            }
+        ],
+        "resposta_sugerida_letra": "A",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "282",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/382565-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 282 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company stores Apache Parquet files in an Amazon S3 data lake. The data lake receives thousands of files from multiple sources every hour. The files range in size from 50 KB to 100 KB.<br/><br/>The company is evaluating the implementation of Apache Iceberg tables for the data lake. The company is using AWS Glue Data Catalog as part of the evaluation. The company needs a solution to optimize query performance in Iceberg. The solution must ensure that Iceberg table performance does not degrade when more files are added over time.<br/><br/>Which solution will meet these requirements?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Use an AWS Glue job to compact the files into a standard size of 512 MB at the end of each day. Run an AWS Glue crawler to update the Data Catalog."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Configure the Data Catalog to automatically compact the files every minute."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Configure Iceberg table properties to enable automatic compaction based on thresholds for file size and the number of files."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Implement a partition strategy in Amazon S3. Run an AWS Glue crawler to update the Data Catalog every 5 minutes."
+            }
+        ],
+        "resposta_sugerida_letra": "B",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "294",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/385207-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 294 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tTwo data engineering teams use separate AWS accounts. Both teams request access to the same datashare in an Amazon Redshift cluster that is in a third AWS account. The datashare is named salesshare.<br/><br/>A data engineer must use the Amazon Redshift SQL interface to grant both data engineering teams' access to the datashare.<br/><br/>Which command or commands will meet this requirement?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "GRANT USAGE ON DATASHARE salesshare TO ACCOUNTS ‘’ AND ‘’;"
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "GRANT USAGE ON DATASHARE salesshare TO NAMESPACES ‘’ AND ‘’;"
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "GRANT USAGE ON DATASHARE salesshare TO ACCOUNT ‘’;GRANT USAGE ON DATASHARE salesshare TO ACCOUNT ‘’;"
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "GRANT USAGE ON DATASHARE salesshare TO NAMESPACE ‘’;GRANT USAGE ON DATASHARE salesshare TO NAMESPACE ‘’;"
+            }
+        ],
+        "resposta_sugerida_letra": "",
+        "num_answers_to_select": 1
+    },
+    {
+        "id_original_json": "299",
+        "url_original": "https://www.examtopics.com/discussions/amazon/view/401526-exam-aws-certified-data-engineer-associate-dea-c01-topic-1/",
+        "titulo_original": "Exam AWS Certified Data Engineer - Associate DEA-C01 topic 1 question 299 discussion",
+        "enunciado_html": "<p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tA company generates yearly financial statements for customers and stores the statements in an Amazon S3 bucket. Customers rarely access the documents after 1 week. The company must retain the statements for 7 years. The statements must remain readily accessible for customers.<br/><br/>Which solution will meet these requirements in the MOST cost-effective way?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>",
+        "opcoes": [
+            {
+                "letra_raw": "A.",
+                "letra": "A",
+                "texto": "Create an S3 Lifecycle rule to transition objects to S3 Glacier Deep Archive after 7 days. Expire the objects after 7 years."
+            },
+            {
+                "letra_raw": "B.",
+                "letra": "B",
+                "texto": "Set the S3 bucket to use S3 Intelligent-Tiering when new objects are uploaded. Set objects to expire after 7 years."
+            },
+            {
+                "letra_raw": "C.",
+                "letra": "C",
+                "texto": "Create an S3 Lifecycle rule to transition objects to S3 Glacier Instant Retrieval after 7 days. Expire the objects after 7 years."
+            },
+            {
+                "letra_raw": "D.",
+                "letra": "D",
+                "texto": "Set the S3 bucket to use S3 Glacier Instant Retrieval when new objects are uploaded. Create an AWS Lambda function that runs daily to delete any objects that are older than 7 years."
+            }
+        ],
+        "resposta_sugerida_letra": "C",
         "num_answers_to_select": 1
     }
 ]
