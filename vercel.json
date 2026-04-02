@@ -2,5 +2,5 @@
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ],
-  "outputDirectory": "frontend/studyhub-frontend/dist/studyhub-frontend"
+  "outputDirectory": "frontend/studyhub-frontend/dist/studyhub-frontend/browser"
 }
