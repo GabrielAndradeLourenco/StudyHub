@@ -2686,8 +2686,8 @@
                 "texto": "Create a materialized view in Amazon Redshift that combines live, current, and historical data from different sources."
             }
         ],
-        "resposta_sugerida_letra": "A",
-        "num_answers_to_select": 1
+        "resposta_sugerida_letra": "AC",
+        "num_answers_to_select": 2
     },
     {
         "id_original_json": "88",
@@ -5421,8 +5421,8 @@
                 "texto": "Add the KMS key as a resource that the QuickSight service role can access."
             }
         ],
-        "resposta_sugerida_letra": "E",
-        "num_answers_to_select": 1
+        "resposta_sugerida_letra": "BD",
+        "num_answers_to_select": 2
     },
     {
         "id_original_json": "177",
@@ -7766,8 +7766,8 @@
                 "texto": "Use Amazon Redshift Advisor to review and select optimizations to implement."
             }
         ],
-        "resposta_sugerida_letra": "D",
-        "num_answers_to_select": 1
+        "resposta_sugerida_letra": "BE",
+        "num_answers_to_select": 2
     },
     {
         "id_original_json": "261",
@@ -8011,7 +8011,7 @@
                 "texto": "Enable S3 Inventory. Run an AWS Lambda function each day to fetch an inventory report and move objects from S3 Standard to S3 Standard-Infrequent Access (S3 Standard-IA) after 60 days. Move objects to S3 Glacier Flexible Retrieval after 180 days. Expire objects after 365 days."
             }
         ],
-        "resposta_sugerida_letra": "A",
+        "resposta_sugerida_letra": "B",
         "num_answers_to_select": 1
     },
     {
