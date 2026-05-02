@@ -14,9 +14,9 @@ import os
 
 # --- CONFIGURAÇÕES ---
 USE_HEADLESS_BROWSER = True
-INPUT_FILE = "../data/questoes_base_generative_ai.json"
-OUTPUT_FILE = "../data/questoes_genai_processadas.json"
-PROGRESS_FILE = "../data/questoes_base_generative_ai_progress.txt"
+INPUT_FILE = "../data/questoes_base_cloudops.json"
+OUTPUT_FILE = "../data/questoes_cloudops_processadas.json"
+PROGRESS_FILE = "../data/questoes_base_cloudops_progress.txt"
 # --- FIM CONFIGURAÇÕES ---
 
 def setup_driver():

@@ -62,6 +62,10 @@ AVAILABLE_EXAMS = {
     'generative-ai-developer': {
         'name': 'AWS Certified Generative AI Developer - Professional AIP-C01',
         'file': 'Questões/exams/questoes_processadas/AWS Certified Generative AI Developer - Professional AIP-C01_questoes.json'
+    },
+    'cloudops-engineer': {
+        'name': 'AWS Certified CloudOps Engineer - Associate SOA-C03',
+        'file': 'Questões/exams/questoes_processadas/AWS Certified CloudOps Engineer - Associate SOA-C03_questoes.json'
     }
 }
 

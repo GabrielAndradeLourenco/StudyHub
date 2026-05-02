@@ -18,12 +18,13 @@ import os
 
 # --- CONFIGURAÇÕES ---
 BASE_URL = "https://www.examtopics.com/discussions/amazon/"
-OUTPUT_FILE = "questoes_base.json"
+OUTPUT_FILE = "data/questoes_base_cloudops.json"
 USE_HEADLESS = True
 MIN_DELAY = 1
 MAX_DELAY = 3
 START_PAGE = 1  # Página inicial
 MAX_PAGES = None  # None para todas as páginas, ou número específico para limitar
+EXAM_FILTER = "CloudOps Engineer"  # Filtrar por exame específico, None para coletar todos
 # --- FIM CONFIGURAÇÕES ---
 
 def setup_driver():
@@ -89,7 +90,11 @@ def scrape_page(driver, page_num):
                 link_element = discussion.find_element(By.CSS_SELECTOR, "a.discussion-link")
                 title = link_element.text.strip()
                 url = link_element.get_attribute("href")
-                
+
+                # Filtrar por exame se configurado
+                if EXAM_FILTER and EXAM_FILTER.lower() not in title.lower():
+                    continue
+
                 # Extrair IDs
                 question_id = extract_question_id_from_title(title)
                 exam_id = extract_exam_id_from_url(url)
@@ -123,11 +128,16 @@ def scrape_page(driver, page_num):
         print(f"❌ Erro ao acessar página {page_num}: {e}")
         return [], False
 
-def save_progress(questions, filename):
+def save_progress(questions, filename, current_page=None):
     """Salva o progresso em arquivo JSON"""
     try:
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(questions, f, indent=4, ensure_ascii=False)
+        # Salvar página atual separadamente
+        if current_page:
+            progress_file = filename.replace('.json', '_progress.txt')
+            with open(progress_file, 'w') as f:
+                f.write(str(current_page))
         print(f"💾 Progresso salvo: {len(questions)} questões em '{filename}'")
     except Exception as e:
         print(f"⚠️  Erro ao salvar progresso: {e}")
@@ -145,25 +155,36 @@ def main():
         return
     
     all_questions = []
-    
+    start_page = START_PAGE
+
     # Carregar progresso anterior se existir
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
                 all_questions = json.load(f)
             print(f"📂 Carregado arquivo existente com {len(all_questions)} questões")
-            
-            # Perguntar se quer continuar ou recomeçar
+
+            # Verificar página salva
+            progress_file = OUTPUT_FILE.replace('.json', '_progress.txt')
+            if os.path.exists(progress_file):
+                with open(progress_file, 'r') as f:
+                    saved_page = int(f.read().strip())
+                print(f"📌 Última página processada: {saved_page}")
+
             response = input("Deseja continuar de onde parou? (s/n): ").lower()
-            if response != 's':
+            if response == 's':
+                start_page = saved_page if os.path.exists(progress_file) else START_PAGE
+                print(f"▶️  Continuando da página {start_page}...")
+            else:
                 all_questions = []
+                start_page = START_PAGE
                 print("🔄 Recomeçando do zero...")
         except:
             print("⚠️  Erro ao carregar arquivo existente, começando do zero")
             all_questions = []
     
     try:
-        page = START_PAGE
+        page = start_page
         has_next = True
         
         while has_next:
@@ -176,9 +197,9 @@ def main():
             if questions:
                 all_questions.extend(questions)
                 print(f"📊 Total acumulado: {len(all_questions)} questões")
-                
-                # Salvar progresso a cada página
-                save_progress(all_questions, OUTPUT_FILE)
+            
+            # Salvar progresso a cada página (com número da página)
+            save_progress(all_questions, OUTPUT_FILE, page)
             
             if has_next:
                 page += 1
@@ -196,7 +217,7 @@ def main():
     except KeyboardInterrupt:
         print("\n\n⚠️  Interrompido pelo usuário")
         print(f"💾 Salvando progresso... {len(all_questions)} questões coletadas")
-        save_progress(all_questions, OUTPUT_FILE)
+        save_progress(all_questions, OUTPUT_FILE, page)
     
     except Exception as e:
         print(f"\n❌ Erro inesperado: {e}")
